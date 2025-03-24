@@ -19396,51 +19396,6 @@
                 "coordinates": [
                     [
                         [
-                            21.989532639243357,
-                            42.93418870655747
-                        ],
-                        [
-                            21.98982778956766,
-                            42.933492973688715
-                        ],
-                        [
-                            21.99065156290512,
-                            42.93367489662654
-                        ],
-                        [
-                            21.990271247459326,
-                            42.93440737780055
-                        ],
-                        [
-                            21.989532639243357,
-                            42.93418870655747
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "OBJECTID": 316,
-                "PODNOSILAC": "IGM Mladost doo, Leskovac",
-                "LEZISTE": "polje A - Guberevac",
-                "IZDATO": 2016,
-                "LIST": "578",
-                "SIROVINA": "opekarska glina",
-                "Zastitni_prostor": 100,
-                "Shape.STArea()": 5672,
-                "Shape.STLength()": 303.2626427974163,
-                "Opstina": "Leskovac",
-                "Ops_komentar": "Leskovac (100%)",
-                "nadleznost": "Ministarstvo rudarstva i energetike"
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 317,
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
                             21.990123488682215,
                             42.93053764448363
                         ],
@@ -19612,7 +19567,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 317,
+                "OBJECTID": 316,
                 "PODNOSILAC": "IGM Mladost doo, Leskovac",
                 "LEZISTE": "polje B - Mala Grabovnica",
                 "IZDATO": 2016,
@@ -19628,7 +19583,7 @@
         },
         {
             "type": "Feature",
-            "id": 318,
+            "id": 317,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -19705,7 +19660,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 318,
+                "OBJECTID": 317,
                 "PODNOSILAC": "GP-ZORAN-R doo, Donja Mutnica",
                 "LEZISTE": "Straža",
                 "IZDATO": 2020,
@@ -19721,7 +19676,7 @@
         },
         {
             "type": "Feature",
-            "id": 319,
+            "id": 318,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -19750,7 +19705,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 319,
+                "OBJECTID": 318,
                 "PODNOSILAC": "NIS ad, Novi Sad",
                 "LEZISTE": "Sm-4 naftno-gasnog polja Ostrovo",
                 "IZDATO": 2016,
@@ -19766,7 +19721,7 @@
         },
         {
             "type": "Feature",
-            "id": 320,
+            "id": 319,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -19895,7 +19850,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 320,
+                "OBJECTID": 319,
                 "PODNOSILAC": "Univerzum ciglana doo, Aranđelovac",
                 "LEZISTE": "Vaganac",
                 "IZDATO": 2016,
@@ -19911,7 +19866,7 @@
         },
         {
             "type": "Feature",
-            "id": 321,
+            "id": 320,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -19964,7 +19919,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 321,
+                "OBJECTID": 320,
                 "PODNOSILAC": "Astra SB doo, Surčin",
                 "LEZISTE": "Gajića Stena",
                 "IZDATO": 2016,
@@ -19980,7 +19935,7 @@
         },
         {
             "type": "Feature",
-            "id": 322,
+            "id": 321,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -20133,8 +20088,8 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 322,
-                "PODNOSILAC": "Stobex doo, Loznica",
+                "OBJECTID": 321,
+                "PODNOSILAC": "PZP Valjevo ad, Valjevo",
                 "LEZISTE": "Granovine I",
                 "IZDATO": 2016,
                 "LIST": "581",
@@ -20149,7 +20104,7 @@
         },
         {
             "type": "Feature",
-            "id": 323,
+            "id": 322,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -20186,7 +20141,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 323,
+                "OBJECTID": 322,
                 "PODNOSILAC": "Hram doo, Pirot",
                 "LEZISTE": "Jerma",
                 "IZDATO": 2012,
@@ -20202,7 +20157,7 @@
         },
         {
             "type": "Feature",
-            "id": 324,
+            "id": 323,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -20231,7 +20186,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 324,
+                "OBJECTID": 323,
                 "PODNOSILAC": "Metalfer doo, Sremska Mitrovica",
                 "LEZISTE": "Majdani",
                 "IZDATO": 2016,
@@ -20247,7 +20202,7 @@
         },
         {
             "type": "Feature",
-            "id": 325,
+            "id": 324,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -20308,7 +20263,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 325,
+                "OBJECTID": 324,
                 "PODNOSILAC": "5D doo, Vranje",
                 "LEZISTE": "Barice",
                 "IZDATO": 2017,
@@ -20324,7 +20279,7 @@
         },
         {
             "type": "Feature",
-            "id": 326,
+            "id": 325,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -20369,7 +20324,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 326,
+                "OBJECTID": 325,
                 "PODNOSILAC": "JP Elektroprivreda Srbije, Ogranak RB Kolubara",
                 "LEZISTE": "Zapadno polje",
                 "IZDATO": 1990,
@@ -20385,7 +20340,7 @@
         },
         {
             "type": "Feature",
-            "id": 327,
+            "id": 326,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -20414,7 +20369,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 327,
+                "OBJECTID": 326,
                 "PODNOSILAC": "Industrija građevinskog materijala \"Granit\", Slavkovica",
                 "LEZISTE": "Ljuta Stena",
                 "IZDATO": 1991,
@@ -20430,7 +20385,7 @@
         },
         {
             "type": "Feature",
-            "id": 328,
+            "id": 327,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -20459,7 +20414,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 328,
+                "OBJECTID": 327,
                 "PODNOSILAC": "Granit-Peščar, Ljig",
                 "LEZISTE": "Ljuta Stena",
                 "IZDATO": 1991,
@@ -20475,7 +20430,7 @@
         },
         {
             "type": "Feature",
-            "id": 329,
+            "id": 328,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -20508,7 +20463,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 329,
+                "OBJECTID": 328,
                 "PODNOSILAC": "Granit-Peščar, Ljig",
                 "LEZISTE": "Ljuta Stena",
                 "IZDATO": 1991,
@@ -20524,7 +20479,7 @@
         },
         {
             "type": "Feature",
-            "id": 330,
+            "id": 329,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -20593,7 +20548,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 330,
+                "OBJECTID": 329,
                 "PODNOSILAC": "Iva agrar doo, Lajkovac",
                 "LEZISTE": "Bajevac",
                 "IZDATO": 2016,
@@ -20609,7 +20564,7 @@
         },
         {
             "type": "Feature",
-            "id": 331,
+            "id": 330,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -20658,7 +20613,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 331,
+                "OBJECTID": 330,
                 "PODNOSILAC": "TRIBEX doo, Jazovnik",
                 "LEZISTE": "Jazovnik",
                 "IZDATO": 2017,
@@ -20674,7 +20629,7 @@
         },
         {
             "type": "Feature",
-            "id": 332,
+            "id": 331,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -20723,7 +20678,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 332,
+                "OBJECTID": 331,
                 "PODNOSILAC": "Autopromet doo, Aranđelovac",
                 "LEZISTE": "Vrhovi",
                 "IZDATO": 2017,
@@ -20739,7 +20694,7 @@
         },
         {
             "type": "Feature",
-            "id": 333,
+            "id": 332,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -20772,7 +20727,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 333,
+                "OBJECTID": 332,
                 "PODNOSILAC": "Međa doo, Zvečka, Obrenovac",
                 "LEZISTE": "Brgulice - III",
                 "IZDATO": 2017,
@@ -20788,7 +20743,7 @@
         },
         {
             "type": "Feature",
-            "id": 334,
+            "id": 333,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -20817,7 +20772,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 334,
+                "OBJECTID": 333,
                 "PODNOSILAC": "Međa doo, Zvečka, Obrenovac",
                 "LEZISTE": "Brgulice - I",
                 "IZDATO": 2017,
@@ -20833,7 +20788,7 @@
         },
         {
             "type": "Feature",
-            "id": 335,
+            "id": 334,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -20874,7 +20829,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 335,
+                "OBJECTID": 334,
                 "PODNOSILAC": "Međa doo, Zvečka, Obrenovac",
                 "LEZISTE": "Brgulice - II",
                 "IZDATO": 2017,
@@ -20890,7 +20845,7 @@
         },
         {
             "type": "Feature",
-            "id": 336,
+            "id": 335,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -21003,7 +20958,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 336,
+                "OBJECTID": 335,
                 "PODNOSILAC": "Kamiks doo, Priboj",
                 "LEZISTE": "Banjsko Brdo",
                 "IZDATO": 2017,
@@ -21019,7 +20974,7 @@
         },
         {
             "type": "Feature",
-            "id": 337,
+            "id": 336,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -21048,7 +21003,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 337,
+                "OBJECTID": 336,
                 "PODNOSILAC": "Kvarc doo, Mladenovac",
                 "LEZISTE": "Jelenkovac - Zaplanje",
                 "IZDATO": 2017,
@@ -21064,7 +21019,7 @@
         },
         {
             "type": "Feature",
-            "id": 338,
+            "id": 337,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -21133,7 +21088,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 338,
+                "OBJECTID": 337,
                 "PODNOSILAC": "Leon doo, Ub",
                 "LEZISTE": "Provalije I",
                 "IZDATO": 2017,
@@ -21149,7 +21104,7 @@
         },
         {
             "type": "Feature",
-            "id": 339,
+            "id": 338,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -21206,7 +21161,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 339,
+                "OBJECTID": 338,
                 "PODNOSILAC": "Leon doo, Ub",
                 "LEZISTE": "Gumnište",
                 "IZDATO": 2017,
@@ -21222,7 +21177,7 @@
         },
         {
             "type": "Feature",
-            "id": 340,
+            "id": 339,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -21291,7 +21246,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 340,
+                "OBJECTID": 339,
                 "PODNOSILAC": "Kameni agregati Pretoke doo, Novi Beograd",
                 "LEZISTE": "Čukara",
                 "IZDATO": 2018,
@@ -21307,7 +21262,7 @@
         },
         {
             "type": "Feature",
-            "id": 341,
+            "id": 340,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -21336,7 +21291,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 341,
+                "OBJECTID": 340,
                 "PODNOSILAC": "NIS ad, Novi Sad",
                 "LEZISTE": "Kasidol",
                 "IZDATO": 2016,
@@ -21352,7 +21307,7 @@
         },
         {
             "type": "Feature",
-            "id": 342,
+            "id": 341,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -21397,7 +21352,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 342,
+                "OBJECTID": 341,
                 "PODNOSILAC": "Keramika Holding doo, Beograd",
                 "LEZISTE": "Zbegovi",
                 "IZDATO": 2017,
@@ -21413,7 +21368,7 @@
         },
         {
             "type": "Feature",
-            "id": 343,
+            "id": 342,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -21482,7 +21437,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 343,
+                "OBJECTID": 342,
                 "PODNOSILAC": "KALISI MC - PLUS doo, Loznica",
                 "LEZISTE": "Dobrilovići",
                 "IZDATO": 2018,
@@ -21498,7 +21453,7 @@
         },
         {
             "type": "Feature",
-            "id": 344,
+            "id": 343,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -21543,7 +21498,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 344,
+                "OBJECTID": 343,
                 "PODNOSILAC": "Granit Bukovik doo, Aranđelovac",
                 "LEZISTE": "Šutica I",
                 "IZDATO": 2019,
@@ -21559,7 +21514,7 @@
         },
         {
             "type": "Feature",
-            "id": 345,
+            "id": 344,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -21652,7 +21607,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 345,
+                "OBJECTID": 344,
                 "PODNOSILAC": "TEKO MINING doo, Beograd",
                 "LEZISTE": "Straževica",
                 "IZDATO": 2018,
@@ -21668,7 +21623,7 @@
         },
         {
             "type": "Feature",
-            "id": 346,
+            "id": 345,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -21937,7 +21892,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 346,
+                "OBJECTID": 345,
                 "PODNOSILAC": "STRABAG DOO BEOGRAD- OGRANAK PZP ZAJEČAR",
                 "LEZISTE": "Rgotinski Krš",
                 "IZDATO": 2018,
@@ -21953,7 +21908,7 @@
         },
         {
             "type": "Feature",
-            "id": 347,
+            "id": 346,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -21982,7 +21937,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 347,
+                "OBJECTID": 346,
                 "PODNOSILAC": "NM KOP doo, Beograd",
                 "LEZISTE": "Jakovo",
                 "IZDATO": 2018,
@@ -21998,7 +21953,7 @@
         },
         {
             "type": "Feature",
-            "id": 348,
+            "id": 347,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -22051,7 +22006,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 348,
+                "OBJECTID": 347,
                 "PODNOSILAC": "KERAMIKA - HOLDING A.D. Beograd",
                 "LEZISTE": "Veliki Brezaci",
                 "IZDATO": 2018,
@@ -22067,7 +22022,7 @@
         },
         {
             "type": "Feature",
-            "id": 349,
+            "id": 348,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -22112,7 +22067,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 349,
+                "OBJECTID": 348,
                 "PODNOSILAC": "Mineral RS doo, Beograd",
                 "LEZISTE": "Sušica",
                 "IZDATO": 1998,
@@ -22128,7 +22083,7 @@
         },
         {
             "type": "Feature",
-            "id": 350,
+            "id": 349,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -22181,7 +22136,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 350,
+                "OBJECTID": 349,
                 "PODNOSILAC": "MG SERBIEN doo, Baljevac",
                 "LEZISTE": "Bela Stena",
                 "IZDATO": 1967,
@@ -22197,7 +22152,7 @@
         },
         {
             "type": "Feature",
-            "id": 351,
+            "id": 350,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -22250,7 +22205,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 351,
+                "OBJECTID": 350,
                 "PODNOSILAC": "Stranjanci doo, Živica",
                 "LEZISTE": "Zborište",
                 "IZDATO": 2018,
@@ -22266,7 +22221,7 @@
         },
         {
             "type": "Feature",
-            "id": 352,
+            "id": 351,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -22315,7 +22270,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 352,
+                "OBJECTID": 351,
                 "PODNOSILAC": "Mega Infrastructure doo, Beograd",
                 "LEZISTE": "Veliki Bašinac ",
                 "IZDATO": 2018,
@@ -22331,7 +22286,7 @@
         },
         {
             "type": "Feature",
-            "id": 353,
+            "id": 352,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -22448,7 +22403,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 353,
+                "OBJECTID": 352,
                 "PODNOSILAC": "SERBIA ZIJIN BOR COPPER DOO BOR",
                 "LEZISTE": "Veliki Krivelj",
                 "IZDATO": 2018,
@@ -22464,7 +22419,7 @@
         },
         {
             "type": "Feature",
-            "id": 354,
+            "id": 353,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -22501,7 +22456,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 354,
+                "OBJECTID": 353,
                 "PODNOSILAC": "NIS ad, Novi Sad",
                 "LEZISTE": "Bradarac - Maljurevac",
                 "IZDATO": 2018,
@@ -22517,7 +22472,7 @@
         },
         {
             "type": "Feature",
-            "id": 355,
+            "id": 354,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -22602,7 +22557,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 355,
+                "OBJECTID": 354,
                 "PODNOSILAC": "Stanković Granit doo, Mali Zvornik",
                 "LEZISTE": "Ravnaja - zapadni revir",
                 "IZDATO": 2019,
@@ -22618,7 +22573,7 @@
         },
         {
             "type": "Feature",
-            "id": 356,
+            "id": 355,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -22695,7 +22650,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 356,
+                "OBJECTID": 355,
                 "PODNOSILAC": "Stanković Granit doo, Mali Zvornik",
                 "LEZISTE": "Ravnaja - istočni revir",
                 "IZDATO": 2019,
@@ -22711,7 +22666,7 @@
         },
         {
             "type": "Feature",
-            "id": 357,
+            "id": 356,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -22780,7 +22735,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 357,
+                "OBJECTID": 356,
                 "PODNOSILAC": "Ciglana i trgovina Todorović, Pećinci",
                 "LEZISTE": "Todorović",
                 "IZDATO": 2018,
@@ -22796,7 +22751,7 @@
         },
         {
             "type": "Feature",
-            "id": 358,
+            "id": 357,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -22889,7 +22844,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 358,
+                "OBJECTID": 357,
                 "PODNOSILAC": "JP Elektroprivreda Srbije, Beograd",
                 "LEZISTE": "Drmno",
                 "IZDATO": 1990,
@@ -22905,7 +22860,7 @@
         },
         {
             "type": "Feature",
-            "id": 359,
+            "id": 358,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -22942,7 +22897,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 359,
+                "OBJECTID": 358,
                 "PODNOSILAC": "Autoprevozničko-građevinska radnja GORKOP, Brus",
                 "LEZISTE": "Čuka Radoševica",
                 "IZDATO": 2019,
@@ -22958,7 +22913,7 @@
         },
         {
             "type": "Feature",
-            "id": 360,
+            "id": 359,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -23067,7 +23022,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 360,
+                "OBJECTID": 359,
                 "PODNOSILAC": "Jugo-Kaolin doo, Beograd",
                 "LEZISTE": "Deo i Deo sever - Donja Bela reka",
                 "IZDATO": 2019,
@@ -23083,7 +23038,7 @@
         },
         {
             "type": "Feature",
-            "id": 361,
+            "id": 360,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -23136,7 +23091,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 361,
+                "OBJECTID": 360,
                 "PODNOSILAC": "Mineral RS doo, Beograd",
                 "LEZISTE": "Koritnik",
                 "IZDATO": 2019,
@@ -23152,7 +23107,7 @@
         },
         {
             "type": "Feature",
-            "id": 362,
+            "id": 361,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -23221,7 +23176,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 362,
+                "OBJECTID": 361,
                 "PODNOSILAC": "Geocement doo, Novi Sad",
                 "LEZISTE": "Babića Majdan",
                 "IZDATO": 2019,
@@ -23237,7 +23192,7 @@
         },
         {
             "type": "Feature",
-            "id": 363,
+            "id": 362,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -23322,7 +23277,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 363,
+                "OBJECTID": 362,
                 "PODNOSILAC": "Rudnik olova i cinka Grot ad, Kriva Feja",
                 "LEZISTE": "Blagodat",
                 "IZDATO": 2019,
@@ -23338,7 +23293,7 @@
         },
         {
             "type": "Feature",
-            "id": 364,
+            "id": 363,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -23371,7 +23326,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 364,
+                "OBJECTID": 363,
                 "PODNOSILAC": "Drumovi A&D doo, Pirot",
                 "LEZISTE": "Korito",
                 "IZDATO": 2019,
@@ -23387,7 +23342,7 @@
         },
         {
             "type": "Feature",
-            "id": 365,
+            "id": 364,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -23420,7 +23375,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 365,
+                "OBJECTID": 364,
                 "PODNOSILAC": "Blizanci doo, Velesnica",
                 "LEZISTE": "Butorke",
                 "IZDATO": 2019,
@@ -23436,7 +23391,7 @@
         },
         {
             "type": "Feature",
-            "id": 366,
+            "id": 365,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -23493,7 +23448,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 366,
+                "OBJECTID": 365,
                 "PODNOSILAC": "Trijas doo, Valjevo",
                 "LEZISTE": "Lisina",
                 "IZDATO": 2020,
@@ -23509,52 +23464,7 @@
         },
         {
             "type": "Feature",
-            "id": 367,
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            22.078316995017786,
-                            42.96695634783891
-                        ],
-                        [
-                            22.078061744226755,
-                            42.95233902930785
-                        ],
-                        [
-                            22.089089684293434,
-                            42.952234628124494
-                        ],
-                        [
-                            22.08932911989136,
-                            42.96580780448475
-                        ],
-                        [
-                            22.078316995017786,
-                            42.96695634783891
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "OBJECTID": 367,
-                "PODNOSILAC": "IGM Mladost doo, Leskovac",
-                "LEZISTE": "Batulovce",
-                "IZDATO": 2009,
-                "LIST": "521",
-                "SIROVINA": "opekarska glina",
-                "Zastitni_prostor": 0,
-                "Shape.STArea()": 1409400,
-                "Shape.STLength()": 4939.44476415923,
-                "Opstina": "Vlasotince",
-                "Ops_komentar": "Vlasotince (100%)",
-                "nadleznost": "Ministarstvo rudarstva i energetike"
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 368,
+            "id": 366,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -23583,7 +23493,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 368,
+                "OBJECTID": 366,
                 "PODNOSILAC": "IGM Mladost doo, Leskovac",
                 "LEZISTE": "Resinac - Belogoš revir 3",
                 "IZDATO": 2019,
@@ -23599,7 +23509,7 @@
         },
         {
             "type": "Feature",
-            "id": 369,
+            "id": 367,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -23644,7 +23554,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 369,
+                "OBJECTID": 367,
                 "PODNOSILAC": "IGM Mladost doo, Leskovac",
                 "LEZISTE": "Resinac - Belogoš revir 1",
                 "IZDATO": 2019,
@@ -23660,7 +23570,7 @@
         },
         {
             "type": "Feature",
-            "id": 370,
+            "id": 368,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -23705,7 +23615,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 370,
+                "OBJECTID": 368,
                 "PODNOSILAC": "IGM Mladost doo, Leskovac",
                 "LEZISTE": "Resinac - Belogoš revir 2",
                 "IZDATO": 2019,
@@ -23721,7 +23631,7 @@
         },
         {
             "type": "Feature",
-            "id": 371,
+            "id": 369,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -23866,7 +23776,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 371,
+                "OBJECTID": 369,
                 "PODNOSILAC": "Tehnogradnja doo, Kruševac",
                 "LEZISTE": "Čukara",
                 "IZDATO": 2019,
@@ -23882,7 +23792,7 @@
         },
         {
             "type": "Feature",
-            "id": 372,
+            "id": 370,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -23939,7 +23849,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 372,
+                "OBJECTID": 370,
                 "PODNOSILAC": "Marbles doo, Blace",
                 "LEZISTE": "Pašin kamen",
                 "IZDATO": 2019,
@@ -23955,7 +23865,7 @@
         },
         {
             "type": "Feature",
-            "id": 373,
+            "id": 371,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -24116,7 +24026,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 373,
+                "OBJECTID": 371,
                 "PODNOSILAC": "Stone Cop doo, Valjevo",
                 "LEZISTE": "Krstivojevića Majdan",
                 "IZDATO": 2019,
@@ -24132,7 +24042,7 @@
         },
         {
             "type": "Feature",
-            "id": 374,
+            "id": 372,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -24173,7 +24083,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 374,
+                "OBJECTID": 372,
                 "PODNOSILAC": "SPZR Verado, Rasna",
                 "LEZISTE": "Trnjaci",
                 "IZDATO": 2020,
@@ -24189,7 +24099,7 @@
         },
         {
             "type": "Feature",
-            "id": 375,
+            "id": 373,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -24218,7 +24128,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 375,
+                "OBJECTID": 373,
                 "PODNOSILAC": "ZORKA-OPEKA doo, Šabac",
                 "LEZISTE": "Jovanovića Brdo",
                 "IZDATO": 2019,
@@ -24234,7 +24144,7 @@
         },
         {
             "type": "Feature",
-            "id": 376,
+            "id": 374,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -24579,7 +24489,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 376,
+                "OBJECTID": 374,
                 "PODNOSILAC": "PMP Consulting doo, Beograd",
                 "LEZISTE": "Solilo",
                 "IZDATO": 2020,
@@ -24595,7 +24505,7 @@
         },
         {
             "type": "Feature",
-            "id": 377,
+            "id": 375,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -24648,7 +24558,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 377,
+                "OBJECTID": 375,
                 "PODNOSILAC": "PRFL AGREGATI doo, Branešci",
                 "LEZISTE": "Alin Potok",
                 "IZDATO": 2020,
@@ -24664,7 +24574,7 @@
         },
         {
             "type": "Feature",
-            "id": 378,
+            "id": 376,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -24753,7 +24663,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 378,
+                "OBJECTID": 376,
                 "PODNOSILAC": "SERBIA ZIJIN MINING doo, Bor",
                 "LEZISTE": "Čukaru Peki",
                 "IZDATO": 2020,
@@ -24769,7 +24679,7 @@
         },
         {
             "type": "Feature",
-            "id": 379,
+            "id": 377,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -24830,7 +24740,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 379,
+                "OBJECTID": 377,
                 "PODNOSILAC": "Rudnik olova i cinka Veliki Majdan doo, Ljubovija",
                 "LEZISTE": "Veliki Majdan",
                 "IZDATO": 1969,
@@ -24846,7 +24756,7 @@
         },
         {
             "type": "Feature",
-            "id": 380,
+            "id": 378,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -24923,7 +24833,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 380,
+                "OBJECTID": 378,
                 "PODNOSILAC": "Trans-Kop doo, Čajetina",
                 "LEZISTE": "Koturača",
                 "IZDATO": 2020,
@@ -24939,7 +24849,7 @@
         },
         {
             "type": "Feature",
-            "id": 381,
+            "id": 379,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -24992,7 +24902,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 381,
+                "OBJECTID": 379,
                 "PODNOSILAC": "KAMEN VISOKA doo, Majdan",
                 "LEZISTE": "Visoka",
                 "IZDATO": 2020,
@@ -25008,7 +24918,7 @@
         },
         {
             "type": "Feature",
-            "id": 382,
+            "id": 380,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -25089,7 +24999,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 382,
+                "OBJECTID": 380,
                 "PODNOSILAC": "Maasai Stone doo, Majur",
                 "LEZISTE": "Metković - zapadni revir - poligon 1",
                 "IZDATO": 2020,
@@ -25105,7 +25015,7 @@
         },
         {
             "type": "Feature",
-            "id": 383,
+            "id": 381,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -25158,7 +25068,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 383,
+                "OBJECTID": 381,
                 "PODNOSILAC": "Maasai Stone doo, Majur",
                 "LEZISTE": "Metković - istočni revir - poligon 2",
                 "IZDATO": 2020,
@@ -25174,7 +25084,7 @@
         },
         {
             "type": "Feature",
-            "id": 384,
+            "id": 382,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -25211,7 +25121,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 384,
+                "OBJECTID": 382,
                 "PODNOSILAC": "Maasai Stone doo, Majur",
                 "LEZISTE": "Metković - spoljašnje odagalište - poligon 3",
                 "IZDATO": 2020,
@@ -25227,7 +25137,7 @@
         },
         {
             "type": "Feature",
-            "id": 385,
+            "id": 383,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -25276,7 +25186,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 385,
+                "OBJECTID": 383,
                 "PODNOSILAC": "Vodogradnja doo, Pukovac",
                 "LEZISTE": "Vodice",
                 "IZDATO": 2020,
@@ -25292,7 +25202,7 @@
         },
         {
             "type": "Feature",
-            "id": 386,
+            "id": 384,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -25377,7 +25287,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 386,
+                "OBJECTID": 384,
                 "PODNOSILAC": "Kamen i pesak doo, Beograd",
                 "LEZISTE": "Brdanjak",
                 "IZDATO": 2021,
@@ -25393,7 +25303,7 @@
         },
         {
             "type": "Feature",
-            "id": 387,
+            "id": 385,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -25438,7 +25348,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 387,
+                "OBJECTID": 385,
                 "PODNOSILAC": "KAMENOLOM GLAVICA doo, Beograd",
                 "LEZISTE": "Glavica-Bojinovići",
                 "IZDATO": 2020,
@@ -25454,7 +25364,7 @@
         },
         {
             "type": "Feature",
-            "id": 388,
+            "id": 386,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -25495,7 +25405,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 388,
+                "OBJECTID": 386,
                 "PODNOSILAC": "TEKOMINING DOO Beograd",
                 "LEZISTE": "Ladne Vode ",
                 "IZDATO": 2020,
@@ -25511,7 +25421,7 @@
         },
         {
             "type": "Feature",
-            "id": 389,
+            "id": 387,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -25548,7 +25458,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 389,
+                "OBJECTID": 387,
                 "PODNOSILAC": "Tasyapi doo, Beograd",
                 "LEZISTE": "Ruđa",
                 "IZDATO": 2020,
@@ -25564,7 +25474,7 @@
         },
         {
             "type": "Feature",
-            "id": 390,
+            "id": 388,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -25613,7 +25523,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 390,
+                "OBJECTID": 388,
                 "PODNOSILAC": "IGM Mladost doo, Leskovac",
                 "LEZISTE": "Selište",
                 "IZDATO": 2020,
@@ -25629,7 +25539,7 @@
         },
         {
             "type": "Feature",
-            "id": 391,
+            "id": 389,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -25706,7 +25616,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 391,
+                "OBJECTID": 389,
                 "PODNOSILAC": "Transkop export-import doo, Paraćin",
                 "LEZISTE": "Krajnji Rid",
                 "IZDATO": 2021,
@@ -25722,7 +25632,7 @@
         },
         {
             "type": "Feature",
-            "id": 392,
+            "id": 390,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -25783,7 +25693,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 392,
+                "OBJECTID": 390,
                 "PODNOSILAC": "Trijas doo, Sremska Mitrovica",
                 "LEZISTE": "Drenovački kik",
                 "IZDATO": 2021,
@@ -25799,7 +25709,7 @@
         },
         {
             "type": "Feature",
-            "id": 393,
+            "id": 391,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -25828,7 +25738,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 393,
+                "OBJECTID": 391,
                 "PODNOSILAC": "Kruševacput AD, Kruševac",
                 "LEZISTE": "Lešje",
                 "IZDATO": 2020,
@@ -25844,7 +25754,7 @@
         },
         {
             "type": "Feature",
-            "id": 394,
+            "id": 392,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -25905,7 +25815,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 394,
+                "OBJECTID": 392,
                 "PODNOSILAC": "Jugo-Kaolin doo, Beograd",
                 "LEZISTE": "Boj Brdo - Dokmir",
                 "IZDATO": 2021,
@@ -25921,7 +25831,7 @@
         },
         {
             "type": "Feature",
-            "id": 395,
+            "id": 393,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -25970,7 +25880,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 395,
+                "OBJECTID": 393,
                 "PODNOSILAC": "Bosil-Metal doo",
                 "LEZISTE": "Podvirovi",
                 "IZDATO": 2022,
@@ -25986,7 +25896,7 @@
         },
         {
             "type": "Feature",
-            "id": 396,
+            "id": 394,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -26035,7 +25945,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 396,
+                "OBJECTID": 394,
                 "PODNOSILAC": "Unimer doo, Kruševac",
                 "LEZISTE": "Goleš",
                 "IZDATO": 2021,
@@ -26051,7 +25961,7 @@
         },
         {
             "type": "Feature",
-            "id": 397,
+            "id": 395,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -26168,7 +26078,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 397,
+                "OBJECTID": 395,
                 "PODNOSILAC": "GANGYUAN CO. DOO SMEDEREVO",
                 "LEZISTE": "Kaona",
                 "IZDATO": 2021,
@@ -26184,7 +26094,7 @@
         },
         {
             "type": "Feature",
-            "id": 398,
+            "id": 396,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -26241,7 +26151,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 398,
+                "OBJECTID": 396,
                 "PODNOSILAC": "PZP Kragujevac doo, Kragujevac",
                 "LEZISTE": "Komarice",
                 "IZDATO": 2021,
@@ -26257,7 +26167,7 @@
         },
         {
             "type": "Feature",
-            "id": 399,
+            "id": 397,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -26298,7 +26208,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 399,
+                "OBJECTID": 397,
                 "PODNOSILAC": "SERBIA ZIJIN BOR COPPER DOO BOR",
                 "LEZISTE": "Mali Krivelj",
                 "IZDATO": 1960,
@@ -26314,7 +26224,7 @@
         },
         {
             "type": "Feature",
-            "id": 400,
+            "id": 398,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -26375,7 +26285,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 400,
+                "OBJECTID": 398,
                 "PODNOSILAC": "Vasilijević doo, Kadina Luka",
                 "LEZISTE": "Crveno Vrelo",
                 "IZDATO": 2022,
@@ -26391,7 +26301,7 @@
         },
         {
             "type": "Feature",
-            "id": 401,
+            "id": 399,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -26428,7 +26338,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 401,
+                "OBJECTID": 399,
                 "PODNOSILAC": "IGM Mladost doo, Leskovac",
                 "LEZISTE": "Lučina-sever",
                 "IZDATO": 2021,
@@ -26444,7 +26354,7 @@
         },
         {
             "type": "Feature",
-            "id": 402,
+            "id": 400,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -26501,7 +26411,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 402,
+                "OBJECTID": 400,
                 "PODNOSILAC": "IGM Mladost doo, Leskovac",
                 "LEZISTE": "Lučina-jug",
                 "IZDATO": 2021,
@@ -26517,7 +26427,7 @@
         },
         {
             "type": "Feature",
-            "id": 403,
+            "id": 401,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -26566,7 +26476,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 403,
+                "OBJECTID": 401,
                 "PODNOSILAC": "Granodiorit - Krup doo, Novi Sad",
                 "LEZISTE": "Gradac",
                 "IZDATO": 2022,
@@ -26582,7 +26492,7 @@
         },
         {
             "type": "Feature",
-            "id": 404,
+            "id": 402,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -26655,7 +26565,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 404,
+                "OBJECTID": 402,
                 "PODNOSILAC": "Gift Line doo , Kraljevo",
                 "LEZISTE": "Kamenica",
                 "IZDATO": 2021,
@@ -26671,7 +26581,7 @@
         },
         {
             "type": "Feature",
-            "id": 405,
+            "id": 403,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -26720,7 +26630,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 405,
+                "OBJECTID": 403,
                 "PODNOSILAC": "C&LC Kameni agregati doo, Valjevo",
                 "LEZISTE": "Kamalj",
                 "IZDATO": 2022,
@@ -26736,7 +26646,7 @@
         },
         {
             "type": "Feature",
-            "id": 406,
+            "id": 404,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -26789,7 +26699,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 406,
+                "OBJECTID": 404,
                 "PODNOSILAC": "Mališa Janković PR Izgradnja puteva  TRANS KOP Požarevac",
                 "LEZISTE": "Livada",
                 "IZDATO": 2023,
@@ -26805,7 +26715,7 @@
         },
         {
             "type": "Feature",
-            "id": 407,
+            "id": 405,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -26882,7 +26792,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 407,
+                "OBJECTID": 405,
                 "PODNOSILAC": "SZUT Kamenorezačka radnja Domazet, Brežđe",
                 "LEZISTE": "Domazet",
                 "IZDATO": 2022,
@@ -26898,7 +26808,7 @@
         },
         {
             "type": "Feature",
-            "id": 408,
+            "id": 406,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -26927,7 +26837,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 408,
+                "OBJECTID": 406,
                 "PODNOSILAC": "Karamela Kop, Baljevac",
                 "LEZISTE": "Voznik-Rudno",
                 "IZDATO": 2021,
@@ -26943,7 +26853,7 @@
         },
         {
             "type": "Feature",
-            "id": 409,
+            "id": 407,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -26972,7 +26882,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 409,
+                "OBJECTID": 407,
                 "PODNOSILAC": "PAVLOVIĆ KD PAVLOVIĆ GORAN RAŠKA ",
                 "LEZISTE": "Voznik-Jokovska vratnica",
                 "IZDATO": 2022,
@@ -26988,7 +26898,7 @@
         },
         {
             "type": "Feature",
-            "id": 410,
+            "id": 408,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -27089,7 +26999,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 410,
+                "OBJECTID": 408,
                 "PODNOSILAC": "Lumons doo, Čačak",
                 "LEZISTE": "Milojevića Brdo",
                 "IZDATO": 2022,
@@ -27105,7 +27015,7 @@
         },
         {
             "type": "Feature",
-            "id": 411,
+            "id": 409,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -27202,7 +27112,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 411,
+                "OBJECTID": 409,
                 "PODNOSILAC": "Metalplast - Pavlović doo, Blace",
                 "LEZISTE": "Popova",
                 "IZDATO": 2022,
@@ -27218,7 +27128,7 @@
         },
         {
             "type": "Feature",
-            "id": 412,
+            "id": 410,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -27335,7 +27245,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 412,
+                "OBJECTID": 410,
                 "PODNOSILAC": "DOLOMIT MK-S&M doo, Prokuplje",
                 "LEZISTE": "Markovo gumno-Berilje",
                 "IZDATO": 2023,
@@ -27351,7 +27261,7 @@
         },
         {
             "type": "Feature",
-            "id": 413,
+            "id": 411,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -27420,7 +27330,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 413,
+                "OBJECTID": 411,
                 "PODNOSILAC": "MD Kojić doo, Ljig",
                 "LEZISTE": "Rid - Štavica",
                 "IZDATO": 2022,
@@ -27436,7 +27346,7 @@
         },
         {
             "type": "Feature",
-            "id": 414,
+            "id": 412,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -27485,7 +27395,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 414,
+                "OBJECTID": 412,
                 "PODNOSILAC": "Niskogradnja - Ub doo, Ub",
                 "LEZISTE": "Tolićki vis",
                 "IZDATO": 2022,
@@ -27501,7 +27411,7 @@
         },
         {
             "type": "Feature",
-            "id": 415,
+            "id": 413,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -27530,7 +27440,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 415,
+                "OBJECTID": 413,
                 "PODNOSILAC": "Unimer doo, Kruševac",
                 "LEZISTE": "Duboki Potok zapad",
                 "IZDATO": 2022,
@@ -27546,7 +27456,7 @@
         },
         {
             "type": "Feature",
-            "id": 416,
+            "id": 414,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -27591,7 +27501,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 416,
+                "OBJECTID": 414,
                 "PODNOSILAC": "Unimer doo, Kruševac",
                 "LEZISTE": "Duboki Potok sever",
                 "IZDATO": 2022,
@@ -27607,7 +27517,7 @@
         },
         {
             "type": "Feature",
-            "id": 417,
+            "id": 415,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -27656,7 +27566,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 417,
+                "OBJECTID": 415,
                 "PODNOSILAC": "Unimer doo, Kruševac",
                 "LEZISTE": "Duboki Potok jug",
                 "IZDATO": 2022,
@@ -27672,7 +27582,7 @@
         },
         {
             "type": "Feature",
-            "id": 418,
+            "id": 416,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -27765,7 +27675,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 418,
+                "OBJECTID": 416,
                 "PODNOSILAC": "Eksplokam doo, Blace",
                 "LEZISTE": "Varnica",
                 "IZDATO": 2022,
@@ -27781,7 +27691,7 @@
         },
         {
             "type": "Feature",
-            "id": 419,
+            "id": 417,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -27878,7 +27788,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 419,
+                "OBJECTID": 417,
                 "PODNOSILAC": "Pajić Comerc doo, Stalać",
                 "LEZISTE": "Poljana",
                 "IZDATO": 2022,
@@ -27894,7 +27804,7 @@
         },
         {
             "type": "Feature",
-            "id": 420,
+            "id": 418,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -28035,7 +27945,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 420,
+                "OBJECTID": 418,
                 "PODNOSILAC": "Gramar niskogradnja doo, Aranđelovac",
                 "LEZISTE": "Vis",
                 "IZDATO": 2022,
@@ -28051,7 +27961,7 @@
         },
         {
             "type": "Feature",
-            "id": 421,
+            "id": 419,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -28208,7 +28118,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 421,
+                "OBJECTID": 419,
                 "PODNOSILAC": "Profi Asfalt doo, Kruševac",
                 "LEZISTE": "Zrnce",
                 "IZDATO": 2022,
@@ -28224,7 +28134,7 @@
         },
         {
             "type": "Feature",
-            "id": 422,
+            "id": 420,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -28253,7 +28163,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 422,
+                "OBJECTID": 420,
                 "PODNOSILAC": "Megalit-Šumnik ad, Raška",
                 "LEZISTE": "Velika Bisina",
                 "IZDATO": 1978,
@@ -28269,7 +28179,7 @@
         },
         {
             "type": "Feature",
-            "id": 423,
+            "id": 421,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -28330,7 +28240,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 423,
+                "OBJECTID": 421,
                 "PODNOSILAC": "SZR Tasić-Kop, Prokuplje",
                 "LEZISTE": "Grabak",
                 "IZDATO": 2022,
@@ -28346,7 +28256,7 @@
         },
         {
             "type": "Feature",
-            "id": 424,
+            "id": 422,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -28447,7 +28357,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 424,
+                "OBJECTID": 422,
                 "PODNOSILAC": "SZR I AUTOPREVOZNIK ŽELJKO ĐURIĆ",
                 "LEZISTE": "Branešci",
                 "IZDATO": 2022,
@@ -28463,7 +28373,7 @@
         },
         {
             "type": "Feature",
-            "id": 425,
+            "id": 423,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -28492,7 +28402,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 425,
+                "OBJECTID": 423,
                 "PODNOSILAC": "Rudnici i železara Smederevo",
                 "LEZISTE": "Suvo Rudište",
                 "IZDATO": 1970,
@@ -28508,7 +28418,7 @@
         },
         {
             "type": "Feature",
-            "id": 426,
+            "id": 424,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -28565,7 +28475,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 426,
+                "OBJECTID": 424,
                 "PODNOSILAC": "Javno preduzeće Elektroprivreda Srbije",
                 "LEZISTE": "polje A",
                 "IZDATO": 1979,
@@ -28581,7 +28491,7 @@
         },
         {
             "type": "Feature",
-            "id": 427,
+            "id": 425,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -28634,7 +28544,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 427,
+                "OBJECTID": 425,
                 "PODNOSILAC": "Bora i Goran doo, Mala Krsna",
                 "LEZISTE": "Trebežina",
                 "IZDATO": 2023,
@@ -28650,7 +28560,7 @@
         },
         {
             "type": "Feature",
-            "id": 428,
+            "id": 426,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -28883,7 +28793,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 428,
+                "OBJECTID": 426,
                 "PODNOSILAC": "KONCERN FARMAKOM M.B. ŠABAC-RUDNIK LECE DOO ŠABAC - U STEČAJU ",
                 "LEZISTE": "Lece",
                 "IZDATO": 2022,
@@ -28899,7 +28809,7 @@
         },
         {
             "type": "Feature",
-            "id": 429,
+            "id": 427,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -28936,7 +28846,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 429,
+                "OBJECTID": 427,
                 "PODNOSILAC": "InterCer doo, Beograd",
                 "LEZISTE": "Tolića Kosa",
                 "IZDATO": 2023,
@@ -28952,7 +28862,7 @@
         },
         {
             "type": "Feature",
-            "id": 430,
+            "id": 428,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -29001,7 +28911,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 430,
+                "OBJECTID": 428,
                 "PODNOSILAC": "Rapatna doo, Despotovac",
                 "LEZISTE": "Rapatna",
                 "IZDATO": 2024,
@@ -29017,7 +28927,7 @@
         },
         {
             "type": "Feature",
-            "id": 431,
+            "id": 429,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -29074,7 +28984,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 431,
+                "OBJECTID": 429,
                 "PODNOSILAC": "Zajača Ing doo, Loznica",
                 "LEZISTE": "Čot",
                 "IZDATO": 2023,
@@ -29090,7 +29000,7 @@
         },
         {
             "type": "Feature",
-            "id": 432,
+            "id": 430,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -29199,7 +29109,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 432,
+                "OBJECTID": 430,
                 "PODNOSILAC": "Mis Jovanović doo, Aranđelovac",
                 "LEZISTE": "Jovanovića Zabran 2",
                 "IZDATO": 2022,
@@ -29215,7 +29125,7 @@
         },
         {
             "type": "Feature",
-            "id": 433,
+            "id": 431,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -29292,7 +29202,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 433,
+                "OBJECTID": 431,
                 "PODNOSILAC": "Metalfer Kamenolomi doo, Sremska Mitrovica",
                 "LEZISTE": "Mrčići i Tavani Markovići",
                 "IZDATO": 2023,
@@ -29308,7 +29218,7 @@
         },
         {
             "type": "Feature",
-            "id": 434,
+            "id": 432,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -29441,7 +29351,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 434,
+                "OBJECTID": 432,
                 "PODNOSILAC": "Putevi doo, Ivanjica",
                 "LEZISTE": "Kapura",
                 "IZDATO": 2021,
@@ -29457,7 +29367,7 @@
         },
         {
             "type": "Feature",
-            "id": 435,
+            "id": 433,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -29518,7 +29428,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 435,
+                "OBJECTID": 433,
                 "PODNOSILAC": "Cancar Kop doo, Aranđelovac",
                 "LEZISTE": "Cancar",
                 "IZDATO": 2024,
@@ -29534,7 +29444,7 @@
         },
         {
             "type": "Feature",
-            "id": 436,
+            "id": 434,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -29667,7 +29577,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 436,
+                "OBJECTID": 434,
                 "PODNOSILAC": "Nevena Color doo, Leskovac",
                 "LEZISTE": "Berilje",
                 "IZDATO": 2023,
@@ -29683,7 +29593,7 @@
         },
         {
             "type": "Feature",
-            "id": 437,
+            "id": 435,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -29724,7 +29634,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 437,
+                "OBJECTID": 435,
                 "PODNOSILAC": "Jugo-Kaolin doo, Beograd",
                 "LEZISTE": "Avala-Pambukovaca",
                 "IZDATO": 2023,
@@ -29740,7 +29650,7 @@
         },
         {
             "type": "Feature",
-            "id": 438,
+            "id": 436,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -29797,7 +29707,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 438,
+                "OBJECTID": 436,
                 "PODNOSILAC": "GM DAREX TRANS doo, Gornji Milanovac",
                 "LEZISTE": "Ridžinac",
                 "IZDATO": 2024,
@@ -29813,7 +29723,7 @@
         },
         {
             "type": "Feature",
-            "id": 439,
+            "id": 437,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -29878,7 +29788,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 439,
+                "OBJECTID": 437,
                 "PODNOSILAC": "Stanković Granit doo, Mali Zvornik",
                 "LEZISTE": "Peckovo brdo",
                 "IZDATO": 2023,
@@ -29894,7 +29804,7 @@
         },
         {
             "type": "Feature",
-            "id": 440,
+            "id": 438,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -29971,7 +29881,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 440,
+                "OBJECTID": 438,
                 "PODNOSILAC": "Mine Invest doo, Aranđelovac",
                 "LEZISTE": "Crne rovine",
                 "IZDATO": 2023,
@@ -29987,7 +29897,7 @@
         },
         {
             "type": "Feature",
-            "id": 441,
+            "id": 439,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -30044,7 +29954,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 441,
+                "OBJECTID": 439,
                 "PODNOSILAC": "Jugo-Kaolin doo, Beograd",
                 "LEZISTE": "Čučuge",
                 "IZDATO": 1973,
@@ -30060,7 +29970,7 @@
         },
         {
             "type": "Feature",
-            "id": 442,
+            "id": 440,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -30121,7 +30031,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 442,
+                "OBJECTID": 440,
                 "PODNOSILAC": "PR GKR Mermer-Granit Galović, Čačak",
                 "LEZISTE": "Bukovik",
                 "IZDATO": null,
@@ -30137,7 +30047,7 @@
         },
         {
             "type": "Feature",
-            "id": 443,
+            "id": 441,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -30238,7 +30148,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 443,
+                "OBJECTID": 441,
                 "PODNOSILAC": "Gradina Kamenolom doo, Beograd",
                 "LEZISTE": "Gradina",
                 "IZDATO": 2023,
@@ -30254,7 +30164,7 @@
         },
         {
             "type": "Feature",
-            "id": 444,
+            "id": 442,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -30299,7 +30209,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 444,
+                "OBJECTID": 442,
                 "PODNOSILAC": "Mermer Tim doo, Aranđelovac",
                 "LEZISTE": "Vinogradi",
                 "IZDATO": 2023,
@@ -30315,7 +30225,7 @@
         },
         {
             "type": "Feature",
-            "id": 445,
+            "id": 443,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -30344,10 +30254,10 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 445,
+                "OBJECTID": 443,
                 "PODNOSILAC": "IGM Mladost doo, Leskovac",
                 "LEZISTE": "Batulovce",
-                "IZDATO": null,
+                "IZDATO": 2024,
                 "LIST": "521",
                 "SIROVINA": "opekarska glina",
                 "Zastitni_prostor": 0,
@@ -30360,7 +30270,7 @@
         },
         {
             "type": "Feature",
-            "id": 446,
+            "id": 444,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -30433,7 +30343,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 446,
+                "OBJECTID": 444,
                 "PODNOSILAC": "IGM Mladost doo, Leskovac",
                 "LEZISTE": "Kaštavar",
                 "IZDATO": 2023,
@@ -30449,7 +30359,7 @@
         },
         {
             "type": "Feature",
-            "id": 447,
+            "id": 445,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -30502,7 +30412,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 447,
+                "OBJECTID": 445,
                 "PODNOSILAC": "Bike Food doo, Beograd",
                 "LEZISTE": "Bojovića krš",
                 "IZDATO": 2023,
@@ -30518,7 +30428,144 @@
         },
         {
             "type": "Feature",
-            "id": 448,
+            "id": 446,
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            22.325146131558498,
+                            44.32450124316606
+                        ],
+                        [
+                            22.32471186684465,
+                            44.3241462734144
+                        ],
+                        [
+                            22.32504218609024,
+                            44.32378243393817
+                        ],
+                        [
+                            22.32459741839349,
+                            44.323517587474186
+                        ],
+                        [
+                            22.324547261879996,
+                            44.322960157280946
+                        ],
+                        [
+                            22.32401960818514,
+                            44.322354262433805
+                        ],
+                        [
+                            22.324495669428835,
+                            44.32178173030762
+                        ],
+                        [
+                            22.327767811738678,
+                            44.32233774890619
+                        ],
+                        [
+                            22.328034877855206,
+                            44.322505647415916
+                        ],
+                        [
+                            22.32861732208869,
+                            44.32275987880272
+                        ],
+                        [
+                            22.32887951693079,
+                            44.32271182737993
+                        ],
+                        [
+                            22.32948053079089,
+                            44.32267783213708
+                        ],
+                        [
+                            22.330133582511806,
+                            44.32328224130172
+                        ],
+                        [
+                            22.32982057836968,
+                            44.324410910075656
+                        ],
+                        [
+                            22.329042709423042,
+                            44.32494197570602
+                        ],
+                        [
+                            22.329056462873442,
+                            44.32499581679054
+                        ],
+                        [
+                            22.329562307218936,
+                            44.325187933285385
+                        ],
+                        [
+                            22.329385470393003,
+                            44.32568500213864
+                        ],
+                        [
+                            22.32885577244556,
+                            44.32554716355292
+                        ],
+                        [
+                            22.32831740108551,
+                            44.325580426956975
+                        ],
+                        [
+                            22.327197168537044,
+                            44.32538644608428
+                        ],
+                        [
+                            22.326874968570536,
+                            44.32611020487208
+                        ],
+                        [
+                            22.32584774240457,
+                            44.326149135074495
+                        ],
+                        [
+                            22.32534693864707,
+                            44.32562393670069
+                        ],
+                        [
+                            22.325193891187638,
+                            44.325508710198385
+                        ],
+                        [
+                            22.325199131838307,
+                            44.32518464259806
+                        ],
+                        [
+                            22.325025651028824,
+                            44.32471864556785
+                        ],
+                        [
+                            22.325146131558498,
+                            44.32450124316606
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "OBJECTID": 446,
+                "PODNOSILAC": "Drumovi A&D doo, Pirot",
+                "LEZISTE": "Kulare",
+                "IZDATO": 2024,
+                "LIST": "671",
+                "SIROVINA": "krečnjak kao TGK",
+                "Zastitni_prostor": 0,
+                "Shape.STArea()": 151270,
+                "Shape.STLength()": 1740.8009586864641,
+                "Opstina": "Negotin",
+                "Ops_komentar": "Negotin",
+                "nadleznost": "Ministarstvo rudarstva i energetike"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 447,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -30639,7 +30686,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 448,
+                "OBJECTID": 447,
                 "PODNOSILAC": "A.D. Novi Pazar-put, Novi Pazar",
                 "LEZISTE": "Buđevo",
                 "IZDATO": 2024,
@@ -30655,7 +30702,7 @@
         },
         {
             "type": "Feature",
-            "id": 449,
+            "id": 448,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -30728,7 +30775,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 449,
+                "OBJECTID": 448,
                 "PODNOSILAC": "\tI&M Veljko doo, Likodra",
                 "LEZISTE": "Bećar Brdo",
                 "IZDATO": 2024,
@@ -30744,7 +30791,7 @@
         },
         {
             "type": "Feature",
-            "id": 450,
+            "id": 449,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -30777,7 +30824,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 450,
+                "OBJECTID": 449,
                 "PODNOSILAC": "Beaz Plus doo, Aranđelovac",
                 "LEZISTE": "Vinogradi",
                 "IZDATO": 2024,
@@ -30793,7 +30840,7 @@
         },
         {
             "type": "Feature",
-            "id": 451,
+            "id": 450,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -30822,7 +30869,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 451,
+                "OBJECTID": 450,
                 "PODNOSILAC": "Iva Agrar doo, Lajkovac",
                 "LEZISTE": "Ostrež",
                 "IZDATO": 2005,
@@ -30838,7 +30885,7 @@
         },
         {
             "type": "Feature",
-            "id": 452,
+            "id": 451,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -30887,7 +30934,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 452,
+                "OBJECTID": 451,
                 "PODNOSILAC": "JKP Surčin",
                 "LEZISTE": "Jakovačka Kumša poligon A",
                 "IZDATO": 2021,
@@ -30903,7 +30950,7 @@
         },
         {
             "type": "Feature",
-            "id": 453,
+            "id": 452,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -31004,7 +31051,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 453,
+                "OBJECTID": 452,
                 "PODNOSILAC": "JKP Surčin",
                 "LEZISTE": "Jakovačka Kumša poligon B",
                 "IZDATO": 2021,
@@ -31020,7 +31067,7 @@
         },
         {
             "type": "Feature",
-            "id": 454,
+            "id": 453,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -31053,7 +31100,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 454,
+                "OBJECTID": 453,
                 "PODNOSILAC": "VR RIVER HYDRO ENERGY doo, Brus",
                 "LEZISTE": "Bela Stena",
                 "IZDATO": 2024,
@@ -31069,7 +31116,7 @@
         },
         {
             "type": "Feature",
-            "id": 455,
+            "id": 454,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -31150,7 +31197,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 455,
+                "OBJECTID": 454,
                 "PODNOSILAC": "Unimer doo, Kruševac",
                 "LEZISTE": "Grad",
                 "IZDATO": 2024,
@@ -31166,7 +31213,369 @@
         },
         {
             "type": "Feature",
+            "id": 455,
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            19.988330451475722,
+                            43.254352946183644
+                        ],
+                        [
+                            19.98757808408405,
+                            43.25293299798428
+                        ],
+                        [
+                            19.987701816958296,
+                            43.25289808565191
+                        ],
+                        [
+                            19.988170778651643,
+                            43.25283922197638
+                        ],
+                        [
+                            19.988948324639523,
+                            43.252738075095436
+                        ],
+                        [
+                            19.98928272745126,
+                            43.25262400625577
+                        ],
+                        [
+                            19.989381980419214,
+                            43.25257987393357
+                        ],
+                        [
+                            19.989655111345986,
+                            43.2524472589142
+                        ],
+                        [
+                            19.989904357830643,
+                            43.25226942303128
+                        ],
+                        [
+                            19.99078709034287,
+                            43.25176410877654
+                        ],
+                        [
+                            19.991345338007307,
+                            43.2522641350716
+                        ],
+                        [
+                            19.990420430113584,
+                            43.25383130050259
+                        ],
+                        [
+                            19.988330451475722,
+                            43.254352946183644
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "OBJECTID": 455,
+                "PODNOSILAC": "Složna braća Zoran i Nele doo, Nova Varoš",
+                "LEZISTE": "Radišića brdo",
+                "IZDATO": 2024,
+                "LIST": "674",
+                "SIROVINA": "krečnjak kao TGK",
+                "Zastitni_prostor": null,
+                "Shape.STArea()": 44242,
+                "Shape.STLength()": 908.7233588759059,
+                "Opstina": "Sjenica",
+                "Ops_komentar": "Sjenica",
+                "nadleznost": "Ministarstvo rudarstva i energetike"
+            }
+        },
+        {
+            "type": "Feature",
             "id": 456,
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            19.643243225515064,
+                            44.42856736627581
+                        ],
+                        [
+                            19.64318273413791,
+                            44.42846764724617
+                        ],
+                        [
+                            19.642951661088695,
+                            44.42814090048505
+                        ],
+                        [
+                            19.64191908287049,
+                            44.427714624175515
+                        ],
+                        [
+                            19.642087729120803,
+                            44.42748262874819
+                        ],
+                        [
+                            19.642281277699254,
+                            44.42725992915925
+                        ],
+                        [
+                            19.642462477128078,
+                            44.42702808240198
+                        ],
+                        [
+                            19.642786162924782,
+                            44.42660892809053
+                        ],
+                        [
+                            19.642864621395894,
+                            44.42647485998245
+                        ],
+                        [
+                            19.64296839931509,
+                            44.42633209265276
+                        ],
+                        [
+                            19.64323956497168,
+                            44.426011313291426
+                        ],
+                        [
+                            19.643314483097377,
+                            44.426030203401226
+                        ],
+                        [
+                            19.6440235642523,
+                            44.425237621761376
+                        ],
+                        [
+                            19.644649055806703,
+                            44.42534404729394
+                        ],
+                        [
+                            19.6450117130974,
+                            44.42541135103826
+                        ],
+                        [
+                            19.64516487481002,
+                            44.425305167755084
+                        ],
+                        [
+                            19.64521613644074,
+                            44.425260775708914
+                        ],
+                        [
+                            19.645292093471657,
+                            44.42523467666454
+                        ],
+                        [
+                            19.645555968484945,
+                            44.42522880654034
+                        ],
+                        [
+                            19.645971341372018,
+                            44.425188732001764
+                        ],
+                        [
+                            19.64629799402198,
+                            44.425183604471115
+                        ],
+                        [
+                            19.646587395188384,
+                            44.42516003446501
+                        ],
+                        [
+                            19.647026632676813,
+                            44.42517423912774
+                        ],
+                        [
+                            19.6472892621544,
+                            44.42522235046179
+                        ],
+                        [
+                            19.647599832150636,
+                            44.425370029330836
+                        ],
+                        [
+                            19.64784223177245,
+                            44.425750901167305
+                        ],
+                        [
+                            19.64814460572605,
+                            44.425709480743684
+                        ],
+                        [
+                            19.64824525869434,
+                            44.42570167214428
+                        ],
+                        [
+                            19.64852272810243,
+                            44.42565095589349
+                        ],
+                        [
+                            19.6492674511622,
+                            44.42548876597566
+                        ],
+                        [
+                            19.649393836565594,
+                            44.42545426060509
+                        ],
+                        [
+                            19.649569408477145,
+                            44.42546533692055
+                        ],
+                        [
+                            19.649833905766478,
+                            44.425432464156664
+                        ],
+                        [
+                            19.650085847132694,
+                            44.425399442362895
+                        ],
+                        [
+                            19.650199054990157,
+                            44.425391780444514
+                        ],
+                        [
+                            19.650323161921037,
+                            44.42545624751864
+                        ],
+                        [
+                            19.650370899811733,
+                            44.42556481213557
+                        ],
+                        [
+                            19.650431607681227,
+                            44.42565552993104
+                        ],
+                        [
+                            19.650618286961183,
+                            44.425729736148796
+                        ],
+                        [
+                            19.650694035273958,
+                            44.425712631081424
+                        ],
+                        [
+                            19.650781925253245,
+                            44.425713669483876
+                        ],
+                        [
+                            19.650820420361498,
+                            44.42567812412885
+                        ],
+                        [
+                            19.650570341452088,
+                            44.425630169221215
+                        ],
+                        [
+                            19.650413950252265,
+                            44.42533131994239
+                        ],
+                        [
+                            19.651071189021625,
+                            44.42515008427878
+                        ],
+                        [
+                            19.651066497560596,
+                            44.42480802743821
+                        ],
+                        [
+                            19.65088478802433,
+                            44.424517879740854
+                        ],
+                        [
+                            19.650867128279714,
+                            44.42419366973253
+                        ],
+                        [
+                            19.650913280103172,
+                            44.423825213348074
+                        ],
+                        [
+                            19.650991302345652,
+                            44.42370913450654
+                        ],
+                        [
+                            19.65245040337717,
+                            44.423609360394856
+                        ],
+                        [
+                            19.653990778949137,
+                            44.42379852685502
+                        ],
+                        [
+                            19.6541898058892,
+                            44.423881872826385
+                        ],
+                        [
+                            19.654390278431322,
+                            44.423902235207734
+                        ],
+                        [
+                            19.65516891616927,
+                            44.423902407040515
+                        ],
+                        [
+                            19.6550984748714,
+                            44.42478358130514
+                        ],
+                        [
+                            19.654910184794712,
+                            44.427517374698944
+                        ],
+                        [
+                            19.653666007083263,
+                            44.42864571786812
+                        ],
+                        [
+                            19.653241364166366,
+                            44.42854171053546
+                        ],
+                        [
+                            19.653128357202377,
+                            44.42854037780089
+                        ],
+                        [
+                            19.652950708424303,
+                            44.42861928278493
+                        ],
+                        [
+                            19.652958510977054,
+                            44.428826375556675
+                        ],
+                        [
+                            19.65263240369241,
+                            44.42935353039324
+                        ],
+                        [
+                            19.64776349385479,
+                            44.42862097970061
+                        ],
+                        [
+                            19.643243225515064,
+                            44.42856736627581
+                        ]
+                    ]
+                ]
+            },
+            "properties": {
+                "OBJECTID": 456,
+                "PODNOSILAC": "MAUMAN RUDNIK doo, Šabac",
+                "LEZISTE": "Gornje Crniljevo",
+                "IZDATO": 2025,
+                "LIST": "675",
+                "SIROVINA": "keramičke gline",
+                "Zastitni_prostor": 0,
+                "Shape.STArea()": 418019.5,
+                "Shape.STLength()": 3168.5999896881135,
+                "Opstina": "Osečina",
+                "Ops_komentar": "Osečina",
+                "nadleznost": "Ministarstvo rudarstva i energetike"
+            }
+        },
+        {
+            "type": "Feature",
+            "id": 457,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -31207,7 +31616,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 456,
+                "OBJECTID": 457,
                 "PODNOSILAC": "Dolomis Group doo, Despotovac",
                 "LEZISTE": "Vukovac",
                 "IZDATO": 2024,
@@ -31223,7 +31632,7 @@
         },
         {
             "type": "Feature",
-            "id": 457,
+            "id": 458,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -31272,7 +31681,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 457,
+                "OBJECTID": 458,
                 "PODNOSILAC": "Silur doo, Kraljevo",
                 "LEZISTE": "Otroci",
                 "IZDATO": 2025,
@@ -31288,7 +31697,7 @@
         },
         {
             "type": "Feature",
-            "id": 458,
+            "id": 459,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -31317,7 +31726,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 458,
+                "OBJECTID": 459,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "Честерег",
                 "IZDATO": 2015,
@@ -31333,7 +31742,7 @@
         },
         {
             "type": "Feature",
-            "id": 459,
+            "id": 460,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -31382,7 +31791,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 459,
+                "OBJECTID": 460,
                 "PODNOSILAC": "IVAN MLАDENOVIĆ PR CIGLANA VASA KUZMIN",
                 "LEZISTE": "Површински коп Ограде II код Кузмина",
                 "IZDATO": 2023,
@@ -31398,7 +31807,7 @@
         },
         {
             "type": "Feature",
-            "id": 460,
+            "id": 461,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -31443,7 +31852,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 460,
+                "OBJECTID": 461,
                 "PODNOSILAC": "AŠANJA PESAK DOO KUPINOVO",
                 "LEZISTE": "површински коп „Рибњак“ у Ашањи",
                 "IZDATO": 2021,
@@ -31459,7 +31868,7 @@
         },
         {
             "type": "Feature",
-            "id": 461,
+            "id": 462,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -31488,7 +31897,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 461,
+                "OBJECTID": 462,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "лежишта Pt2-1 и Pt2-2 гасног поља Бегејци",
                 "IZDATO": 2020,
@@ -31504,7 +31913,7 @@
         },
         {
             "type": "Feature",
-            "id": 462,
+            "id": 463,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -31545,7 +31954,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 462,
+                "OBJECTID": 463,
                 "PODNOSILAC": "PTP ŽAKI-COMMERCE DOO NAKOVO",
                 "LEZISTE": "Чардариште",
                 "IZDATO": 2018,
@@ -31561,7 +31970,7 @@
         },
         {
             "type": "Feature",
-            "id": 463,
+            "id": 464,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -31594,7 +32003,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 463,
+                "OBJECTID": 464,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "Велика Греда - југ",
                 "IZDATO": 1985,
@@ -31610,7 +32019,7 @@
         },
         {
             "type": "Feature",
-            "id": 464,
+            "id": 465,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -31643,7 +32052,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 464,
+                "OBJECTID": 465,
                 "PODNOSILAC": "Dremin D.O.O. Kanjiža",
                 "LEZISTE": " ",
                 "IZDATO": null,
@@ -31659,7 +32068,7 @@
         },
         {
             "type": "Feature",
-            "id": 465,
+            "id": 466,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -31696,7 +32105,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 465,
+                "OBJECTID": 466,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "Експлоатационо поље Србобран",
                 "IZDATO": 2022,
@@ -31712,7 +32121,7 @@
         },
         {
             "type": "Feature",
-            "id": 466,
+            "id": 467,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -31785,7 +32194,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 466,
+                "OBJECTID": 467,
                 "PODNOSILAC": "AD POLET IGK NOVI BEČEJ",
                 "LEZISTE": "лежиште Гарајевац исток",
                 "IZDATO": null,
@@ -31801,7 +32210,7 @@
         },
         {
             "type": "Feature",
-            "id": 467,
+            "id": 468,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -31830,7 +32239,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 467,
+                "OBJECTID": 468,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "Кикинда Варош - југ",
                 "IZDATO": 1990,
@@ -31846,7 +32255,7 @@
         },
         {
             "type": "Feature",
-            "id": 468,
+            "id": 469,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -31883,7 +32292,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 468,
+                "OBJECTID": 469,
                 "PODNOSILAC": "VETROELEKTRANE BALKANA DOO",
                 "LEZISTE": "Експлоатациони простор изворишта \"Ветроелектране Балкана\" д.о.о. (бунар БВПД-1/13) у Мраморку",
                 "IZDATO": 2022,
@@ -31899,7 +32308,7 @@
         },
         {
             "type": "Feature",
-            "id": 469,
+            "id": 470,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -31928,7 +32337,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 469,
+                "OBJECTID": 470,
                 "PODNOSILAC": "EKO GRADNJA DOO ZA PROIZVODNJU I UGRAĐIVANJE BETONSKE GALANTERIJE",
                 "LEZISTE": " ",
                 "IZDATO": null,
@@ -31944,7 +32353,7 @@
         },
         {
             "type": "Feature",
-            "id": 470,
+            "id": 471,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -32033,7 +32442,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 470,
+                "OBJECTID": 471,
                 "PODNOSILAC": "NAPREDAK EM DOO ČONOPLJA",
                 "LEZISTE": "лежиште Чонопља у Чонопљи",
                 "IZDATO": 2023,
@@ -32049,7 +32458,7 @@
         },
         {
             "type": "Feature",
-            "id": 471,
+            "id": 472,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -32078,7 +32487,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 471,
+                "OBJECTID": 472,
                 "PODNOSILAC": "PSG BANATSKI DVOR DOO NOVI SAD",
                 "LEZISTE": "Банатски Двор",
                 "IZDATO": 1978,
@@ -32094,7 +32503,7 @@
         },
         {
             "type": "Feature",
-            "id": 472,
+            "id": 473,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -32179,7 +32588,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 472,
+                "OBJECTID": 473,
                 "PODNOSILAC": "DOO CRNI MB GAS PETROL ELEMIR",
                 "LEZISTE": "Виногради код Елемира",
                 "IZDATO": 2019,
@@ -32195,7 +32604,7 @@
         },
         {
             "type": "Feature",
-            "id": 473,
+            "id": 474,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -32224,7 +32633,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 473,
+                "OBJECTID": 474,
                 "PODNOSILAC": "ИГМ АД Грађевинар",
                 "LEZISTE": "Лежиште опекарске сировине у Дебељачи",
                 "IZDATO": 2005,
@@ -32240,7 +32649,7 @@
         },
         {
             "type": "Feature",
-            "id": 474,
+            "id": 475,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -32269,7 +32678,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 474,
+                "OBJECTID": 475,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "Торда плитко",
                 "IZDATO": 2016,
@@ -32285,7 +32694,7 @@
         },
         {
             "type": "Feature",
-            "id": 475,
+            "id": 476,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -32314,7 +32723,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 475,
+                "OBJECTID": 476,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "поље Иђош",
                 "IZDATO": 2022,
@@ -32330,7 +32739,7 @@
         },
         {
             "type": "Feature",
-            "id": 476,
+            "id": 477,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -32399,7 +32808,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 476,
+                "OBJECTID": 477,
                 "PODNOSILAC": "CIGLANA I TRGOVINA TODOROVIĆ DOO za proizvodnju trgovinu i usluge Pećinci",
                 "LEZISTE": "Циглана и трговина Тодоровић",
                 "IZDATO": null,
@@ -32415,7 +32824,7 @@
         },
         {
             "type": "Feature",
-            "id": 477,
+            "id": 478,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -32500,7 +32909,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 477,
+                "OBJECTID": 478,
                 "PODNOSILAC": "\tSILIDIO DRUŠTVO SA OGRANIČENOM ODGOVORNOŠĆU VRŠAC",
                 "LEZISTE": "лежиште Думбрава",
                 "IZDATO": 2020,
@@ -32516,7 +32925,7 @@
         },
         {
             "type": "Feature",
-            "id": 478,
+            "id": 479,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -32545,7 +32954,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 478,
+                "OBJECTID": 479,
                 "PODNOSILAC": "LAFARGE BFC DOO BEOČIN",
                 "LEZISTE": "Површински коп Бели камен код Бешенова",
                 "IZDATO": null,
@@ -32561,7 +32970,7 @@
         },
         {
             "type": "Feature",
-            "id": 479,
+            "id": 480,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -32598,7 +33007,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 479,
+                "OBJECTID": 480,
                 "PODNOSILAC": "LEPOJEVIĆ DOO NOVO ORAHOVО",
                 "LEZISTE": "Површински коп Чикер код Новог Орахова",
                 "IZDATO": null,
@@ -32614,7 +33023,7 @@
         },
         {
             "type": "Feature",
-            "id": 480,
+            "id": 481,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -32651,7 +33060,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 480,
+                "OBJECTID": 481,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "Мајдан лежиште Pz-1",
                 "IZDATO": 1985,
@@ -32667,7 +33076,7 @@
         },
         {
             "type": "Feature",
-            "id": 481,
+            "id": 482,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -32800,7 +33209,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 481,
+                "OBJECTID": 482,
                 "PODNOSILAC": "WIENERBERGER doo KANJIŽA",
                 "LEZISTE": "Мајдан III",
                 "IZDATO": 2011,
@@ -32816,7 +33225,7 @@
         },
         {
             "type": "Feature",
-            "id": 482,
+            "id": 483,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -32889,7 +33298,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 482,
+                "OBJECTID": 483,
                 "PODNOSILAC": "ZORAN STOJANOVIĆ",
                 "LEZISTE": " ",
                 "IZDATO": null,
@@ -32905,7 +33314,7 @@
         },
         {
             "type": "Feature",
-            "id": 483,
+            "id": 484,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -32942,7 +33351,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 483,
+                "OBJECTID": 484,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "поље Кикинда запад",
                 "IZDATO": 2020,
@@ -32958,7 +33367,7 @@
         },
         {
             "type": "Feature",
-            "id": 484,
+            "id": 485,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -32983,7 +33392,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 484,
+                "OBJECTID": 485,
                 "PODNOSILAC": "COFICAB SERBIA D.O.O.",
                 "LEZISTE": "Експлоатациони простор изворишта у кругу компаније COFICAB SERBIA DOO у Дечу",
                 "IZDATO": 2022,
@@ -32999,7 +33408,7 @@
         },
         {
             "type": "Feature",
-            "id": 485,
+            "id": 486,
             "geometry": {
                 "type": "MultiPolygon",
                 "coordinates": [
@@ -33118,7 +33527,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 485,
+                "OBJECTID": 486,
                 "PODNOSILAC": "ECOAGRI SERBIA DOO BELA CRKVA",
                 "LEZISTE": "површински коп Мали Гај 1",
                 "IZDATO": null,
@@ -33134,7 +33543,7 @@
         },
         {
             "type": "Feature",
-            "id": 486,
+            "id": 487,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -33163,7 +33572,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 486,
+                "OBJECTID": 487,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "Hidro-tеrmalno nalazište Kanjiža",
                 "IZDATO": 2005,
@@ -33179,7 +33588,7 @@
         },
         {
             "type": "Feature",
-            "id": 487,
+            "id": 488,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -33284,7 +33693,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 487,
+                "OBJECTID": 488,
                 "PODNOSILAC": "EKO GRADNJA DOO ZA PROIZVODNJU I UGRAĐIVANJE BETONSKE GALANTERIJE",
                 "LEZISTE": " ",
                 "IZDATO": null,
@@ -33300,7 +33709,7 @@
         },
         {
             "type": "Feature",
-            "id": 488,
+            "id": 489,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -33361,7 +33770,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 488,
+                "OBJECTID": 489,
                 "PODNOSILAC": "DRAGAN POPOVIĆ PR EKSPLOATACIJA ŠLJUNKA TRKI BELA CRKVA",
                 "LEZISTE": "Простор 3",
                 "IZDATO": 2017,
@@ -33377,7 +33786,7 @@
         },
         {
             "type": "Feature",
-            "id": 489,
+            "id": 490,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -33458,7 +33867,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 489,
+                "OBJECTID": 490,
                 "PODNOSILAC": "MILI UG 2023 DOO APATIN",
                 "LEZISTE": "лежиште Јагњево",
                 "IZDATO": null,
@@ -33474,7 +33883,7 @@
         },
         {
             "type": "Feature",
-            "id": 490,
+            "id": 491,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -33503,7 +33912,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 490,
+                "OBJECTID": 491,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "Горњи Брег",
                 "IZDATO": 2023,
@@ -33519,7 +33928,7 @@
         },
         {
             "type": "Feature",
-            "id": 491,
+            "id": 492,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -33552,7 +33961,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 491,
+                "OBJECTID": 492,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "експлоатационо поље Велика греда",
                 "IZDATO": 1961,
@@ -33568,7 +33977,7 @@
         },
         {
             "type": "Feature",
-            "id": 492,
+            "id": 493,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -33597,7 +34006,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 492,
+                "OBJECTID": 493,
                 "PODNOSILAC": "MOL Serbia d.o.o.",
                 "LEZISTE": "Eksploatacioni prostor MOL-servisna stanica Batrovci 2",
                 "IZDATO": 2021,
@@ -33613,7 +34022,7 @@
         },
         {
             "type": "Feature",
-            "id": 493,
+            "id": 494,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -33650,7 +34059,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 493,
+                "OBJECTID": 494,
                 "PODNOSILAC": "Владимир Радић ПР",
                 "LEZISTE": " ",
                 "IZDATO": null,
@@ -33666,7 +34075,7 @@
         },
         {
             "type": "Feature",
-            "id": 494,
+            "id": 495,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -33695,7 +34104,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 494,
+                "OBJECTID": 495,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "хидротермална бушотина Палић језеро Pj-2/H",
                 "IZDATO": 1989,
@@ -33711,7 +34120,7 @@
         },
         {
             "type": "Feature",
-            "id": 495,
+            "id": 496,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -33928,7 +34337,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 495,
+                "OBJECTID": 496,
                 "PODNOSILAC": "ENERGETSKI KOMPLEKS DOO",
                 "LEZISTE": "експлоатационо поље на делу лежишта угља Ковин",
                 "IZDATO": 2022,
@@ -33944,7 +34353,7 @@
         },
         {
             "type": "Feature",
-            "id": 496,
+            "id": 497,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -33973,7 +34382,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 496,
+                "OBJECTID": 497,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "Велебит-Југ I",
                 "IZDATO": null,
@@ -33989,7 +34398,7 @@
         },
         {
             "type": "Feature",
-            "id": 497,
+            "id": 498,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -34018,7 +34427,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 497,
+                "OBJECTID": 498,
                 "PODNOSILAC": "ЈКП Наш Дом Апатин",
                 "LEZISTE": "Експлоатациони простор изворишта ЈКП Наш Дом у Апатину",
                 "IZDATO": 2023,
@@ -34034,7 +34443,7 @@
         },
         {
             "type": "Feature",
-            "id": 498,
+            "id": 499,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -34095,7 +34504,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 498,
+                "OBJECTID": 499,
                 "PODNOSILAC": "LAFARGE BFC DOO BEOČIN",
                 "LEZISTE": "ФИЛИЈАЛА",
                 "IZDATO": 2018,
@@ -34111,7 +34520,7 @@
         },
         {
             "type": "Feature",
-            "id": 499,
+            "id": 500,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -34196,7 +34605,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 499,
+                "OBJECTID": 500,
                 "PODNOSILAC": "Luxury Tannery D.O.O.",
                 "LEZISTE": "Експлоатациони простор изворишта Luxury Tannery д.о.о. у Руми",
                 "IZDATO": 2022,
@@ -34212,7 +34621,7 @@
         },
         {
             "type": "Feature",
-            "id": 500,
+            "id": 501,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -34241,7 +34650,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 500,
+                "OBJECTID": 501,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "нафтно-гасно поље Итебеј",
                 "IZDATO": 2019,
@@ -34257,7 +34666,7 @@
         },
         {
             "type": "Feature",
-            "id": 501,
+            "id": 502,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -34298,7 +34707,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 501,
+                "OBJECTID": 502,
                 "PODNOSILAC": "MOL Serbia d.o.o.",
                 "LEZISTE": "Eksploatacioni prostor MOL-servisna stanica Batrovci 1",
                 "IZDATO": 2021,
@@ -34314,7 +34723,7 @@
         },
         {
             "type": "Feature",
-            "id": 502,
+            "id": 503,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -34347,7 +34756,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 502,
+                "OBJECTID": 503,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "НИС-Депонија отпадне исплаке Ново Милошево",
                 "IZDATO": 2019,
@@ -34363,7 +34772,7 @@
         },
         {
             "type": "Feature",
-            "id": 503,
+            "id": 504,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -34392,7 +34801,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 503,
+                "OBJECTID": 504,
                 "PODNOSILAC": "DOO BB MINAQUA NOVI SAD",
                 "LEZISTE": "Експлоатациони простор BB MINAQUA Нови Сад",
                 "IZDATO": 2019,
@@ -34408,7 +34817,7 @@
         },
         {
             "type": "Feature",
-            "id": 504,
+            "id": 505,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -34437,7 +34846,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 504,
+                "OBJECTID": 505,
                 "PODNOSILAC": "PUT-INŽENJERING DOO",
                 "LEZISTE": "Експлоатациони простор изворишта Пут-Инжењеринг у Новој Пазови",
                 "IZDATO": 2022,
@@ -34453,7 +34862,7 @@
         },
         {
             "type": "Feature",
-            "id": 505,
+            "id": 506,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -34490,7 +34899,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 505,
+                "OBJECTID": 506,
                 "PODNOSILAC": "ENERGETSKI KOMPLEKS DOO",
                 "LEZISTE": "Заштитини простор 1",
                 "IZDATO": 2022,
@@ -34506,7 +34915,7 @@
         },
         {
             "type": "Feature",
-            "id": 506,
+            "id": 507,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -34559,7 +34968,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 506,
+                "OBJECTID": 507,
                 "PODNOSILAC": "ENERGETSKI KOMPLEKS DOO",
                 "LEZISTE": "Заштитини простор 2",
                 "IZDATO": 2022,
@@ -34575,7 +34984,7 @@
         },
         {
             "type": "Feature",
-            "id": 507,
+            "id": 508,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -34612,7 +35021,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 507,
+                "OBJECTID": 508,
                 "PODNOSILAC": "ENERGETSKI KOMPLEKS DOO",
                 "LEZISTE": "Заштитини простор 3",
                 "IZDATO": 2022,
@@ -34628,7 +35037,7 @@
         },
         {
             "type": "Feature",
-            "id": 508,
+            "id": 509,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -34705,7 +35114,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 508,
+                "OBJECTID": 509,
                 "PODNOSILAC": "ENERGETSKI KOMPLEKS DOO",
                 "LEZISTE": "Заштитини простор 4",
                 "IZDATO": 2022,
@@ -34721,7 +35130,7 @@
         },
         {
             "type": "Feature",
-            "id": 509,
+            "id": 510,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -34750,7 +35159,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 509,
+                "OBJECTID": 510,
                 "PODNOSILAC": "NISKOGRADNJA-UB DOO UB",
                 "LEZISTE": "лежиште Палић код Суботице",
                 "IZDATO": 2023,
@@ -34766,7 +35175,7 @@
         },
         {
             "type": "Feature",
-            "id": 510,
+            "id": 511,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -34795,7 +35204,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 510,
+                "OBJECTID": 511,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "Зрењанин",
                 "IZDATO": 1987,
@@ -34811,7 +35220,7 @@
         },
         {
             "type": "Feature",
-            "id": 511,
+            "id": 512,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -34840,7 +35249,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 511,
+                "OBJECTID": 512,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "лежишта Ј-1",
                 "IZDATO": null,
@@ -34856,7 +35265,7 @@
         },
         {
             "type": "Feature",
-            "id": 512,
+            "id": 513,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -34885,7 +35294,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 512,
+                "OBJECTID": 513,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "Кикинда Варош",
                 "IZDATO": 1968,
@@ -34901,7 +35310,7 @@
         },
         {
             "type": "Feature",
-            "id": 513,
+            "id": 514,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -34938,7 +35347,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 513,
+                "OBJECTID": 514,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "Експлоатациони простор изворишта НИС-Нови комплекс у Зрењанину",
                 "IZDATO": 2019,
@@ -34954,7 +35363,7 @@
         },
         {
             "type": "Feature",
-            "id": 514,
+            "id": 515,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -34991,7 +35400,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 514,
+                "OBJECTID": 515,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "Меленци (Зрењанин; Кикинда)",
                 "IZDATO": null,
@@ -35007,7 +35416,7 @@
         },
         {
             "type": "Feature",
-            "id": 515,
+            "id": 516,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -35044,7 +35453,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 515,
+                "OBJECTID": 516,
                 "PODNOSILAC": "MILORAD KOVAČEVIĆ PR EKSPLOATACIJA ŠLJUNKA I PESKA KAJAKOP SENTA",
                 "LEZISTE": "„Црна Бара 2“",
                 "IZDATO": null,
@@ -35060,7 +35469,7 @@
         },
         {
             "type": "Feature",
-            "id": 516,
+            "id": 517,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -35089,7 +35498,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 516,
+                "OBJECTID": 517,
                 "PODNOSILAC": "SAŠA KOCIĆ PREDUZETNIK ZANATSKA RADNJA ZA PROIZVODNJU OPEKE I CREPA CRNA TRAVA",
                 "LEZISTE": "Површински коп Депонија код Ковачице (",
                 "IZDATO": 2019,
@@ -35105,7 +35514,7 @@
         },
         {
             "type": "Feature",
-            "id": 517,
+            "id": 518,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -35138,7 +35547,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 517,
+                "OBJECTID": 518,
                 "PODNOSILAC": "DOO Neimar Zrenjanin",
                 "LEZISTE": "Ледине код Зрењанина",
                 "IZDATO": 2020,
@@ -35154,7 +35563,7 @@
         },
         {
             "type": "Feature",
-            "id": 518,
+            "id": 519,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -35183,7 +35592,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 518,
+                "OBJECTID": 519,
                 "PODNOSILAC": "Војводинапут-Зрењанин а.д. Зрењанин",
                 "LEZISTE": "Војводина-пут",
                 "IZDATO": null,
@@ -35199,7 +35608,7 @@
         },
         {
             "type": "Feature",
-            "id": 519,
+            "id": 520,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -35248,7 +35657,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 519,
+                "OBJECTID": 520,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "експлоатационо поље Иђош",
                 "IZDATO": 2022,
@@ -35264,7 +35673,7 @@
         },
         {
             "type": "Feature",
-            "id": 520,
+            "id": 521,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -35397,7 +35806,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 520,
+                "OBJECTID": 521,
                 "PODNOSILAC": "UNIVERZUM Export-Import DOO Aranđelovac Ogranak proizvodni pogon Inđija",
                 "LEZISTE": "површински коп Пустара код Инђије",
                 "IZDATO": 2022,
@@ -35413,7 +35822,7 @@
         },
         {
             "type": "Feature",
-            "id": 521,
+            "id": 522,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -35474,7 +35883,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 521,
+                "OBJECTID": 522,
                 "PODNOSILAC": "SZR ZA PROIZVODNJU OPEKE I CREPA I TRGOVINA NA VELIKO MARKOS VELJKO SAVIĆ PREDUZETNIK MARADIK",
                 "LEZISTE": "лежиште Млечика",
                 "IZDATO": null,
@@ -35490,7 +35899,7 @@
         },
         {
             "type": "Feature",
-            "id": 522,
+            "id": 523,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -35519,7 +35928,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 522,
+                "OBJECTID": 523,
                 "PODNOSILAC": "RADIVOJE CIVRIĆ PR ZEMLJANI RADOVI U GRAĐEVINARSTVU KOP CIVRIĆ BANATSKI KARLOVAC",
                 "LEZISTE": "ежиште „Виногради“ код Банатског Карловца",
                 "IZDATO": null,
@@ -35535,7 +35944,7 @@
         },
         {
             "type": "Feature",
-            "id": 523,
+            "id": 524,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -35564,7 +35973,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 523,
+                "OBJECTID": 524,
                 "PODNOSILAC": "DRAGAN POPOVIĆ PR EKSPLOATACIJA ŠLJUNKA TRKI BELA CRKVA",
                 "LEZISTE": "Поље 2",
                 "IZDATO": 2015,
@@ -35580,7 +35989,7 @@
         },
         {
             "type": "Feature",
-            "id": 524,
+            "id": 525,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -35617,7 +36026,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 524,
+                "OBJECTID": 525,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "лежишта К2-1 и Pg+M1-1 нафтно-гасног поља Русанда",
                 "IZDATO": 2020,
@@ -35633,7 +36042,7 @@
         },
         {
             "type": "Feature",
-            "id": 525,
+            "id": 526,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -35702,7 +36111,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 525,
+                "OBJECTID": 526,
                 "PODNOSILAC": "LAFARGE BFC DOO BEOČIN",
                 "LEZISTE": "Површински коп Мутаљ",
                 "IZDATO": 2023,
@@ -35718,7 +36127,7 @@
         },
         {
             "type": "Feature",
-            "id": 526,
+            "id": 527,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -35747,7 +36156,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 526,
+                "OBJECTID": 527,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "Кикинда Варош - север",
                 "IZDATO": 1989,
@@ -35763,7 +36172,7 @@
         },
         {
             "type": "Feature",
-            "id": 527,
+            "id": 528,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -35792,7 +36201,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 527,
+                "OBJECTID": 528,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "Михајлово",
                 "IZDATO": 1991,
@@ -35808,7 +36217,7 @@
         },
         {
             "type": "Feature",
-            "id": 528,
+            "id": 529,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -35837,7 +36246,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 528,
+                "OBJECTID": 529,
                 "PODNOSILAC": "DOO ALMEX PANČEVO",
                 "LEZISTE": "Експлоатациони простор изворишта \"ALMEX\" DOO у Панчеву",
                 "IZDATO": 2022,
@@ -35853,7 +36262,7 @@
         },
         {
             "type": "Feature",
-            "id": 529,
+            "id": 530,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -35882,7 +36291,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 529,
+                "OBJECTID": 530,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "експлоатационо поље Палић",
                 "IZDATO": 2022,
@@ -35898,7 +36307,7 @@
         },
         {
             "type": "Feature",
-            "id": 530,
+            "id": 531,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -35959,7 +36368,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 530,
+                "OBJECTID": 531,
                 "PODNOSILAC": "AGROGLOBE DOO",
                 "LEZISTE": "Експлоатациони простор изворишта AGROGLOBE-MEHANIZACIJA у Новом Саду",
                 "IZDATO": null,
@@ -35975,7 +36384,7 @@
         },
         {
             "type": "Feature",
-            "id": 531,
+            "id": 532,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -36004,7 +36413,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 531,
+                "OBJECTID": 532,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": " нафтних лежишта Ј+М1+Bd+Sm-1",
                 "IZDATO": null,
@@ -36020,7 +36429,7 @@
         },
         {
             "type": "Feature",
-            "id": 532,
+            "id": 533,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -36049,7 +36458,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 532,
+                "OBJECTID": 533,
                 "PODNOSILAC": "CIGLANA I TRGOVINA TODOROVIĆ DOO za proizvodnju trgovinu i usluge Pećinci",
                 "LEZISTE": "С.О. ПЕЋИНЦИ; К.О. Суботиште ул. Слободана Бајића бр.149",
                 "IZDATO": 2006,
@@ -36065,7 +36474,7 @@
         },
         {
             "type": "Feature",
-            "id": 533,
+            "id": 534,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -36098,7 +36507,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 533,
+                "OBJECTID": 534,
                 "PODNOSILAC": "FIT – FS DOO ZA PROIZVODNJU GRAĐEVINSKOG MATERIJALA",
                 "LEZISTE": " ",
                 "IZDATO": null,
@@ -36114,7 +36523,7 @@
         },
         {
             "type": "Feature",
-            "id": 534,
+            "id": 535,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -36143,7 +36552,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 534,
+                "OBJECTID": 535,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "Банатски Двор - запад",
                 "IZDATO": 1985,
@@ -36159,7 +36568,7 @@
         },
         {
             "type": "Feature",
-            "id": 535,
+            "id": 536,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -36232,7 +36641,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 535,
+                "OBJECTID": 536,
                 "PODNOSILAC": "JAPONIK  DOO SUBOTICA",
                 "LEZISTE": "Површински коп Пашњак код Хоргоша",
                 "IZDATO": null,
@@ -36248,7 +36657,7 @@
         },
         {
             "type": "Feature",
-            "id": 536,
+            "id": 537,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -36277,7 +36686,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 536,
+                "OBJECTID": 537,
                 "PODNOSILAC": "INOSLAVA PEŠIĆA PREDUZETNIK SAMOSTALNA RADNJA ZA PROIZVODNJU CIGLE",
                 "LEZISTE": " ",
                 "IZDATO": null,
@@ -36293,7 +36702,7 @@
         },
         {
             "type": "Feature",
-            "id": 537,
+            "id": 538,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -36322,7 +36731,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 537,
+                "OBJECTID": 538,
                 "PODNOSILAC": "LINDE GAS SRBIJA INDUSTRIJA GASOVA AD",
                 "LEZISTE": " ",
                 "IZDATO": null,
@@ -36338,7 +36747,7 @@
         },
         {
             "type": "Feature",
-            "id": 538,
+            "id": 539,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -36367,7 +36776,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 538,
+                "OBJECTID": 539,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "Бачка Топола",
                 "IZDATO": 1979,
@@ -36383,7 +36792,7 @@
         },
         {
             "type": "Feature",
-            "id": 539,
+            "id": 540,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -36420,7 +36829,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 539,
+                "OBJECTID": 540,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "Мајдан",
                 "IZDATO": 2019,
@@ -36436,7 +36845,7 @@
         },
         {
             "type": "Feature",
-            "id": 540,
+            "id": 541,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -36473,7 +36882,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 540,
+                "OBJECTID": 541,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "Гасно лежиште Николинци",
                 "IZDATO": 1971,
@@ -36489,7 +36898,7 @@
         },
         {
             "type": "Feature",
-            "id": 541,
+            "id": 542,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -36530,7 +36939,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 541,
+                "OBJECTID": 542,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "Русанда плитко",
                 "IZDATO": 2020,
@@ -36546,7 +36955,7 @@
         },
         {
             "type": "Feature",
-            "id": 542,
+            "id": 543,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -36587,7 +36996,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 542,
+                "OBJECTID": 543,
                 "PODNOSILAC": "STAMBO-COOP DOO SUBOTICA",
                 "LEZISTE": "лежиште песка као грађевинског материјала Хоргош код Хоргоша",
                 "IZDATO": 2022,
@@ -36603,7 +37012,7 @@
         },
         {
             "type": "Feature",
-            "id": 543,
+            "id": 544,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -36636,7 +37045,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 543,
+                "OBJECTID": 544,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "Ада",
                 "IZDATO": 2022,
@@ -36652,7 +37061,7 @@
         },
         {
             "type": "Feature",
-            "id": 544,
+            "id": 545,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -36681,7 +37090,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 544,
+                "OBJECTID": 545,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "нафтно-гасно поље Велебит",
                 "IZDATO": 2018,
@@ -36697,7 +37106,7 @@
         },
         {
             "type": "Feature",
-            "id": 545,
+            "id": 546,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -36726,7 +37135,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 545,
+                "OBJECTID": 546,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "Јаношик запад",
                 "IZDATO": null,
@@ -36742,7 +37151,7 @@
         },
         {
             "type": "Feature",
-            "id": 546,
+            "id": 547,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -36787,7 +37196,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 546,
+                "OBJECTID": 547,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "нафтно поље Турија север",
                 "IZDATO": 2018,
@@ -36803,7 +37212,7 @@
         },
         {
             "type": "Feature",
-            "id": 547,
+            "id": 548,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -36832,7 +37241,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 547,
+                "OBJECTID": 548,
                 "PODNOSILAC": "SOJAPROTEIN DOO Bečej",
                 "LEZISTE": "Eксплоатациони простор изворишта \"Сојапротеин\" у Бечеју",
                 "IZDATO": 2023,
@@ -36848,7 +37257,7 @@
         },
         {
             "type": "Feature",
-            "id": 548,
+            "id": 549,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -36921,7 +37330,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 548,
+                "OBJECTID": 549,
                 "PODNOSILAC": "AD POLET IGK NOVI BEČEJ",
                 "LEZISTE": "лежиште Гарајевац исток",
                 "IZDATO": null,
@@ -36937,7 +37346,7 @@
         },
         {
             "type": "Feature",
-            "id": 549,
+            "id": 550,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -36966,7 +37375,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 549,
+                "OBJECTID": 550,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "Hidro - termalno nalazište Temerin",
                 "IZDATO": 1988,
@@ -36982,7 +37391,7 @@
         },
         {
             "type": "Feature",
-            "id": 550,
+            "id": 551,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -37011,7 +37420,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 550,
+                "OBJECTID": 551,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": " гасокондензатно лежиште Наково",
                 "IZDATO": 1992,
@@ -37027,7 +37436,7 @@
         },
         {
             "type": "Feature",
-            "id": 551,
+            "id": 552,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -37056,7 +37465,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 551,
+                "OBJECTID": 552,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "гаскондензатно лежиште  Кикинда Б",
                 "IZDATO": 1981,
@@ -37072,7 +37481,7 @@
         },
         {
             "type": "Feature",
-            "id": 552,
+            "id": 553,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -37101,7 +37510,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 552,
+                "OBJECTID": 553,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "Житиште",
                 "IZDATO": 1989,
@@ -37117,7 +37526,7 @@
         },
         {
             "type": "Feature",
-            "id": 553,
+            "id": 554,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -37146,7 +37555,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 553,
+                "OBJECTID": 554,
                 "PODNOSILAC": "SAMOSTALNA ZANATSKA RADNJA IZVOR VELIBOR VELIČKOVIĆ PREDUZETNIK VLASOTINCE",
                 "LEZISTE": "експлоатационо поље Циглана Уздин",
                 "IZDATO": 2020,
@@ -37162,7 +37571,7 @@
         },
         {
             "type": "Feature",
-            "id": 554,
+            "id": 555,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -37187,7 +37596,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 554,
+                "OBJECTID": 555,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "гасно поље Банатско Пландише",
                 "IZDATO": 1968,
@@ -37203,7 +37612,7 @@
         },
         {
             "type": "Feature",
-            "id": 555,
+            "id": 556,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -37236,7 +37645,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 555,
+                "OBJECTID": 556,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "експлоатационо поље Бока",
                 "IZDATO": 2019,
@@ -37252,7 +37661,7 @@
         },
         {
             "type": "Feature",
-            "id": 556,
+            "id": 557,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -37285,7 +37694,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 556,
+                "OBJECTID": 557,
                 "PODNOSILAC": "DRAGAN POPOVIĆ PR EKSPLOATACIJA ŠLJUNKA TRKI BELA CRKVA",
                 "LEZISTE": "Поље 1",
                 "IZDATO": 2015,
@@ -37301,7 +37710,7 @@
         },
         {
             "type": "Feature",
-            "id": 557,
+            "id": 558,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -37330,7 +37739,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 557,
+                "OBJECTID": 558,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "Зрењанин - север",
                 "IZDATO": 1991,
@@ -37346,7 +37755,7 @@
         },
         {
             "type": "Feature",
-            "id": 558,
+            "id": 559,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -37407,7 +37816,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 558,
+                "OBJECTID": 559,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "Експлоатационо поље Палић-измењене границе",
                 "IZDATO": 2022,
@@ -37423,7 +37832,7 @@
         },
         {
             "type": "Feature",
-            "id": 559,
+            "id": 560,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -37480,7 +37889,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 559,
+                "OBJECTID": 560,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "гасно поље Српска Црња-измена граница",
                 "IZDATO": 2022,
@@ -37496,7 +37905,7 @@
         },
         {
             "type": "Feature",
-            "id": 560,
+            "id": 561,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -37525,7 +37934,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 560,
+                "OBJECTID": 561,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "Hidro-termalno nalazište Bečej",
                 "IZDATO": 1990,
@@ -37541,7 +37950,7 @@
         },
         {
             "type": "Feature",
-            "id": 561,
+            "id": 562,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -37570,7 +37979,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 561,
+                "OBJECTID": 562,
                 "PODNOSILAC": "GRADJEVINSKO PREDUZEĆE SEVERNI BANAT AKCIONARSKO DRUŠTVO",
                 "LEZISTE": " ",
                 "IZDATO": null,
@@ -37586,7 +37995,7 @@
         },
         {
             "type": "Feature",
-            "id": 562,
+            "id": 563,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -37615,7 +38024,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 562,
+                "OBJECTID": 563,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "Кикинда Ф2",
                 "IZDATO": null,
@@ -37631,7 +38040,7 @@
         },
         {
             "type": "Feature",
-            "id": 563,
+            "id": 564,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -37720,7 +38129,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 563,
+                "OBJECTID": 564,
                 "PODNOSILAC": "PRIVREDNO DRUŠTVO ZA PODVODNU EKSPLOATACIJU UGLJA RUDNIK KOVIN AD KOVIN\t",
                 "LEZISTE": "Ковин небрањени део поља Ковин",
                 "IZDATO": null,
@@ -37736,7 +38145,7 @@
         },
         {
             "type": "Feature",
-            "id": 564,
+            "id": 565,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -37765,7 +38174,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 564,
+                "OBJECTID": 565,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "Međa",
                 "IZDATO": 1971,
@@ -37781,7 +38190,7 @@
         },
         {
             "type": "Feature",
-            "id": 565,
+            "id": 566,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -37810,7 +38219,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 565,
+                "OBJECTID": 566,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "Банатско Ново Село-југ",
                 "IZDATO": 1992,
@@ -37826,7 +38235,7 @@
         },
         {
             "type": "Feature",
-            "id": 566,
+            "id": 567,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -37855,7 +38264,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 566,
+                "OBJECTID": 567,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "Банатско Ново Село",
                 "IZDATO": 1978,
@@ -37871,7 +38280,7 @@
         },
         {
             "type": "Feature",
-            "id": 567,
+            "id": 568,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -37900,7 +38309,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 567,
+                "OBJECTID": 568,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "Експлоатационо поље Чантавир",
                 "IZDATO": 2020,
@@ -37916,7 +38325,7 @@
         },
         {
             "type": "Feature",
-            "id": 568,
+            "id": 569,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -37945,7 +38354,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 568,
+                "OBJECTID": 569,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "Банатско Карађорђево",
                 "IZDATO": 2020,
@@ -37961,7 +38370,7 @@
         },
         {
             "type": "Feature",
-            "id": 569,
+            "id": 570,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -37990,7 +38399,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 569,
+                "OBJECTID": 570,
                 "PODNOSILAC": "LAKE EXPLORER DOO BEOGRAD",
                 "LEZISTE": "лежиште Пашњак код Чоке",
                 "IZDATO": 2022,
@@ -38006,7 +38415,7 @@
         },
         {
             "type": "Feature",
-            "id": 570,
+            "id": 571,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -38035,7 +38444,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 570,
+                "OBJECTID": 571,
                 "PODNOSILAC": "SONORA DOO SUBOTICA",
                 "LEZISTE": "Површински коп Доњи Таванкут код Суботице",
                 "IZDATO": 2023,
@@ -38051,7 +38460,7 @@
         },
         {
             "type": "Feature",
-            "id": 571,
+            "id": 572,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -38096,7 +38505,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 571,
+                "OBJECTID": 572,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "Келебија",
                 "IZDATO": null,
@@ -38112,7 +38521,7 @@
         },
         {
             "type": "Feature",
-            "id": 572,
+            "id": 573,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -38149,7 +38558,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 572,
+                "OBJECTID": 573,
                 "PODNOSILAC": "EKO GRADNJA DOO ZA PROIZVODNJU I UGRAĐIVANJE BETONSKE GALANTERIJE",
                 "LEZISTE": " ",
                 "IZDATO": null,
@@ -38165,7 +38574,7 @@
         },
         {
             "type": "Feature",
-            "id": 573,
+            "id": 574,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -38210,7 +38619,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 573,
+                "OBJECTID": 574,
                 "PODNOSILAC": "VOJPUT DOO SUBOTICA",
                 "LEZISTE": "Келебија-Војпут",
                 "IZDATO": 2018,
@@ -38226,7 +38635,7 @@
         },
         {
             "type": "Feature",
-            "id": 574,
+            "id": 575,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -38255,7 +38664,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 574,
+                "OBJECTID": 575,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "Експлоатационо поље Јаношик",
                 "IZDATO": null,
@@ -38271,7 +38680,7 @@
         },
         {
             "type": "Feature",
-            "id": 575,
+            "id": 576,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -38304,7 +38713,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 575,
+                "OBJECTID": 576,
                 "PODNOSILAC": "AD POLET IGK NOVI BEČEJ",
                 "LEZISTE": "С.О. Сремски Карловци;К.О. Сремски Карловци",
                 "IZDATO": 2011,
@@ -38320,7 +38729,7 @@
         },
         {
             "type": "Feature",
-            "id": 576,
+            "id": 577,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -38357,7 +38766,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 576,
+                "OBJECTID": 577,
                 "PODNOSILAC": "DRAGAN POPOVIĆ PR EKSPLOATACIJA ŠLJUNKA TRKI BELA CRKVA",
                 "LEZISTE": "Простор 4",
                 "IZDATO": 2017,
@@ -38373,7 +38782,7 @@
         },
         {
             "type": "Feature",
-            "id": 577,
+            "id": 578,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -38418,7 +38827,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 577,
+                "OBJECTID": 578,
                 "PODNOSILAC": "SPORT VISION DOO BEOGRAD",
                 "LEZISTE": "Експлоатациони простор изворишта у кругу логистичког центра \"Sport Vision\" у Шимановцима",
                 "IZDATO": 2023,
@@ -38434,7 +38843,7 @@
         },
         {
             "type": "Feature",
-            "id": 578,
+            "id": 579,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -38463,7 +38872,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 578,
+                "OBJECTID": 579,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "хидротермална бушотина Палић језеро Pj-1/H",
                 "IZDATO": null,
@@ -38479,7 +38888,7 @@
         },
         {
             "type": "Feature",
-            "id": 579,
+            "id": 580,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -38516,7 +38925,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 579,
+                "OBJECTID": 580,
                 "PODNOSILAC": "DŽIMI COMMERCE DOO PRIGREVICA",
                 "LEZISTE": "DŽIMI COMMERCE DOO PRIGREVICA површински коп Мрциниште ко Пригревица",
                 "IZDATO": null,
@@ -38532,7 +38941,7 @@
         },
         {
             "type": "Feature",
-            "id": 580,
+            "id": 581,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -38561,7 +38970,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 580,
+                "OBJECTID": 581,
                 "PODNOSILAC": "DAJ COOP DOO Zrenjanin",
                 "LEZISTE": "Мужља II код Зрењанина",
                 "IZDATO": 2019,
@@ -38577,7 +38986,7 @@
         },
         {
             "type": "Feature",
-            "id": 581,
+            "id": 582,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -38614,7 +39023,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 581,
+                "OBJECTID": 582,
                 "PODNOSILAC": "LAFARGE BFC DOO BEOČIN",
                 "LEZISTE": "С.О. Сремска Митровица;К.О. Бешеново Прњавор",
                 "IZDATO": 1987,
@@ -38630,7 +39039,7 @@
         },
         {
             "type": "Feature",
-            "id": 582,
+            "id": 583,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -38687,7 +39096,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 582,
+                "OBJECTID": 583,
                 "PODNOSILAC": "TOZA MARKOVIĆ DOO KIKINDA",
                 "LEZISTE": "Лежиште \"Источни ревир\"",
                 "IZDATO": 2006,
@@ -38703,7 +39112,7 @@
         },
         {
             "type": "Feature",
-            "id": 583,
+            "id": 584,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -38732,7 +39141,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 583,
+                "OBJECTID": 584,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "Хидротермална бушотина Pb-1/H Пригревица Бања \"Јунаковић\"",
                 "IZDATO": 2005,
@@ -38748,7 +39157,7 @@
         },
         {
             "type": "Feature",
-            "id": 584,
+            "id": 585,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -38777,7 +39186,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 584,
+                "OBJECTID": 585,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "Мартонош запад",
                 "IZDATO": 2019,
@@ -38793,7 +39202,7 @@
         },
         {
             "type": "Feature",
-            "id": 585,
+            "id": 586,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -38822,7 +39231,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 585,
+                "OBJECTID": 586,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "Војвода Степа",
                 "IZDATO": 1990,
@@ -38838,7 +39247,7 @@
         },
         {
             "type": "Feature",
-            "id": 586,
+            "id": 587,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -38907,7 +39316,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 586,
+                "OBJECTID": 587,
                 "PODNOSILAC": "CIGLANA I TRGOVINA TODOROVIĆ DOO za proizvodnju trgovinu i usluge Pećinci",
                 "LEZISTE": "Површински коп Циглане Тодоровић код Пећинаца",
                 "IZDATO": 2018,
@@ -38923,7 +39332,7 @@
         },
         {
             "type": "Feature",
-            "id": 587,
+            "id": 588,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -38952,7 +39361,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 587,
+                "OBJECTID": 588,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "експлоатационо поље Банатско Милошево",
                 "IZDATO": 2020,
@@ -38968,7 +39377,7 @@
         },
         {
             "type": "Feature",
-            "id": 588,
+            "id": 589,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -38997,7 +39406,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 588,
+                "OBJECTID": 589,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "гасно поље Српска Црња",
                 "IZDATO": 2022,
@@ -39013,7 +39422,7 @@
         },
         {
             "type": "Feature",
-            "id": 589,
+            "id": 590,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -39042,7 +39451,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 589,
+                "OBJECTID": 590,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "нафтно-гасно лежиште Чока",
                 "IZDATO": 2022,
@@ -39058,7 +39467,7 @@
         },
         {
             "type": "Feature",
-            "id": 590,
+            "id": 591,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -39087,7 +39496,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 590,
+                "OBJECTID": 591,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "Банатско Милошево",
                 "IZDATO": 1977,
@@ -39103,7 +39512,7 @@
         },
         {
             "type": "Feature",
-            "id": 591,
+            "id": 592,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -39132,7 +39541,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 591,
+                "OBJECTID": 592,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "гасно поље Мартонош",
                 "IZDATO": 1986,
@@ -39148,7 +39557,7 @@
         },
         {
             "type": "Feature",
-            "id": 592,
+            "id": 593,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -39185,7 +39594,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 592,
+                "OBJECTID": 593,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "Експлоатација лежишта пијаће воде на локалитету Јазак-Јазачки Прњавор",
                 "IZDATO": 2002,
@@ -39201,7 +39610,7 @@
         },
         {
             "type": "Feature",
-            "id": 593,
+            "id": 594,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -39238,7 +39647,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 593,
+                "OBJECTID": 594,
                 "PODNOSILAC": "ECOAGRI SERBIA DOO BELA CRKVA",
                 "LEZISTE": "Мали Гај",
                 "IZDATO": 2013,
@@ -39254,7 +39663,7 @@
         },
         {
             "type": "Feature",
-            "id": 594,
+            "id": 595,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -39283,7 +39692,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 594,
+                "OBJECTID": 595,
                 "PODNOSILAC": "ECOAGRI SERBIA DOO BELA CRKVA",
                 "LEZISTE": "Мали Гај",
                 "IZDATO": 2013,
@@ -39299,7 +39708,7 @@
         },
         {
             "type": "Feature",
-            "id": 595,
+            "id": 596,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -39348,7 +39757,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 595,
+                "OBJECTID": 596,
                 "PODNOSILAC": " ",
                 "LEZISTE": " ",
                 "IZDATO": null,
@@ -39364,7 +39773,7 @@
         },
         {
             "type": "Feature",
-            "id": 596,
+            "id": 597,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -39413,7 +39822,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 596,
+                "OBJECTID": 597,
                 "PODNOSILAC": "EKO GRADNJA DOO ZA PROIZVODNJU I UGRAĐIVANJE BETONSKE GALANTERIJE",
                 "LEZISTE": " ",
                 "IZDATO": null,
@@ -39429,7 +39838,7 @@
         },
         {
             "type": "Feature",
-            "id": 597,
+            "id": 598,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -39462,7 +39871,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 597,
+                "OBJECTID": 598,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "Експлоатационо поље Келебија-измена граница ЕП",
                 "IZDATO": null,
@@ -39478,7 +39887,7 @@
         },
         {
             "type": "Feature",
-            "id": 598,
+            "id": 599,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -39507,7 +39916,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 598,
+                "OBJECTID": 599,
                 "PODNOSILAC": "DELTA AGRAR DOO",
                 "LEZISTE": "Експлоатациони простор изворишта \"Фарма Челарево\" у Гложану",
                 "IZDATO": 2023,
@@ -39523,7 +39932,7 @@
         },
         {
             "type": "Feature",
-            "id": 599,
+            "id": 600,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -39556,7 +39965,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 599,
+                "OBJECTID": 600,
                 "PODNOSILAC": "GRUNDFOS SRBIJA DOO INĐIJA",
                 "LEZISTE": "Експлоатациони простор сагледаних петрогеотермалних ресурса налазишта GRUNDFOS DOO у Инђији",
                 "IZDATO": 2023,
@@ -39572,7 +39981,7 @@
         },
         {
             "type": "Feature",
-            "id": 600,
+            "id": 601,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -39629,7 +40038,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 600,
+                "OBJECTID": 601,
                 "PODNOSILAC": " ",
                 "LEZISTE": " ",
                 "IZDATO": null,
@@ -39645,7 +40054,7 @@
         },
         {
             "type": "Feature",
-            "id": 601,
+            "id": 602,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -39682,7 +40091,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 601,
+                "OBJECTID": 602,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "Експлоатационо поље Горњи Брег-измена граница еп",
                 "IZDATO": 2023,
@@ -39698,7 +40107,7 @@
         },
         {
             "type": "Feature",
-            "id": 602,
+            "id": 603,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -39727,7 +40136,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 602,
+                "OBJECTID": 603,
                 "PODNOSILAC": "INOSLAVA PEŠIĆA PREDUZETNIK SAMOSTALNA RADNJA ZA PROIZVODNJU CIGLE",
                 "LEZISTE": " ",
                 "IZDATO": null,
@@ -39743,7 +40152,7 @@
         },
         {
             "type": "Feature",
-            "id": 603,
+            "id": 604,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -39772,7 +40181,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 603,
+                "OBJECTID": 604,
                 "PODNOSILAC": "INOSLAVA PEŠIĆA PREDUZETNIK SAMOSTALNA RADNJA ZA PROIZVODNJU CIGLE",
                 "LEZISTE": " ",
                 "IZDATO": null,
@@ -39788,7 +40197,7 @@
         },
         {
             "type": "Feature",
-            "id": 604,
+            "id": 605,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -39841,7 +40250,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 604,
+                "OBJECTID": 605,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "Нафтно гасно поље Елемир",
                 "IZDATO": 2018,
@@ -39857,7 +40266,7 @@
         },
         {
             "type": "Feature",
-            "id": 605,
+            "id": 606,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -39918,7 +40327,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 605,
+                "OBJECTID": 606,
                 "PODNOSILAC": "EKO GRADNJA DOO ZA PROIZVODNJU I UGRAĐIVANJE BETONSKE GALANTERIJE",
                 "LEZISTE": " ",
                 "IZDATO": null,
@@ -39934,7 +40343,7 @@
         },
         {
             "type": "Feature",
-            "id": 606,
+            "id": 607,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -39963,7 +40372,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 606,
+                "OBJECTID": 607,
                 "PODNOSILAC": "КАЗНЕНО-ПОПРАВНИ ЗАВОД СРЕМСКА МИТРОВИЦА",
                 "LEZISTE": "Експлоатациони простор изворишта Казнено поправног завода Сремска Митровица",
                 "IZDATO": 2021,
@@ -39979,7 +40388,7 @@
         },
         {
             "type": "Feature",
-            "id": 607,
+            "id": 608,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -40008,7 +40417,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 607,
+                "OBJECTID": 608,
                 "PODNOSILAC": "VICTORIAOIL DOO",
                 "LEZISTE": "Експлоатациони простор изворишта Victoriaoil у Шиду",
                 "IZDATO": 2022,

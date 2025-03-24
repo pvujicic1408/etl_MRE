@@ -1,6 +1,5 @@
 import createEngine
 import downloadLayer
-from sqlalchemy import create_engine
 
 
 def store(layerID):

@@ -1,8 +1,12 @@
 from sqlalchemy import create_engine
 
-import Consts
+DB_USER = "postgres"
+DB_PASSWORD = "1408"
+DB_HOST = "localhost"
+DB_PORT = "5432"
+DB_NAME = "gis_database"
 
 
 def create():
     return create_engine(
-        f"postgresql://{Consts.DB_USER}:{Consts.DB_PASSWORD}@{Consts.DB_HOST}:{Consts.DB_PORT}/{Consts.DB_NAME}")
+        f"postgresql://{DB_USER}:{DB_PASSWORD}@{DB_HOST}:{DB_PORT}/{DB_NAME}")

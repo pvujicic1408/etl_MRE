@@ -1,11 +1,10 @@
 import requests
 import geopandas as gpd
 
-import Consts
-
+BASE_URL = "https://gis.mre.gov.rs/arcgis/rest/services/OpenData/CISGIR/MapServer"
 
 def download(layerID):
-    queryUrl = f"{Consts.BASE_URL}/{layerID}/query"
+    queryUrl = f"{BASE_URL}/{layerID}/query"
     params = {
         "where": "1=1",
         "outFields": "*",

@@ -2,12 +2,12 @@ import requests
 import json
 import os
 
-import Consts
 import availableLayers
 
+BASE_URL = "https://gis.mre.gov.rs/arcgis/rest/services/OpenData/CISGIR/MapServer"
 
 def downloadLayerData(layer_id, layer_name):
-    query_url = f"{Consts.BASE_URL}/{layer_id}/query"
+    query_url = f"{BASE_URL}/{layer_id}/query"
     params = {
         "where": "1=1",
         "outFields": "*",
@@ -43,7 +43,8 @@ def downloadLayerData(layer_id, layer_name):
         print(f"Greška pri preuzimanju podataka za sloj {layer_name} - Status kod: {response.status_code}")
 
 
-def download(layers):
+def download():
     layers = availableLayers.get()
+    formats = ["json", "geojson"]
     for layer_id, layer_name in layers:
-        downloadLayerData(layer_id, layer_name)
+       downloadLayerData(layer_id, layer_name)

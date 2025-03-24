@@ -2175,80 +2175,6 @@
         {
             "attributes": {
                 "OBJECTID": 28,
-                "RB": 2431,
-                "NPO": "Tera Balkanika doo, Beograd",
-                "LOKALNOST": "Ceovište",
-                "SIROVINA": "Pb, Zn, Ag, Cu, Au",
-                "Shape.STArea()": 80322050,
-                "Shape.STLength()": 43009.113342069344,
-                "OPSTINA": "Kraljevo, Raška",
-                "Opstina_provera": null,
-                "Ops_komentar": null,
-                "vr_sirovine": "Metali",
-                "nadleznost": "Ministarstvo rudarstva i energetike"
-            },
-            "geometry": {
-                "rings": [
-                    [
-                        [
-                            2302695.003906966,
-                            5389326.04645939
-                        ],
-                        [
-                            2310610.8307060013,
-                            5389352.675388998
-                        ],
-                        [
-                            2310622.9022903047,
-                            5385208.935605303
-                        ],
-                        [
-                            2311316.612144574,
-                            5383208.775601281
-                        ],
-                        [
-                            2314824.8133545886,
-                            5383218.1315640975
-                        ],
-                        [
-                            2312779.0986190466,
-                            5376519.0329667805
-                        ],
-                        [
-                            2312917.626733369,
-                            5374575.646972104
-                        ],
-                        [
-                            2313752.7972013336,
-                            5372107.689518285
-                        ],
-                        [
-                            2306195.133138331,
-                            5372085.030937953
-                        ],
-                        [
-                            2301841.4544817754,
-                            5378621.800986673
-                        ],
-                        [
-                            2306160.0892340485,
-                            5382433.275895518
-                        ],
-                        [
-                            2302713.1991542936,
-                            5384491.904536234
-                        ],
-                        [
-                            2302695.003906966,
-                            5389326.04645939
-                        ]
-                    ]
-                ]
-            }
-        },
-        {
-            "attributes": {
-                "OBJECTID": 29,
                 "RB": 2400,
                 "NPO": "Valdor Resources doo, Beograd",
                 "LOKALNOST": "Oblež",
@@ -2318,7 +2244,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 30,
+                "OBJECTID": 29,
                 "RB": 2417,
                 "NPO": "Ecomet Reciklaža doo, Loznica",
                 "LOKALNOST": "Rajićeva Gora - Lokvice",
@@ -2380,7 +2306,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 31,
+                "OBJECTID": 30,
                 "RB": 2385,
                 "NPO": "Zlatna reka resources doo, Beograd",
                 "LOKALNOST": "Šanac",
@@ -2474,7 +2400,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 32,
+                "OBJECTID": 31,
                 "RB": 2407,
                 "NPO": "Medgold istraživanja doo, Beograd",
                 "LOKALNOST": "Surlica - Dukat",
@@ -2568,7 +2494,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 33,
+                "OBJECTID": 32,
                 "RB": 2408,
                 "NPO": "Medgold istraživanja doo, Beograd",
                 "LOKALNOST": "Donje Tlamino",
@@ -2686,7 +2612,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 34,
+                "OBJECTID": 33,
                 "RB": 2426,
                 "NPO": "SERBIA ZIJIN COPPER DOO BOR",
                 "LOKALNOST": "Veliki Krivelj - Istok 1, poligon 1",
@@ -2764,7 +2690,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 35,
+                "OBJECTID": 34,
                 "RB": 2426,
                 "NPO": "SERBIA ZIJIN COPPER DOO BOR",
                 "LOKALNOST": "Veliki Krivelj - Istok 1, poligon 2",
@@ -2806,7 +2732,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 36,
+                "OBJECTID": 35,
                 "RB": 2448,
                 "NPO": "TREND-COMPANY doo, Jagodina",
                 "LOKALNOST": "Kalna",
@@ -2876,7 +2802,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 37,
+                "OBJECTID": 36,
                 "RB": 2449,
                 "NPO": "ZEO-KOP doo, Brus",
                 "LOKALNOST": "Igroš",
@@ -2926,7 +2852,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 38,
+                "OBJECTID": 37,
                 "RB": 2520,
                 "NPO": "SERBIA ZIJIN COPPER DOO BOR",
                 "LOKALNOST": "Cerovo sever 2",
@@ -2992,7 +2918,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 39,
+                "OBJECTID": 38,
                 "RB": 2543,
                 "NPO": "Electrum Discovery doo, Beograd",
                 "LOKALNOST": "Makovište",
@@ -3078,7 +3004,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 40,
+                "OBJECTID": 39,
                 "RB": 2383,
                 "NPO": "Metalfer Polimetals doo, Sremska Mitrovica",
                 "LOKALNOST": "Ivan Kula polje 1",
@@ -3120,7 +3046,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 41,
+                "OBJECTID": 40,
                 "RB": 2481,
                 "NPO": "Southwest minerals doo, Beograd",
                 "LOKALNOST": "Odej jug",
@@ -3204,7 +3130,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 42,
+                "OBJECTID": 41,
                 "RB": 2480,
                 "NPO": "Southwest minerals doo, Beograd",
                 "LOKALNOST": "Gramada",
@@ -3246,7 +3172,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 43,
+                "OBJECTID": 42,
                 "RB": 2610,
                 "NPO": "JUGO-KAOLIN doo, Beograd",
                 "LOKALNOST": "Rekava",
@@ -3288,7 +3214,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 44,
+                "OBJECTID": 43,
                 "RB": 2520,
                 "NPO": "SERBIA ZIJIN COPPER DOO BOR",
                 "LOKALNOST": "Cerovo sever 1",
@@ -3334,7 +3260,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 45,
+                "OBJECTID": 44,
                 "RB": 2521,
                 "NPO": "Mineco Plus doo, Beograd",
                 "LOKALNOST": "Jablanika i Povlen",
@@ -3428,7 +3354,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 46,
+                "OBJECTID": 45,
                 "RB": 2510,
                 "NPO": "Mineco Plus doo, beograd",
                 "LOKALNOST": "Riđevštice",
@@ -3486,7 +3412,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 47,
+                "OBJECTID": 46,
                 "RB": 2544,
                 "NPO": "Electrum Discovery doo, Beograd",
                 "LOKALNOST": "Brod",
@@ -3536,7 +3462,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 48,
+                "OBJECTID": 47,
                 "RB": 2527,
                 "NPO": "Serbia Zijin Mining doo, Bor",
                 "LOKALNOST": "Brestovac - Metovnica",
@@ -3590,7 +3516,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 49,
+                "OBJECTID": 48,
                 "RB": 2534,
                 "NPO": "Serbia Zijin Mining doo, Bor",
                 "LOKALNOST": "Jasikovo - Durlan potok",
@@ -3692,7 +3618,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 50,
+                "OBJECTID": 49,
                 "RB": 2568,
                 "NPO": "Konstantin Resources doo, Beograd",
                 "LOKALNOST": "Ober",
@@ -3742,7 +3668,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 51,
+                "OBJECTID": 50,
                 "RB": 2571,
                 "NPO": "Konstantin Resources doo, Beograd",
                 "LOKALNOST": "Priboj",
@@ -3978,7 +3904,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 52,
+                "OBJECTID": 51,
                 "RB": 2551,
                 "NPO": "Aurelius Exploration doo, Ljig",
                 "LOKALNOST": "Voluja-Debeli lug",
@@ -25504,7 +25430,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 53,
+                "OBJECTID": 52,
                 "RB": 2569,
                 "NPO": "Konstantin Resources doo, Beograd",
                 "LOKALNOST": "Kamenita kosa",
@@ -25562,7 +25488,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 54,
+                "OBJECTID": 53,
                 "RB": 2546,
                 "NPO": "PATHFINDER RESOURCES doo, Beograd",
                 "LOKALNOST": "Trstenik",
@@ -25644,7 +25570,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 55,
+                "OBJECTID": 54,
                 "RB": 2556,
                 "NPO": "FerAcer doo, Zaječar",
                 "LOKALNOST": "Metriš",
@@ -25694,7 +25620,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 56,
+                "OBJECTID": 55,
                 "RB": 2553,
                 "NPO": "Konstantin Resources doo, Beograd",
                 "LOKALNOST": "Bobija",
@@ -25824,7 +25750,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 57,
+                "OBJECTID": 56,
                 "RB": 2559,
                 "NPO": "Tilva doo, Beograd",
                 "LOKALNOST": "Tilva Njagra",
@@ -25894,7 +25820,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 58,
+                "OBJECTID": 57,
                 "RB": 2552,
                 "NPO": "SERBIA ZIJIN COPPER DOO BOR",
                 "LOKALNOST": "Veliki Krivelj - Istok 2, poligon 2",
@@ -25932,7 +25858,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 59,
+                "OBJECTID": 58,
                 "RB": 2552,
                 "NPO": "SERBIA ZIJIN COPPER DOO BOR",
                 "LOKALNOST": "Veliki Krivelj - Istok 2, poligon 1",
@@ -26034,7 +25960,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 60,
+                "OBJECTID": 59,
                 "RB": 2558,
                 "NPO": "Serbia Zijin Mining doo, Bor",
                 "LOKALNOST": "Leskovo-Jasikovo",
@@ -26084,7 +26010,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 61,
+                "OBJECTID": 60,
                 "RB": 2563,
                 "NPO": "NIS ad, Novi Sad",
                 "LOKALNOST": "Podunavlje",
@@ -26178,7 +26104,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 62,
+                "OBJECTID": 61,
                 "RB": 2606,
                 "NPO": "Sedra Plus doo, Beograd",
                 "LOKALNOST": "Petrovića strana",
@@ -26232,7 +26158,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 63,
+                "OBJECTID": 62,
                 "RB": 2567,
                 "NPO": "Stone-Cop doo, Zabrdica",
                 "LOKALNOST": "Krstivojevića majdan",
@@ -26424,7 +26350,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 64,
+                "OBJECTID": 63,
                 "RB": 2401,
                 "NPO": "Valdor Resources doo, Beograd",
                 "LOKALNOST": "Skoruša",
@@ -26636,7 +26562,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 65,
+                "OBJECTID": 64,
                 "RB": 2561,
                 "NPO": "ARTEMIS VENTURES doo, Beograd",
                 "LOKALNOST": "Lipovica",
@@ -26706,7 +26632,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 66,
+                "OBJECTID": 65,
                 "RB": 2560,
                 "NPO": "Srmeks Moneks PR, Petrovac na Mlavi",
                 "LOKALNOST": "Glavica",
@@ -26782,7 +26708,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 67,
+                "OBJECTID": 66,
                 "RB": 2573,
                 "NPO": "Hum doo, Tutin",
                 "LOKALNOST": "Stari krst",
@@ -26836,7 +26762,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 68,
+                "OBJECTID": 67,
                 "RB": 2565,
                 "NPO": "Vuković Benz doo, Veternik",
                 "LOKALNOST": "Mazgoš",
@@ -26918,7 +26844,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 69,
+                "OBJECTID": 68,
                 "RB": 2535,
                 "NPO": "Crni Vrh Resources doo, Beograd",
                 "LOKALNOST": "Čoka Rakita",
@@ -26996,7 +26922,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 70,
+                "OBJECTID": 69,
                 "RB": 2614,
                 "NPO": "NLT-KRASIĆ doo, Trstenik",
                 "LOKALNOST": "Lipak",
@@ -27046,7 +26972,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 71,
+                "OBJECTID": 70,
                 "RB": 2566,
                 "NPO": "Cemprom doo, Preljina",
                 "LOKALNOST": "Krš",
@@ -27092,7 +27018,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 72,
+                "OBJECTID": 71,
                 "RB": 2572,
                 "NPO": "Banja Komerc Bekament d.o.o., Aranđelovac",
                 "LOKALNOST": "Brezovački breg",
@@ -27146,7 +27072,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 73,
+                "OBJECTID": 72,
                 "RB": 2570,
                 "NPO": "Tilva doo, Beograd",
                 "LOKALNOST": "Nikolićevo",
@@ -27220,7 +27146,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 74,
+                "OBJECTID": 73,
                 "RB": 2574,
                 "NPO": "Z.R. Rapid, Vigošte",
                 "LOKALNOST": "Malič",
@@ -27262,49 +27188,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 75,
-                "RB": 2585,
-                "NPO": "Iva-agrar doo, Lajkovac",
-                "LOKALNOST": "Ostreš 2",
-                "SIROVINA": "krečnjak kao TGK",
-                "Shape.STArea()": 120000,
-                "Shape.STLength()": 1400,
-                "OPSTINA": "Lajkovac",
-                "Opstina_provera": null,
-                "Ops_komentar": null,
-                "vr_sirovine": "Nemetali",
-                "nadleznost": "Ministarstvo rudarstva i energetike"
-            },
-            "geometry": {
-                "rings": [
-                    [
-                        [
-                            2235995.837111508,
-                            5521286.410005234
-                        ],
-                        [
-                            2235991.165789194,
-                            5521706.763712125
-                        ],
-                        [
-                            2236549.726674459,
-                            5521712.996879408
-                        ],
-                        [
-                            2236554.372353949,
-                            5521292.642301722
-                        ],
-                        [
-                            2235995.837111508,
-                            5521286.410005234
-                        ]
-                    ]
-                ]
-            }
-        },
-        {
-            "attributes": {
-                "OBJECTID": 76,
+                "OBJECTID": 74,
                 "RB": 2602,
                 "NPO": "Konstantin Resources doo, Beograd",
                 "LOKALNOST": "Bobija istok",
@@ -27382,7 +27266,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 77,
+                "OBJECTID": 75,
                 "RB": 2581,
                 "NPO": "Mermer-Tim doo, Aranđelovac",
                 "LOKALNOST": "Vinogradi 3",
@@ -27436,7 +27320,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 78,
+                "OBJECTID": 76,
                 "RB": 2582,
                 "NPO": "Metalfer doo, Sremska Mitrovica",
                 "LOKALNOST": "Veliki Bašinac 1",
@@ -27530,7 +27414,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 79,
+                "OBJECTID": 77,
                 "RB": 2587,
                 "NPO": "Metalfer doo, Sremska Mitrovica",
                 "LOKALNOST": "Mali Bašinac poligon 1",
@@ -27704,7 +27588,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 80,
+                "OBJECTID": 78,
                 "RB": 2587,
                 "NPO": "Metalfer doo, Sremska Mitrovica",
                 "LOKALNOST": "Mali Bašinac poligon 2",
@@ -27758,7 +27642,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 81,
+                "OBJECTID": 79,
                 "RB": 2576,
                 "NPO": "Mineco Plus doo, Beograd",
                 "LOKALNOST": "Veliki Majdan",
@@ -27862,7 +27746,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 82,
+                "OBJECTID": 80,
                 "RB": 2575,
                 "NPO": "Euro elita Eko Sistem doo, Ljig",
                 "LOKALNOST": "Aluvijon Šumanke i Jablanice",
@@ -28244,7 +28128,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 83,
+                "OBJECTID": 81,
                 "RB": 2627,
                 "NPO": "Voyager Ventures doo, Beograd",
                 "LOKALNOST": "Ružana",
@@ -28322,7 +28206,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 84,
+                "OBJECTID": 82,
                 "RB": 2595,
                 "NPO": "Veliki Majdan doo, Ljubovija",
                 "LOKALNOST": "Ravnaja",
@@ -28364,7 +28248,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 85,
+                "OBJECTID": 83,
                 "RB": 2628,
                 "NPO": "Azul Mineral Investment doo, Beograd",
                 "LOKALNOST": "Lisina",
@@ -28442,7 +28326,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 86,
+                "OBJECTID": 84,
                 "RB": 2584,
                 "NPO": "KGLdoo, Lazarevac",
                 "LOKALNOST": "Dren 2",
@@ -28560,7 +28444,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 87,
+                "OBJECTID": 85,
                 "RB": 2580,
                 "NPO": "Metalfer doo, Sremska Mitrovica",
                 "LOKALNOST": "Drenovci Pobilje",
@@ -28630,7 +28514,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 88,
+                "OBJECTID": 86,
                 "RB": 2579,
                 "NPO": "Metalfer doo, Sremska Mitrovica",
                 "LOKALNOST": "Drenovci Sopolje",
@@ -28724,7 +28608,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 89,
+                "OBJECTID": 87,
                 "RB": 2578,
                 "NPO": "Crni Vrh Resources doo, Beograd",
                 "LOKALNOST": "Potaj Čuka",
@@ -28790,7 +28674,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 90,
+                "OBJECTID": 88,
                 "RB": 2577,
                 "NPO": "Crni Vrh Resources doo, Beograd",
                 "LOKALNOST": "Pešter Jug",
@@ -28864,7 +28748,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 91,
+                "OBJECTID": 89,
                 "RB": 2588,
                 "NPO": "ZORKA-OPEKA doo, Šabac",
                 "LOKALNOST": "Ravan",
@@ -28914,7 +28798,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 92,
+                "OBJECTID": 90,
                 "RB": 2600,
                 "NPO": "Azul Mineral Investments doo, Beograd",
                 "LOKALNOST": "Šušnjak",
@@ -29036,7 +28920,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 93,
+                "OBJECTID": 91,
                 "RB": 2586,
                 "NPO": "Balkan Gold doo, Beograd",
                 "LOKALNOST": "Piskanja",
@@ -29078,7 +28962,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 94,
+                "OBJECTID": 92,
                 "RB": 2589,
                 "NPO": "Balkan Gold doo, Beograd",
                 "LOKALNOST": "Jarandolski basen",
@@ -29172,7 +29056,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 95,
+                "OBJECTID": 93,
                 "RB": 2598,
                 "NPO": "Balkan Sand and Clay doo, Beograd",
                 "LOKALNOST": "Kapetanovo",
@@ -29222,7 +29106,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 96,
+                "OBJECTID": 94,
                 "RB": 2591,
                 "NPO": "Balaš Kupuzište doo, Kupuzušte",
                 "LOKALNOST": "Utrina",
@@ -29328,7 +29212,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 97,
+                "OBJECTID": 95,
                 "RB": 2592,
                 "NPO": "Serbia Zijin Mining doo, Bor",
                 "LOKALNOST": "Brestovac zapad",
@@ -29390,7 +29274,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 98,
+                "OBJECTID": 96,
                 "RB": 2611,
                 "NPO": "Azul Mineral Investments doo, Beograd",
                 "LOKALNOST": "Tijovac",
@@ -29476,7 +29360,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 99,
+                "OBJECTID": 97,
                 "RB": 2615,
                 "NPO": "Azul Mineral Investments doo, Beograd",
                 "LOKALNOST": "Kosanica",
@@ -29546,7 +29430,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 100,
+                "OBJECTID": 98,
                 "RB": 2594,
                 "NPO": "SERBIA ZIJIN MINING doo, Bor",
                 "LOKALNOST": "Degrmen",
@@ -29624,7 +29508,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 101,
+                "OBJECTID": 99,
                 "RB": 2605,
                 "NPO": "Magma Resources doo, Beograd",
                 "LOKALNOST": "Durlan Istok",
@@ -29670,7 +29554,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 102,
+                "OBJECTID": 100,
                 "RB": 2612,
                 "NPO": "Dabi beton doo, Kruševac",
                 "LOKALNOST": "Beljevina",
@@ -29744,7 +29628,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 103,
+                "OBJECTID": 101,
                 "RB": 2596,
                 "NPO": "SZR I AUTOPREVOZNIK ŽELJKO ĐURIĆ",
                 "LOKALNOST": "Branešci-Sušica",
@@ -29842,7 +29726,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 104,
+                "OBJECTID": 102,
                 "RB": 2601,
                 "NPO": "Gypsos IR doo, Gruža",
                 "LOKALNOST": "Lipnica",
@@ -29896,7 +29780,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 105,
+                "OBJECTID": 103,
                 "RB": 2640,
                 "NPO": "Magma Resources doo, Beograd",
                 "LOKALNOST": "Lenovac sever poligon 2",
@@ -29942,7 +29826,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 106,
+                "OBJECTID": 104,
                 "RB": 2617,
                 "NPO": "Nova Planina Resources doo, Beograd",
                 "LOKALNOST": "Orlovac",
@@ -29996,7 +29880,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 107,
+                "OBJECTID": 105,
                 "RB": 2597,
                 "NPO": "ZORKA-KERAMIKA doo, Šabac",
                 "LOKALNOST": "Bele Vode - istok",
@@ -30058,7 +29942,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 108,
+                "OBJECTID": 106,
                 "RB": 2613,
                 "NPO": "KORMANPUT doo, Kragujevac",
                 "LOKALNOST": "Mala Straževica",
@@ -30120,7 +30004,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 109,
+                "OBJECTID": 107,
                 "RB": 2599,
                 "NPO": "STANDARD DOO, CRVICA",
                 "LOKALNOST": "Sirova Gora",
@@ -30218,7 +30102,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 111,
+                "OBJECTID": 109,
                 "RB": 2603,
                 "NPO": "Jugo-Kaolin doo, Beograd",
                 "LOKALNOST": "Kaona",
@@ -30260,7 +30144,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 112,
+                "OBJECTID": 110,
                 "RB": 2640,
                 "NPO": "Magma Resources doo, Beograd",
                 "LOKALNOST": "Lenovac sever poligon 1",
@@ -30334,7 +30218,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 113,
+                "OBJECTID": 111,
                 "RB": 2606,
                 "NPO": "Metalfer Polimetals doo, Sremska Mitrovica",
                 "LOKALNOST": "Majdan planina",
@@ -30400,7 +30284,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 114,
+                "OBJECTID": 112,
                 "RB": 2635,
                 "NPO": "PR PREVOZ KOP - BETONSKA BAZA",
                 "LOKALNOST": "Gornje Polje",
@@ -30442,7 +30326,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 116,
+                "OBJECTID": 113,
                 "RB": 2634,
                 "NPO": "PR PREVOZ KOP - BETONSKA BAZA",
                 "LOKALNOST": "Struke",
@@ -30484,7 +30368,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 117,
+                "OBJECTID": 114,
                 "RB": 2624,
                 "NPO": "Sermetco doo, Beograd",
                 "LOKALNOST": "Trnava",
@@ -30554,7 +30438,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 118,
+                "OBJECTID": 115,
                 "RB": 2616,
                 "NPO": "Copper Co doo, Beograd",
                 "LOKALNOST": "Tolišnica i Stanča",
@@ -30624,7 +30508,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 119,
+                "OBJECTID": 116,
                 "RB": 2608,
                 "NPO": "BALKAN PHOSPHATE doo, Ljig",
                 "LOKALNOST": "Čemernik",
@@ -30718,7 +30602,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 120,
+                "OBJECTID": 117,
                 "RB": 2619,
                 "NPO": "VESCO BALKANS doo, Beograd",
                 "LOKALNOST": "Savića Mala",
@@ -30760,7 +30644,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 121,
+                "OBJECTID": 118,
                 "RB": 2618,
                 "NPO": "IGM Mladost doo, Leskovac",
                 "LOKALNOST": "Kaštavar",
@@ -30870,7 +30754,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 122,
+                "OBJECTID": 119,
                 "RB": 2621,
                 "NPO": "NM KOP doo, Beograd",
                 "LOKALNOST": "Jakovo III",
@@ -30948,7 +30832,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 123,
+                "OBJECTID": 120,
                 "RB": 2622,
                 "NPO": "Metalfer Polimetals doo, Sremska Mitrovica",
                 "LOKALNOST": "Kaona",
@@ -31010,7 +30894,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 124,
+                "OBJECTID": 121,
                 "RB": 2623,
                 "NPO": "EPS AD - Beograd,  Ogranak TE-KO Kostolac",
                 "LOKALNOST": "Kostolac zapad",
@@ -31112,7 +30996,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 125,
+                "OBJECTID": 122,
                 "RB": 2625,
                 "NPO": "Kruševacput AD, Kruševac",
                 "LOKALNOST": "Lešje",
@@ -31158,7 +31042,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 126,
+                "OBJECTID": 123,
                 "RB": 2626,
                 "NPO": "Majn doo, Beograd",
                 "LOKALNOST": "Stare kuće",
@@ -31200,7 +31084,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 127,
+                "OBJECTID": 124,
                 "RB": 2646,
                 "NPO": "PZP Valjevo ad, Valjevo",
                 "LOKALNOST": "Rađevinski basen",
@@ -31266,7 +31150,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 128,
+                "OBJECTID": 125,
                 "RB": 2633,
                 "NPO": "Magma Resources doo, Beograd",
                 "LOKALNOST": "Lenovac jug",
@@ -31410,7 +31294,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 129,
+                "OBJECTID": 126,
                 "RB": 2629,
                 "NPO": "VESCO BALKANS doo, Beograd",
                 "LOKALNOST": "Rakovac",
@@ -31452,9 +31336,9 @@
         },
         {
             "attributes": {
-                "OBJECTID": 131,
+                "OBJECTID": 128,
                 "RB": 2631,
-                "NPO": "Mađa doo, Obrenovac",
+                "NPO": "Međa doo, Obrenovac",
                 "LOKALNOST": "Brgulice 1",
                 "SIROVINA": "pesak",
                 "Shape.STArea()": 56622,
@@ -31534,7 +31418,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 132,
+                "OBJECTID": 129,
                 "RB": 2630,
                 "NPO": "SZR Tasić-Kop, Prokuplje",
                 "LOKALNOST": "Bostanište",
@@ -31592,7 +31476,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 133,
+                "OBJECTID": 130,
                 "RB": 2654,
                 "NPO": "PR SATURN, Žagubica",
                 "LOKALNOST": "Beljevina",
@@ -31638,7 +31522,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 134,
+                "OBJECTID": 131,
                 "RB": 2632,
                 "NPO": "Niskogradnja-Ub doo, Ub",
                 "LOKALNOST": "Krš-jug",
@@ -31680,7 +31564,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 135,
+                "OBJECTID": 132,
                 "RB": 2647,
                 "NPO": "Metalfer Kamenolomi doo, Sremska Mitrovica",
                 "LOKALNOST": "Mali Kik",
@@ -31734,7 +31618,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 136,
+                "OBJECTID": 133,
                 "RB": 2639,
                 "NPO": "VR RIVER NYDRO ENERGY doo. Brus",
                 "LOKALNOST": "Vrelo",
@@ -31792,7 +31676,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 137,
+                "OBJECTID": 134,
                 "RB": 2637,
                 "NPO": "Leon doo, Ub",
                 "LOKALNOST": "Provalije 2",
@@ -31870,7 +31754,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 138,
+                "OBJECTID": 135,
                 "RB": 2641,
                 "NPO": "PR SATURN, Žagubica",
                 "LOKALNOST": "Pregrada",
@@ -31912,7 +31796,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 140,
+                "OBJECTID": 137,
                 "RB": 2642,
                 "NPO": "ROAD CONSTRUCTION COOP doo, Obrenovac",
                 "LOKALNOST": "Provo",
@@ -31970,7 +31854,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 141,
+                "OBJECTID": 138,
                 "RB": 2653,
                 "NPO": "KAMEN PLUS 2020 doo, Novi Pazar",
                 "LOKALNOST": "Suhar",
@@ -32020,7 +31904,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 142,
+                "OBJECTID": 139,
                 "RB": 2645,
                 "NPO": "Dunav minerals doo, Beograd",
                 "LOKALNOST": "Tulare",
@@ -32078,121 +31962,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 143,
-                "RB": 2499,
-                "NPO": "Valdor Resources doo, Beograd",
-                "LOKALNOST": "Branik",
-                "SIROVINA": "Cu, Au",
-                "Shape.STArea()": 21178887.5,
-                "Shape.STLength()": 28970.701096667457,
-                "OPSTINA": "Bor",
-                "Opstina_provera": null,
-                "Ops_komentar": null,
-                "vr_sirovine": "Metali",
-                "nadleznost": "Ministarstvo rudarstva i energetike"
-            },
-            "geometry": {
-                "rings": [
-                    [
-                        [
-                            2463295.7582678134,
-                            5473189.747235069
-                        ],
-                        [
-                            2463306.504566037,
-                            5473977.267704493
-                        ],
-                        [
-                            2463395.0811354946,
-                            5473952.349322406
-                        ],
-                        [
-                            2466636.2983704596,
-                            5476525.787858104
-                        ],
-                        [
-                            2466701.537167643,
-                            5476916.742518315
-                        ],
-                        [
-                            2466712.0365913957,
-                            5477665.526939484
-                        ],
-                        [
-                            2467755.72787462,
-                            5477657.703074605
-                        ],
-                        [
-                            2469366.250474457,
-                            5475205.365790537
-                        ],
-                        [
-                            2469858.5958529892,
-                            5475237.300859675
-                        ],
-                        [
-                            2468463.765944647,
-                            5478676.952677755
-                        ],
-                        [
-                            2468470.0075096525,
-                            5480387.130555593
-                        ],
-                        [
-                            2469274.1837429763,
-                            5480330.937193499
-                        ],
-                        [
-                            2470223.509761755,
-                            5479156.548440141
-                        ],
-                        [
-                            2470855.8755720216,
-                            5479147.352286341
-                        ],
-                        [
-                            2470903.259365493,
-                            5476659.818610793
-                        ],
-                        [
-                            2474004.555345329,
-                            5477089.637579057
-                        ],
-                        [
-                            2474580.836506518,
-                            5473133.67269746
-                        ],
-                        [
-                            2474227.3988387226,
-                            5473562.754570112
-                        ],
-                        [
-                            2473371.829956353,
-                            5473671.687272618
-                        ],
-                        [
-                            2472748.885316211,
-                            5473160.921833386
-                        ],
-                        [
-                            2470693.16153696,
-                            5473181.303937212
-                        ],
-                        [
-                            2470465.3815251137,
-                            5473088.426736787
-                        ],
-                        [
-                            2463295.7582678134,
-                            5473189.747235069
-                        ]
-                    ]
-                ]
-            }
-        },
-        {
-            "attributes": {
-                "OBJECTID": 145,
+                "OBJECTID": 141,
                 "RB": 2649,
                 "NPO": "Tribex doo, Sremska Kamenica",
                 "LOKALNOST": "Šeševica 2",
@@ -32246,7 +32016,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 148,
+                "OBJECTID": 144,
                 "RB": 2655,
                 "NPO": "Jelen Do doo, Požega",
                 "LOKALNOST": "Suvodo",
@@ -32360,7 +32130,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 149,
+                "OBJECTID": 145,
                 "RB": 2651,
                 "NPO": "KEBE d.o.o., Novi Beograd",
                 "LOKALNOST": "Mihajlovac",
@@ -32422,7 +32192,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 150,
+                "OBJECTID": 146,
                 "RB": 2656,
                 "NPO": "Milomir Knežević PR, GR Turbo-Kop, Bioska",
                 "LOKALNOST": "Bukovik",
@@ -32464,7 +32234,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 152,
+                "OBJECTID": 148,
                 "RB": 6485,
                 "NPO": "NAVAK - NACIONALNA VOZAČKA AKADEMIJA DOO",
                 "LOKALNOST": "Извориште \"Навак\" доо у Суботишту",
@@ -32506,7 +32276,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 153,
+                "OBJECTID": 149,
                 "RB": 6386,
                 "NPO": "JKP \"SEČANJ\" SEČANJ",
                 "LOKALNOST": "Истражно поље Крајишник-Бусење",
@@ -32572,7 +32342,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 154,
+                "OBJECTID": 150,
                 "RB": 6386,
                 "NPO": "JKP \"SEČANJ\" SEČANJ",
                 "LOKALNOST": "Истражно поље Јаша Томић-Шурјан",
@@ -32638,7 +32408,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 155,
+                "OBJECTID": 151,
                 "RB": 6391,
                 "NPO": "ЈАВНО КОМУНАЛНО ПРЕДУЗЕЋЕ ВОДОВОД И КАНАЛИЗАЦИЈА ЗРЕЊАНИН",
                 "LOKALNOST": "Истражно поље 1 - Клек",
@@ -32680,7 +32450,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 156,
+                "OBJECTID": 152,
                 "RB": 6391,
                 "NPO": "ЈАВНО КОМУНАЛНО ПРЕДУЗЕЋЕ ВОДОВОД И КАНАЛИЗАЦИЈА ЗРЕЊАНИН",
                 "LOKALNOST": "Истражно поље 2 - Лазарево",
@@ -32722,7 +32492,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 157,
+                "OBJECTID": 153,
                 "RB": 6419,
                 "NPO": "ЈКП КОМУНАЛПРОЈЕКТ БАЧКА ПАЛАНКА",
                 "LOKALNOST": "Истражно поље 1 - извориште насеља Нова Гајдобра",
@@ -32764,7 +32534,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 158,
+                "OBJECTID": 154,
                 "RB": 6419,
                 "NPO": "ЈКП КОМУНАЛПРОЈЕКТ БАЧКА ПАЛАНКА",
                 "LOKALNOST": "Истражно поље 2 - извориште насеља Гајдобра",
@@ -32806,7 +32576,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 159,
+                "OBJECTID": 155,
                 "RB": 6432,
                 "NPO": "IMPERATOR DOO SREMSKA MITROVICA",
                 "LOKALNOST": "Формирање изворишта на локацији \"IMPERATOR\" код Ердевика",
@@ -32848,7 +32618,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 160,
+                "OBJECTID": 156,
                 "RB": 6383,
                 "NPO": "DOO DG COMPANY SUBOTICA",
                 "LOKALNOST": "Извориште \"DG COMPANY\" у Суботици",
@@ -32898,7 +32668,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 161,
+                "OBJECTID": 157,
                 "RB": 6392,
                 "NPO": "ЈАВНО КОМУНАЛНО ПРЕДУЗЕЋЕ ВОДОВОД И КАНАЛИЗАЦИЈА ЗРЕЊАНИН",
                 "LOKALNOST": "Истражно поље 1 - Арадац",
@@ -32940,7 +32710,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 162,
+                "OBJECTID": 158,
                 "RB": 6392,
                 "NPO": "ЈАВНО КОМУНАЛНО ПРЕДУЗЕЋЕ ВОДОВОД И КАНАЛИЗАЦИЈА ЗРЕЊАНИН",
                 "LOKALNOST": "Истражно поље 2 - Михајлово",
@@ -32982,7 +32752,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 163,
+                "OBJECTID": 159,
                 "RB": 6417,
                 "NPO": "Perutnina Ptuj-Topiko d.o.o.",
                 "LOKALNOST": "Извориште фарме \"Мићуново\" код Бачке Тополе",
@@ -33024,7 +32794,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 164,
+                "OBJECTID": 160,
                 "RB": 6418,
                 "NPO": "Perutnina Ptuj-Topiko d.o.o.",
                 "LOKALNOST": "Извориште \"Кланица\" код Бачке Тополе",
@@ -33066,7 +32836,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 165,
+                "OBJECTID": 161,
                 "RB": 6420,
                 "NPO": "ЈКП КОМУНАЛПРОЈЕКТ БАЧКА ПАЛАНКА",
                 "LOKALNOST": "Истражно поље 1 - извориште насеља Нештин",
@@ -33108,7 +32878,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 166,
+                "OBJECTID": 162,
                 "RB": 6420,
                 "NPO": "ЈКП КОМУНАЛПРОЈЕКТ БАЧКА ПАЛАНКА",
                 "LOKALNOST": "Истражно поље 2 - извориште насеља Визић",
@@ -33150,7 +32920,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 167,
+                "OBJECTID": 163,
                 "RB": 6434,
                 "NPO": "VETROELEKTRANA BANAT d.o.o. ALIBUNAR",
                 "LOKALNOST": "Хидрогеолошка истраживања на локацији прикључно разводног постројења КО Владимировац К.П. 7873",
@@ -33192,7 +32962,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 168,
+                "OBJECTID": 164,
                 "RB": 6438,
                 "NPO": "Elite Green Housing doo",
                 "LOKALNOST": "Водоснабдевање стамбеног комплекса Дунавски висови у Сурдуку",
@@ -33238,7 +33008,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 169,
+                "OBJECTID": 165,
                 "RB": 6449,
                 "NPO": "AGRISERBIA d.o.o.",
                 "LOKALNOST": "Истражно поље 2",
@@ -33280,7 +33050,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 170,
+                "OBJECTID": 166,
                 "RB": 6362,
                 "NPO": "Javno preduzeće za komunalnu infrastrukturu i usluge Kikinda",
                 "LOKALNOST": "Истражно поље 1 - Руско Село",
@@ -33322,7 +33092,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 171,
+                "OBJECTID": 167,
                 "RB": 6388,
                 "NPO": "Фудбалски клуб \"TSC\"",
                 "LOKALNOST": "Извориште подземних вода (термалних и обичних) на изворишту Фудбалског стадиона \"TSC\" у Бачкој Тополи",
@@ -33368,7 +33138,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 172,
+                "OBJECTID": 168,
                 "RB": 6393,
                 "NPO": "ЈАВНО КОМУНАЛНО ПРЕДУЗЕЋЕ ВОДОВОД И КАНАЛИЗАЦИЈА ЗРЕЊАНИН",
                 "LOKALNOST": "Истражно поље 1 - Банатски Деспотовац",
@@ -33410,7 +33180,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 173,
+                "OBJECTID": 169,
                 "RB": 6393,
                 "NPO": "ЈАВНО КОМУНАЛНО ПРЕДУЗЕЋЕ ВОДОВОД И КАНАЛИЗАЦИЈА ЗРЕЊАНИН",
                 "LOKALNOST": "Истражно поље 2 - Ботош",
@@ -33452,7 +33222,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 174,
+                "OBJECTID": 170,
                 "RB": 6421,
                 "NPO": "ЈКП КОМУНАЛПРОЈЕКТ БАЧКА ПАЛАНКА",
                 "LOKALNOST": "Истражно поље 1 - извориште насеља Пивнице",
@@ -33494,7 +33264,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 175,
+                "OBJECTID": 171,
                 "RB": 6421,
                 "NPO": "ЈКП КОМУНАЛПРОЈЕКТ БАЧКА ПАЛАНКА",
                 "LOKALNOST": "Истражно поље 2 - извориште насеља Деспотово",
@@ -33536,7 +33306,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 176,
+                "OBJECTID": 172,
                 "RB": 6428,
                 "NPO": "ЈАВНО КОМУНАЛНО ПРЕДУЗЕЋЕ ВОДОВОД И КАНАЛИЗАЦИЈА ЗРЕЊАНИН",
                 "LOKALNOST": "Истражно поље 1 - Лукићево",
@@ -33578,7 +33348,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 177,
+                "OBJECTID": 173,
                 "RB": 6428,
                 "NPO": "ЈАВНО КОМУНАЛНО ПРЕДУЗЕЋЕ ВОДОВОД И КАНАЛИЗАЦИЈА ЗРЕЊАНИН",
                 "LOKALNOST": "Истражно поље 2 - Ечка",
@@ -33620,7 +33390,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 178,
+                "OBJECTID": 174,
                 "RB": 6433,
                 "NPO": "Завод за заштиту споменика културе града Новог Сада",
                 "LOKALNOST": "Примењена геолошка истраживања подземних вода на локацији Алмашког краја у граду Новом Саду",
@@ -33662,7 +33432,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 179,
+                "OBJECTID": 175,
                 "RB": 6435,
                 "NPO": "GORAN-PROM DOO BAČKI BRESTOVAC",
                 "LOKALNOST": "Извориште предузећа \"Горан Пром\" Д.О.О. у Српском Милетићу",
@@ -33704,7 +33474,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 180,
+                "OBJECTID": 176,
                 "RB": 6439,
                 "NPO": "DOO DOŽA ĐERĐ BAČKA TOPOLA",
                 "LOKALNOST": "Извориште Д.О.О. \"ДОЖА ЂЕРЂ\" у Бачкој Тополи",
@@ -33754,7 +33524,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 181,
+                "OBJECTID": 177,
                 "RB": 6446,
                 "NPO": "DRLJA 1967 DOO BAČKA PALANKA",
                 "LOKALNOST": "Извориште фарме \"Дрља 1967\" доо у Бачкој Паланци",
@@ -33796,7 +33566,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 182,
+                "OBJECTID": 178,
                 "RB": 6470,
                 "NPO": "Републичка дирекција за имовину Републике Србије",
                 "LOKALNOST": "Водоснабдевање граничног прелаза Сремска Рача",
@@ -33838,7 +33608,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 183,
+                "OBJECTID": 179,
                 "RB": 6362,
                 "NPO": "Javno preduzeće za komunalnu infrastrukturu i usluge Kikinda",
                 "LOKALNOST": "Истражно поље 2 - Нови Козарци",
@@ -33880,7 +33650,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 184,
+                "OBJECTID": 180,
                 "RB": 6366,
                 "NPO": "VLAŠKALIĆ DOO",
                 "LOKALNOST": "Извориште фарме Милчић-прасилиште код Обзир-Павловића",
@@ -33922,7 +33692,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 185,
+                "OBJECTID": 181,
                 "RB": 6380,
                 "NPO": "Berry Corp DOO",
                 "LOKALNOST": "Извориште \"Berry Corp\" у Жарковцу",
@@ -33964,7 +33734,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 186,
+                "OBJECTID": 182,
                 "RB": 6394,
                 "NPO": "ZIG TRADE DOO VETERNIK",
                 "LOKALNOST": "Извориште \"ЗИГ ТРАДЕ\" Д.О.О. у Футогу",
@@ -34006,7 +33776,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 187,
+                "OBJECTID": 183,
                 "RB": 6414,
                 "NPO": "ČIBUK 2 WIND ENERGY D.O.O. BEOGRAD",
                 "LOKALNOST": "Извориште \"Чибук 2\" у Мраморку",
@@ -34048,7 +33818,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 188,
+                "OBJECTID": 184,
                 "RB": 6422,
                 "NPO": "ЈКП КОМУНАЛПРОЈЕКТ БАЧКА ПАЛАНКА",
                 "LOKALNOST": "Истражно поље 1 - извориште насеља Горњи Мајур",
@@ -34090,7 +33860,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 189,
+                "OBJECTID": 185,
                 "RB": 6422,
                 "NPO": "ЈКП КОМУНАЛПРОЈЕКТ БАЧКА ПАЛАНКА",
                 "LOKALNOST": "Истражно поље 2 - извориште насеља Младеново",
@@ -34132,7 +33902,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 190,
+                "OBJECTID": 186,
                 "RB": 6436,
                 "NPO": "VETROELEKTRANA BANAT-4 d.o.o. BEOGRAD",
                 "LOKALNOST": "Хидрогеолошка истраживања на локацији трафо станице КО Владимировац К.П. 8298-96",
@@ -34174,7 +33944,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 191,
+                "OBJECTID": 187,
                 "RB": 6444,
                 "NPO": "MILORAD KOVAČEVIĆ PR EKSPLOATACIJA ŠLJUNKA I PESKA KAJAKOP SENTA",
                 "LOKALNOST": "Црна бара 5",
@@ -34216,7 +33986,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 192,
+                "OBJECTID": 188,
                 "RB": 6447,
                 "NPO": "СПЕЦИЈАЛНА БОЛНИЦА ЗА РЕХАБИЛИТАЦИЈУ \"ТЕРМАЛ\" ВРДНИК",
                 "LOKALNOST": "Извориште специјалне болнице за рехабилитацију \"Термал\" у Врднику",
@@ -34266,7 +34036,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 193,
+                "OBJECTID": 189,
                 "RB": 6452,
                 "NPO": "DOO AQUA THERM INVEST BAČKI PETROVAC",
                 "LOKALNOST": "Извориште Аквапарк Петроленд у Бачком Петровцу",
@@ -34308,7 +34078,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 194,
+                "OBJECTID": 190,
                 "RB": 6478,
                 "NPO": "ENERGOGROUP DOO BEOGRAD",
                 "LOKALNOST": "Извориште термоминералних вода \"ENEGOGROUP\" у Инђији",
@@ -34350,7 +34120,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 195,
+                "OBJECTID": 191,
                 "RB": 6480,
                 "NPO": "PROMONT GROUP DOO NOVI SAD",
                 "LOKALNOST": "Истражни простор \"Кула пунионица\" у Врднику",
@@ -34396,7 +34166,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 196,
+                "OBJECTID": 192,
                 "RB": 6361,
                 "NPO": "Javno preduzeće za komunalnu infrastrukturu i usluge Kikinda",
                 "LOKALNOST": "Истражно поље 1 - Наково",
@@ -34438,7 +34208,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 197,
+                "OBJECTID": 193,
                 "RB": 6361,
                 "NPO": "Javno preduzeće za komunalnu infrastrukturu i usluge Kikinda",
                 "LOKALNOST": "Истражно поље 2 - Банатско Велико Село",
@@ -34480,7 +34250,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 198,
+                "OBJECTID": 194,
                 "RB": 6367,
                 "NPO": "VLAŠKALIĆ DOO",
                 "LOKALNOST": "Извориште фарме Јурановић-товилиште код Бачког Моноштора",
@@ -34526,7 +34296,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 199,
+                "OBJECTID": 195,
                 "RB": 6387,
                 "NPO": "ЈАВНО ПРЕДУЗЕЋЕ ПУТЕВИ СРБИЈЕ БЕОГРАД",
                 "LOKALNOST": "Водоснабдевање наплатне станице \"Стара Пазова\" на државном путу IA реда",
@@ -34568,7 +34338,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 200,
+                "OBJECTID": 196,
                 "RB": 6302,
                 "NPO": "ЈП КОВИНСКИ КОМУНАЛАЦ КОВИН",
                 "LOKALNOST": "Истражни простор Делиблато",
@@ -34610,7 +34380,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 201,
+                "OBJECTID": 197,
                 "RB": 6398,
                 "NPO": "PROIZVODNO GRAĐEVINSKO PREDUZEĆE RAPID AKCIONARSKO DRUŠTVO, APATIN",
                 "LOKALNOST": "Дуги комади",
@@ -34664,7 +34434,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 202,
+                "OBJECTID": 198,
                 "RB": 6349,
                 "NPO": "ЈАВНО КОМУНАЛНО ПРЕДУЗЕЋЕ ВОДОКАНАЛ СОМБОР",
                 "LOKALNOST": "Извориште насеља Станишић",
@@ -34706,7 +34476,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 203,
+                "OBJECTID": 199,
                 "RB": 6306,
                 "NPO": "ЈП КОВИНСКИ КОМУНАЛАЦ КОВИН",
                 "LOKALNOST": "Истражно поље Ковин",
@@ -34752,7 +34522,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 204,
+                "OBJECTID": 200,
                 "RB": 6306,
                 "NPO": "ЈП КОВИНСКИ КОМУНАЛАЦ КОВИН",
                 "LOKALNOST": "Истражно поље Мало Баваниште",
@@ -34794,7 +34564,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 205,
+                "OBJECTID": 201,
                 "RB": 6415,
                 "NPO": "DIP DOO NOVI SAD",
                 "LOKALNOST": "Извориште \"ДИП ЛИВНИЦА\" у Новом Саду",
@@ -34836,7 +34606,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 206,
+                "OBJECTID": 202,
                 "RB": 6423,
                 "NPO": "ЈКП КОМУНАЛПРОЈЕКТ БАЧКА ПАЛАНКА",
                 "LOKALNOST": "Истражно поље 1 - извориште насеља Обровац",
@@ -34878,7 +34648,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 207,
+                "OBJECTID": 203,
                 "RB": 6423,
                 "NPO": "ЈКП КОМУНАЛПРОЈЕКТ БАЧКА ПАЛАНКА",
                 "LOKALNOST": "Истражно поље 2 - извориште насеља Товаришево",
@@ -34920,7 +34690,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 208,
+                "OBJECTID": 204,
                 "RB": 6424,
                 "NPO": "ЈКП КОМУНАЛПРОЈЕКТ БАЧКА ПАЛАНКА",
                 "LOKALNOST": "Истражно поље 1 - извориште насеља Силбаш",
@@ -34962,7 +34732,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 209,
+                "OBJECTID": 205,
                 "RB": null,
                 "NPO": "IGOR TOMIĆ PREDUZETNIK, ZANATSKA RADNJA DACKO ČURUG",
                 "LOKALNOST": "Горњи Бороњ код Чуруга",
@@ -35008,7 +34778,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 210,
+                "OBJECTID": 206,
                 "RB": 6437,
                 "NPO": "VETROELEKTRANA BANAT-2 d.o.o. ALIBUNAR",
                 "LOKALNOST": "Хидрогеолошка истраживања на локацији прикључно разводног постројења и трафо станица КО Николинци, К.П. 7122-1",
@@ -35050,7 +34820,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 211,
+                "OBJECTID": 207,
                 "RB": 6449,
                 "NPO": "AGRISERBIA d.o.o.",
                 "LOKALNOST": "Истражно поље 1",
@@ -35108,7 +34878,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 212,
+                "OBJECTID": 208,
                 "RB": null,
                 "NPO": "NIS A.D. NOVI SAD",
                 "LOKALNOST": "Водоснабдевање станице за снабдевање горивом Газпром Крњешевци",
@@ -35150,7 +34920,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 213,
+                "OBJECTID": 209,
                 "RB": 6359,
                 "NPO": "Javno preduzeće za komunalnu infrastrukturu i usluge Kikinda",
                 "LOKALNOST": "Истражно поље 1 - Банатска Топола",
@@ -35192,7 +34962,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 214,
+                "OBJECTID": 210,
                 "RB": 6359,
                 "NPO": "Javno preduzeće za komunalnu infrastrukturu i usluge Kikinda",
                 "LOKALNOST": "Истражно поље 2 - Винцаид",
@@ -35234,7 +35004,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 215,
+                "OBJECTID": 211,
                 "RB": 6360,
                 "NPO": "Javno preduzeće za komunalnu infrastrukturu i usluge Kikinda",
                 "LOKALNOST": "Извориште Башаид",
@@ -35276,7 +35046,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 216,
+                "OBJECTID": 212,
                 "RB": 6374,
                 "NPO": "Al Rawafed Srbija d.o.o.",
                 "LOKALNOST": "Извориште Логистичког центра Сивац",
@@ -35318,7 +35088,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 217,
+                "OBJECTID": 213,
                 "RB": 6390,
                 "NPO": "Akcionarsko društvo METANOLSKO-SIRĆETNI KOMPLEKS KIKINDA",
                 "LOKALNOST": "Извориште \"МСК КИКИНДА\" у Кикинди",
@@ -35360,7 +35130,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 218,
+                "OBJECTID": 214,
                 "RB": 6396,
                 "NPO": "AD SLOGA KAĆ",
                 "LOKALNOST": " Водоснабдевање предузећа АД \"СЛОГА\" у Каћу",
@@ -35410,7 +35180,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 219,
+                "OBJECTID": 215,
                 "RB": 6150,
                 "NPO": "NIS A.D. NOVI SAD",
                 "LOKALNOST": "Извориште УС Тиса у Елемиру",
@@ -35452,7 +35222,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 220,
+                "OBJECTID": 216,
                 "RB": 6413,
                 "NPO": "ЈАВНО КОМУНАЛНО ПРЕДУЗЕЋЕ ВОДОВОД И КАНАЛИЗАЦИЈА ЗРЕЊАНИН",
                 "LOKALNOST": "Истражно поље 2 - Бело Блато",
@@ -35494,7 +35264,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 221,
+                "OBJECTID": 217,
                 "RB": 6424,
                 "NPO": "ЈКП КОМУНАЛПРОЈЕКТ БАЧКА ПАЛАНКА",
                 "LOKALNOST": "Истражно поље 2 - извориште насеља Параге",
@@ -35536,7 +35306,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 222,
+                "OBJECTID": 218,
                 "RB": 6425,
                 "NPO": "ЈКП КОМУНАЛПРОЈЕКТ БАЧКА ПАЛАНКА",
                 "LOKALNOST": "Извориште насеља Челарево",
@@ -35578,7 +35348,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 223,
+                "OBJECTID": 219,
                 "RB": 6448,
                 "NPO": "ПОЉОПРИВРЕДНО ГАЗДИНСТВО ВЛАИНИЋ ЖАРКО",
                 "LOKALNOST": "Хидрогеолошка истраживања на подручју катастарске парцеле 1767 К.О. Алекса Шантић",
@@ -35620,7 +35390,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 224,
+                "OBJECTID": 220,
                 "RB": 6455,
                 "NPO": "PP FEKETIĆ AD SOMBOR",
                 "LOKALNOST": "Извориште ПП \"Фекетић\" у Фекетићу",
@@ -35662,7 +35432,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 225,
+                "OBJECTID": 221,
                 "RB": null,
                 "NPO": "NIS A.D. NOVI SAD",
                 "LOKALNOST": "Водоснабдевање станице за снабдевање горивом Газпром Стари Бановци",
@@ -35704,7 +35474,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 226,
+                "OBJECTID": 222,
                 "RB": 6426,
                 "NPO": "ЈКП КОМУНАЛПРОЈЕКТ БАЧКА ПАЛАНКА",
                 "LOKALNOST": "Истражно поље 1 - извориште насеља Карађорђево",
@@ -35746,7 +35516,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 227,
+                "OBJECTID": 223,
                 "RB": 6355,
                 "NPO": "MODESTY FRUITS d.o.o.",
                 "LOKALNOST": "Извориште \"MODESTY FRUITS\" у Жарковцу",
@@ -35788,7 +35558,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 228,
+                "OBJECTID": 224,
                 "RB": 6356,
                 "NPO": "FRESH BERRY DOO",
                 "LOKALNOST": "Извориште \"FRESH BERRY\" у Жарковцу",
@@ -35830,7 +35600,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 229,
+                "OBJECTID": 225,
                 "RB": 6379,
                 "NPO": "PROTON SYSTEM DOO",
                 "LOKALNOST": "Водоснабдевање предузећа \"Proton System\" D.O.O. из Барица",
@@ -35872,7 +35642,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 230,
+                "OBJECTID": 226,
                 "RB": 6382,
                 "NPO": "KARIN KOMERC MD DOO VETERNIK",
                 "LOKALNOST": "Извориште \"Karin Komerc MD\" у Ветернику",
@@ -35914,7 +35684,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 231,
+                "OBJECTID": 227,
                 "RB": 6399,
                 "NPO": "ДОМ ЗА ДУШЕВНО ОБОЛЕЛА ЛИЦА \"ЧУРУГ\"",
                 "LOKALNOST": "Водоснабдевање Дома за душевно оболела лица Чуруг у Чуругу",
@@ -35956,7 +35726,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 232,
+                "OBJECTID": 228,
                 "RB": 6426,
                 "NPO": "ЈКП КОМУНАЛПРОЈЕКТ БАЧКА ПАЛАНКА",
                 "LOKALNOST": "Истражно поље 2 - извориште насеља Нови Мајур-Телеп",
@@ -35998,7 +35768,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 233,
+                "OBJECTID": 229,
                 "RB": 6416,
                 "NPO": "APATINSKA PIVARA APATIN DOO",
                 "LOKALNOST": "Истраживања за потребе предузећа \"Апатинска пивара\" д.о.о. у Апатину",
@@ -36036,7 +35806,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 234,
+                "OBJECTID": 230,
                 "RB": 6441,
                 "NPO": "MK AGROPANONIJA doo Kula",
                 "LOKALNOST": "Истраживања у кругу пословног комплекса \"МК АГРОПАНОНИЈА ДОО КУЛА\" Економија Штолц",
@@ -36078,7 +35848,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 235,
+                "OBJECTID": 231,
                 "RB": 6454,
                 "NPO": "PP MILETIĆ DOO SOMBOR",
                 "LOKALNOST": "Извориште ПП \"Милетић\" у Српском Милетићу",
@@ -36120,7 +35890,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 236,
+                "OBJECTID": 232,
                 "RB": 6459,
                 "NPO": "STECOM DOO STARA PAZOVA",
                 "LOKALNOST": "Извориште предузећа \"Стецом\" д.о.о. у Старој Пазови",
@@ -36162,7 +35932,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 237,
+                "OBJECTID": 233,
                 "RB": 6482,
                 "NPO": "Општина Ириг",
                 "LOKALNOST": "Водоснабдевање насеља Нерадин",
@@ -36212,7 +35982,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 238,
+                "OBJECTID": 234,
                 "RB": 6483,
                 "NPO": "ČENEJ Agrar d.o.o. Novi Sad",
                 "LOKALNOST": "Истражно поље I",
@@ -36270,7 +36040,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 239,
+                "OBJECTID": 235,
                 "RB": 6483,
                 "NPO": "ČENEJ Agrar d.o.o. Novi Sad",
                 "LOKALNOST": "Истражно поље II",
@@ -36312,7 +36082,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 240,
+                "OBJECTID": 236,
                 "RB": 6368,
                 "NPO": "CARNEX STOČARSTVO doo",
                 "LOKALNOST": "Истражно поље 1 - Брег",
@@ -36354,7 +36124,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 241,
+                "OBJECTID": 237,
                 "RB": 6368,
                 "NPO": "CARNEX STOČARSTVO doo",
                 "LOKALNOST": "Истражно поље 2 - Петефи",
@@ -36396,7 +36166,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 242,
+                "OBJECTID": 238,
                 "RB": 6369,
                 "NPO": "COPEX DOO",
                 "LOKALNOST": "Извориште \"COPEX\" у Футогу",
@@ -36438,7 +36208,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 243,
+                "OBJECTID": 239,
                 "RB": 6453,
                 "NPO": "JAVNO KOMUNALNO PREDUZEĆE NOVOSADSKA TOPLANA NOVI SAD",
                 "LOKALNOST": "Извориште топлана \"Мишелук\" у Петроварадину",
@@ -36488,7 +36258,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 244,
+                "OBJECTID": 240,
                 "RB": 6429,
                 "NPO": "ЈАВНО ПРЕДУЗЕЋЕ ПУТЕВИ СРБИЈЕ БЕОГРАД",
                 "LOKALNOST": "Punkt za održavanje infrastrukturnog koridora autoputa A1 u zoni grada Novog Sada",
@@ -36530,7 +36300,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 245,
+                "OBJECTID": 241,
                 "RB": 6397,
                 "NPO": "Al Rawafed Srbija d.o.o.",
                 "LOKALNOST": "Извориште ЛЦ Нова Гајдобра",
@@ -36572,7 +36342,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 246,
+                "OBJECTID": 242,
                 "RB": 6440,
                 "NPO": "DOO AGROUNIJA INĐIJA",
                 "LOKALNOST": "Истраживања у кругу пословног комплекса \"АГРОУНИЈА ДОО\" у Крчедину",
@@ -36614,7 +36384,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 247,
+                "OBJECTID": 243,
                 "RB": 6473,
                 "NPO": "JKP ELAN KOVAČICA",
                 "LOKALNOST": "Извориште ЈКП \"Елан\" у Ковачици",
@@ -36656,7 +36426,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 248,
+                "OBJECTID": 244,
                 "RB": 6479,
                 "NPO": "ALING-CONEL DOO GAJDOBRA",
                 "LOKALNOST": "Извориште \"Aling-Conel\" у Гајдобри",
@@ -36698,7 +36468,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 249,
+                "OBJECTID": 245,
                 "RB": 6363,
                 "NPO": "Perutnina Ptuj-Topiko d.o.o.",
                 "LOKALNOST": "Извориште фарме пилића \"Perutnina Ptuj-Topiko\" Бајша 2",
@@ -36740,7 +36510,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 250,
+                "OBJECTID": 246,
                 "RB": 6370,
                 "NPO": "Јавно комунално предузеће ГРАДСКО ЗЕЛЕНИЛО Нови Сад",
                 "LOKALNOST": "Истражно поље 1 - Булевар Европе",
@@ -36782,7 +36552,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 251,
+                "OBJECTID": 247,
                 "RB": 6430,
                 "NPO": "ЈАВНО ПРЕДУЗЕЋЕ ПУТЕВИ СРБИЈЕ БЕОГРАД",
                 "LOKALNOST": "Naplatna stanica BNS \"Novi Sad sever\" kod Novog Sada",
@@ -36824,7 +36594,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 252,
+                "OBJECTID": 248,
                 "RB": 6442,
                 "NPO": "MK AGROPANONIJA doo Kula",
                 "LOKALNOST": "Истраживања у кругу пословног комплекса \"МК АГРОПАНОНИЈА ДОО КУЛА\" Економија Козара",
@@ -36866,7 +36636,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 253,
+                "OBJECTID": 249,
                 "RB": 6450,
                 "NPO": "WINDVISION WINDFARM A DOO",
                 "LOKALNOST": "атар Владимироваца",
@@ -36912,7 +36682,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 254,
+                "OBJECTID": 250,
                 "RB": 6456,
                 "NPO": "ISCO DOO ZRENJANIN",
                 "LOKALNOST": "Извориште \"ISCO\" D.O.O. у Зрењанину",
@@ -36954,7 +36724,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 255,
+                "OBJECTID": 251,
                 "RB": 6484,
                 "NPO": "TRUCK STOP TOMY DOO ŠIMANOVCI",
                 "LOKALNOST": "Извориште \"TRUCK STOP TOMY\" у Шимановцима",
@@ -37020,7 +36790,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 256,
+                "OBJECTID": 252,
                 "RB": 6364,
                 "NPO": "Perutnina Ptuj-Topiko d.o.o.",
                 "LOKALNOST": "Извориште фарме пилића \"Perutnina Ptuj-Topiko\" Бајша 3",
@@ -37062,7 +36832,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 257,
+                "OBJECTID": 253,
                 "RB": 6370,
                 "NPO": "Јавно комунално предузеће ГРАДСКО ЗЕЛЕНИЛО Нови Сад",
                 "LOKALNOST": "Истражно поље 2 - Булевар Михајла Пупина",
@@ -37104,7 +36874,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 258,
+                "OBJECTID": 254,
                 "RB": null,
                 "NPO": "ALWAGд.о.о.",
                 "LOKALNOST": " ",
@@ -37142,7 +36912,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 259,
+                "OBJECTID": 255,
                 "RB": 6400,
                 "NPO": "ЈКП Водовод и канализација Суботица",
                 "LOKALNOST": "Извориште \"Водозахват I\" у Суботици",
@@ -37184,7 +36954,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 260,
+                "OBJECTID": 256,
                 "RB": 6431,
                 "NPO": "ZLATNA POLJA DOO SOMBOR",
                 "LOKALNOST": "Извориште \"Златна поља\" у Риђици",
@@ -37238,7 +37008,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 261,
+                "OBJECTID": 257,
                 "RB": 6451,
                 "NPO": "Electrawinds K-Wind d.o.o.",
                 "LOKALNOST": "Хидрогеолошка истраживања привредног друштва \"Electrawinds K-Wind\" д.o.o. код Ковачице",
@@ -37280,7 +37050,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 262,
+                "OBJECTID": 258,
                 "RB": 6445,
                 "NPO": "MINERAL EXPO GROUP D.O.O. NOVO MILOŠEVO",
                 "LOKALNOST": "локалитет Гладилова Хумка код Новом Милошева",
@@ -37330,7 +37100,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 263,
+                "OBJECTID": 259,
                 "RB": 6301,
                 "NPO": "GEBI DOO PO ČANTAVIR",
                 "LOKALNOST": "Извориште фабрике сточне хране ГЕБИ у Пачиру",
@@ -37372,7 +37142,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 264,
+                "OBJECTID": 260,
                 "RB": 6371,
                 "NPO": "BIMAL SUNCE DOO SOMBOR",
                 "LOKALNOST": "Извориште \"Бимал Сунце\" д.о.о. у Сомбору",
@@ -37414,7 +37184,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 265,
+                "OBJECTID": 261,
                 "RB": 6401,
                 "NPO": "JKP ČISTOĆA NOVI SAD",
                 "LOKALNOST": "Водоснабдевање градске депоније у Новом Саду",
@@ -37464,7 +37234,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 266,
+                "OBJECTID": 262,
                 "RB": 6457,
                 "NPO": "JAVNO KOMUNALNO PREDUZEĆE VODOVOD I KANALIZACIJA NOVI SAD",
                 "LOKALNOST": "Истражно поље 1 - извориште Штранд",
@@ -37530,7 +37300,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 267,
+                "OBJECTID": 263,
                 "RB": 6457,
                 "NPO": "JAVNO KOMUNALNO PREDUZEĆE VODOVOD I KANALIZACIJA NOVI SAD",
                 "LOKALNOST": "Истражно поље 2 - изворишта Петроварадинска ада и Ратно острво",
@@ -37596,7 +37366,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 268,
+                "OBJECTID": 264,
                 "RB": null,
                 "NPO": "TARKETT DOO BAČKA PALANKA",
                 "LOKALNOST": "Извориште \"Tarkett\" d.o.o. у Бачкој Паланци",
@@ -37646,7 +37416,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 269,
+                "OBJECTID": 265,
                 "RB": 6372,
                 "NPO": "CHINA ROAD AND BRIDGE CORPORATION SERBIA OGRANAK BEOGRAD (SAVSKI VENAC)",
                 "LOKALNOST": "истражни простор 1: Камп Петроварадин",
@@ -37692,7 +37462,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 270,
+                "OBJECTID": 266,
                 "RB": 6405,
                 "NPO": "POLJOPRIVREDNA STRUČNA SLUŽBA RUMA DOO",
                 "LOKALNOST": "Извориште Агрокомплекс пољостанице у селу Павловци",
@@ -37734,7 +37504,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 271,
+                "OBJECTID": 267,
                 "RB": 6458,
                 "NPO": "Општина Сента",
                 "LOKALNOST": "извориште насеља Кеви",
@@ -37780,7 +37550,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 272,
+                "OBJECTID": 268,
                 "RB": null,
                 "NPO": "Пољопривредно газдинство Срђан Алекса",
                 "LOKALNOST": "Водоснабдевање ПГ \"Срђан Алекса\" у месту Црепаја",
@@ -37822,7 +37592,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 273,
+                "OBJECTID": 269,
                 "RB": 6372,
                 "NPO": "CHINA ROAD AND BRIDGE CORPORATION SERBIA OGRANAK BEOGRAD (SAVSKI VENAC)",
                 "LOKALNOST": "истражни простор 2: Камп Каћ",
@@ -37864,7 +37634,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 274,
+                "OBJECTID": 270,
                 "RB": 6460,
                 "NPO": "Градска управа за грађевинско земљиште и инвестиције",
                 "LOKALNOST": "Водоснабдевање Парка код Ранжирне станице у Новом Саду",
@@ -37906,7 +37676,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 275,
+                "OBJECTID": 271,
                 "RB": null,
                 "NPO": "EXTRA FARM DOO SRBOBRAN",
                 "LOKALNOST": "Извориште фарме свиња предузећа \"Еxtra Farm\" д.о.о. код Србобрана",
@@ -37948,7 +37718,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 276,
+                "OBJECTID": 272,
                 "RB": 6373,
                 "NPO": "MARBO PRODUCT DOO BEOGRAD",
                 "LOKALNOST": "извориште \"Marbo Product\" д.о.о. у Маглићу",
@@ -37998,7 +37768,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 277,
+                "OBJECTID": 273,
                 "RB": 6461,
                 "NPO": "BAČKA DOO ČONOPLJA",
                 "LOKALNOST": "Водоснабдевање економије \"БАЧКА\" ДОО у Криваји",
@@ -38040,7 +37810,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 278,
+                "OBJECTID": 274,
                 "RB": null,
                 "NPO": "LOGIN EKO DOO",
                 "LOKALNOST": "Извориште на локалитету \"LOGIN EKO\" у Новом Кнежевцу",
@@ -38082,7 +37852,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 279,
+                "OBJECTID": 275,
                 "RB": null,
                 "NPO": "ПОЉОПРИВРЕДНО ГАЗДИНСТВО НОВО РАДОЊИЋ",
                 "LOKALNOST": "Изориште ПГ Ново Радоњић у Липару",
@@ -38132,7 +37902,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 280,
+                "OBJECTID": 276,
                 "RB": 6310,
                 "NPO": "DOO ALMEX PANČEVO",
                 "LOKALNOST": "Извориште бензинске станице Almex д.о.о. у Србобрану",
@@ -38174,7 +37944,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 281,
+                "OBJECTID": 277,
                 "RB": 6309,
                 "NPO": "Општина Сента",
                 "LOKALNOST": "Извориште термоминералних вода Народна башта у Сенти",
@@ -38216,7 +37986,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 282,
+                "OBJECTID": 278,
                 "RB": 6403,
                 "NPO": "АД НОВА ПЕШЧАРА ДЕЛИБЛАТО",
                 "LOKALNOST": "Водоснабдевање предузећа АД \"Нова Пешчара\" у Ковину",
@@ -38274,7 +38044,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 283,
+                "OBJECTID": 279,
                 "RB": 6463,
                 "NPO": "MODITAL DOO ZRENJANIN",
                 "LOKALNOST": "Извориште \"Модитал\" у Зрењанину",
@@ -38316,7 +38086,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 284,
+                "OBJECTID": 280,
                 "RB": null,
                 "NPO": "LOGIN EKO DOO",
                 "LOKALNOST": "Извориште на локалитету LOGIN EKO DOO у Мошорину",
@@ -38358,7 +38128,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 285,
+                "OBJECTID": 281,
                 "RB": 6402,
                 "NPO": "JUB DOO ŠIMANOVCI",
                 "LOKALNOST": "Извориште ЈУБ Д.О.О. у Шимановцима",
@@ -38432,7 +38202,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 286,
+                "OBJECTID": 282,
                 "RB": 6462,
                 "NPO": "DOO MASSAGRAR NOVI SAD",
                 "LOKALNOST": "Извориште предузећа \"Massagrar\" d.o.o. у Сечњу",
@@ -38474,7 +38244,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 287,
+                "OBJECTID": 283,
                 "RB": null,
                 "NPO": "Фудбалски Клуб \"Крушедол\"",
                 "LOKALNOST": "Хидрогеолошка истраживања на истражном простору Фудбалског Клуба \"Крушедол\" у Крушедол Селу",
@@ -38512,7 +38282,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 288,
+                "OBJECTID": 284,
                 "RB": null,
                 "NPO": "DRAGAN POPOVIĆ PR EKSPLOATACIJA ŠLJUNKA TRKI BELA CRKVA",
                 "LOKALNOST": "лежиште Ливаде-Врачев Гај код Беле Цркве",
@@ -38610,7 +38380,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 289,
+                "OBJECTID": 285,
                 "RB": 6469,
                 "NPO": "NOVO PLUS DOO CRVENKA",
                 "LOKALNOST": "Извориште \"Романија\" у Новој Црвенки",
@@ -38676,7 +38446,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 290,
+                "OBJECTID": 286,
                 "RB": 6406,
                 "NPO": "PG RADANOVIĆ LJILJANA",
                 "LOKALNOST": "Водоснабдевање заливног система пољопривредног газдинства \"Љиљана Радановић\" у Омољици",
@@ -38718,7 +38488,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 291,
+                "OBJECTID": 287,
                 "RB": 6407,
                 "NPO": "MABER OD PANČEVO",
                 "LOKALNOST": "Водоснабдевање заливног система предузећа \"Мабер\" о.д. у Омољици",
@@ -38760,7 +38530,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 292,
+                "OBJECTID": 288,
                 "RB": 6475,
                 "NPO": "JAFFA DOO CRVENKA",
                 "LOKALNOST": "Извориште \"Jaffa\" д.о.о. у Црвенки",
@@ -38802,7 +38572,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 293,
+                "OBJECTID": 289,
                 "RB": 6311,
                 "NPO": "VIJA PRODUCT DOO",
                 "LOKALNOST": "Извориште VIJA PRODUCT Торњош",
@@ -38844,7 +38614,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 294,
+                "OBJECTID": 290,
                 "RB": 6389,
                 "NPO": "Јавно комунално предузеће ГРАДСКО ЗЕЛЕНИЛО Нови Сад",
                 "LOKALNOST": "Истражно поље 1 - Футошки парк",
@@ -38886,7 +38656,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 295,
+                "OBJECTID": 291,
                 "RB": 6389,
                 "NPO": "Јавно комунално предузеће ГРАДСКО ЗЕЛЕНИЛО Нови Сад",
                 "LOKALNOST": "Истражно поље 2 - Лимански парк",
@@ -38928,7 +38698,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 296,
+                "OBJECTID": 292,
                 "RB": 6466,
                 "NPO": "Poljoprivredno gazdinstvo NIKOLA VUKIĆ",
                 "LOKALNOST": "Извориште за водоснабдевање засада лешника ПГ Никола Вукић у Мраморку",
@@ -38970,7 +38740,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 297,
+                "OBJECTID": 293,
                 "RB": 6404,
                 "NPO": "JAVNO KOMUNALNO-STAMBENO PREDUZEĆE SENTA",
                 "LOKALNOST": "Истражно поље 1 - извориште \"Север\"",
@@ -39012,7 +38782,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 298,
+                "OBJECTID": 294,
                 "RB": 6404,
                 "NPO": "JAVNO KOMUNALNO-STAMBENO PREDUZEĆE SENTA",
                 "LOKALNOST": "Истражно поље 2 - извориште \"Југ\"",
@@ -39054,7 +38824,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 299,
+                "OBJECTID": 295,
                 "RB": 6471,
                 "NPO": "REGIONALNA DEPONIJA DOO SUBOTICA",
                 "LOKALNOST": "Водоснабдевање \"Регионалне депоније\"-Суботица у Орому",
@@ -39096,7 +38866,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 300,
+                "OBJECTID": 296,
                 "RB": 6314,
                 "NPO": "NEPI Real Estate Project One d.o.o.",
                 "LOKALNOST": "Извориште Променада у Новом Саду",
@@ -39138,7 +38908,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 301,
+                "OBJECTID": 297,
                 "RB": 6375,
                 "NPO": "TOPOLA d.o.o. Banatska Topola",
                 "LOKALNOST": "Извориште \"Топола\" у Банатској Тополи",
@@ -39180,7 +38950,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 302,
+                "OBJECTID": 298,
                 "RB": 6412,
                 "NPO": "Elicio Vetropark Južni Banat d.o.o. Beograd",
                 "LOKALNOST": "Извориште \"Елицио ветропарк јужни Банат\" д.о.о. у Старчеву",
@@ -39222,7 +38992,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 303,
+                "OBJECTID": 299,
                 "RB": 6464,
                 "NPO": "Општина Бачка Топола",
                 "LOKALNOST": "Водоснабдевање насеља Бајша",
@@ -39264,7 +39034,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 304,
+                "OBJECTID": 300,
                 "RB": 6347,
                 "NPO": "MLAMARMO doo Lukićevo",
                 "LOKALNOST": "Перлез код Зрењанина",
@@ -39306,7 +39076,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 305,
+                "OBJECTID": 301,
                 "RB": 6377,
                 "NPO": "SERAGRO D.O.O.",
                 "LOKALNOST": "Наводњавање пољопривредних површина предузећа \"SerAgro\" у насељу Панонија",
@@ -39348,7 +39118,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 306,
+                "OBJECTID": 302,
                 "RB": 6409,
                 "NPO": "CORAL SRB d.o.o.",
                 "LOKALNOST": "Извориште бензинске станице \"SHELL\" на аутопуту М-1 (Е-70) код Адашеваца",
@@ -39390,7 +39160,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 307,
+                "OBJECTID": 303,
                 "RB": 6316,
                 "NPO": "ЈАВНО КОМУНАЛНО ПРЕДУЗЕЋЕ ВОДОКАНАЛ СОМБОР",
                 "LOKALNOST": "Извориште насеља Гаково",
@@ -39432,7 +39202,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 308,
+                "OBJECTID": 304,
                 "RB": 6465,
                 "NPO": "DOKA SERB DOO ŠIMANOVCI",
                 "LOKALNOST": "Извориште \"ДОКА СЕРБ\" д.о.о. у Шимановцима",
@@ -39474,7 +39244,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 309,
+                "OBJECTID": 305,
                 "RB": 6315,
                 "NPO": "ЈАВНО КОМУНАЛНО ПРЕДУЗЕЋЕ ВОДОКАНАЛ СОМБОР",
                 "LOKALNOST": "Извориште насеља Растина",
@@ -39516,7 +39286,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 310,
+                "OBJECTID": 306,
                 "RB": 6376,
                 "NPO": "WINDVISION WINDFARM A DOO",
                 "LOKALNOST": "Извориште \"WINDVISION WINDFARM A\" у Селеушу,",
@@ -39558,7 +39328,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 311,
+                "OBJECTID": 307,
                 "RB": 6410,
                 "NPO": "NOVO PLUS DOO CRVENKA",
                 "LOKALNOST": "Извориште \"Ново плус\" у Липару",
@@ -39604,7 +39374,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 312,
+                "OBJECTID": 308,
                 "RB": 6467,
                 "NPO": "DOO ĐAKOVIĆ NOVI SAD",
                 "LOKALNOST": "Извориште \"Ђаковић\" у Новом Саду",
@@ -39646,7 +39416,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 313,
+                "OBJECTID": 309,
                 "RB": null,
                 "NPO": "nepoznat vlasnik",
                 "LOKALNOST": " ",
@@ -39740,7 +39510,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 314,
+                "OBJECTID": 310,
                 "RB": 6378,
                 "NPO": "Град Кикинда",
                 "LOKALNOST": "Извориште \"Прихватни центар за мигранте Кикинда\"",
@@ -39782,7 +39552,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 315,
+                "OBJECTID": 311,
                 "RB": 6411,
                 "NPO": "ПГ АЋА ДАРКО",
                 "LOKALNOST": "Наводњавање пољопривредних површина ПГ \"Дарко Аћа\" у Старчеву",
@@ -39824,7 +39594,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 316,
+                "OBJECTID": 312,
                 "RB": 6476,
                 "NPO": "STRAUSS ADRIATIC DOO ŠIMANOVCI",
                 "LOKALNOST": "Извориште \"Strauss Adriatic\" код Шимановаца",
@@ -39866,7 +39636,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 317,
+                "OBJECTID": 313,
                 "RB": 6303,
                 "NPO": "ЈП КОВИНСКИ КОМУНАЛАЦ КОВИН",
                 "LOKALNOST": "Извориште насеља Баваниште",
@@ -39908,7 +39678,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 318,
+                "OBJECTID": 314,
                 "RB": 6292,
                 "NPO": "BOGOJEVO FARM DOO",
                 "LOKALNOST": "Извориште Богојево Фарм у Богојеву",
@@ -39950,7 +39720,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 319,
+                "OBJECTID": 315,
                 "RB": 6291,
                 "NPO": "BOŠKOVIĆ AGRAR D.O.O.",
                 "LOKALNOST": "Извориште Бошковић Аграр у Алекси Шантићу",
@@ -40020,7 +39790,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 320,
+                "OBJECTID": 316,
                 "RB": 6294,
                 "NPO": "POLJOPRIVREDNA PROIZVODNJA SOMBOR D.O.O.",
                 "LOKALNOST": "Извориште предузећа ПП СОМБОР Д.О.О. у Сомбору",
@@ -40062,7 +39832,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 321,
+                "OBJECTID": 317,
                 "RB": 6413,
                 "NPO": "ЈАВНО КОМУНАЛНО ПРЕДУЗЕЋЕ ВОДОВОД И КАНАЛИЗАЦИЈА ЗРЕЊАНИН",
                 "LOKALNOST": "Истражно поље 1 - Стајићево",
@@ -40104,7 +39874,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 322,
+                "OBJECTID": 318,
                 "RB": 6350,
                 "NPO": "ЈАВНО КОМУНАЛНО ПРЕДУЗЕЋЕ ВОДОКАНАЛ СОМБОР",
                 "LOKALNOST": "Извориште насеља Алекса Шантић",
@@ -40162,7 +39932,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 323,
+                "OBJECTID": 319,
                 "RB": 6381,
                 "NPO": "ПП ПЕШЧАРА ДОО БАНАТСКИ КАРЛОВАЦ",
                 "LOKALNOST": "Извориште предузећа \"Пешчара\" доо у Банатским Карловцима",
@@ -40204,7 +39974,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 324,
+                "OBJECTID": 320,
                 "RB": 6427,
                 "NPO": "ЈАВНО КОМУНАЛНО ПРЕДУЗЕЋЕ ВОДОВОД И КАНАЛИЗАЦИЈА ЗРЕЊАНИН",
                 "LOKALNOST": "Истражно поље 1 - Перлез",
@@ -40246,7 +40016,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 325,
+                "OBJECTID": 321,
                 "RB": 6427,
                 "NPO": "ЈАВНО КОМУНАЛНО ПРЕДУЗЕЋЕ ВОДОВОД И КАНАЛИЗАЦИЈА ЗРЕЊАНИН",
                 "LOKALNOST": "Истражно поље 2 - Книћанин",
@@ -40288,7 +40058,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 326,
+                "OBJECTID": 322,
                 "RB": 6384,
                 "NPO": "JKP \"SEČANJ\" SEČANJ",
                 "LOKALNOST": "Истражно поље Јарковац-Банатска Дубица",
@@ -40354,7 +40124,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 327,
+                "OBJECTID": 323,
                 "RB": 6384,
                 "NPO": "JKP \"SEČANJ\" SEČANJ",
                 "LOKALNOST": "Истражно поље Конак",
@@ -40396,7 +40166,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 328,
+                "OBJECTID": 324,
                 "RB": 6477,
                 "NPO": "KOTEKS VISCOFAN DOO",
                 "LOKALNOST": "Извориште \"Koteks Viscofan\" у Новом Саду",
@@ -40446,7 +40216,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 329,
+                "OBJECTID": 325,
                 "RB": 6320,
                 "NPO": "ЈАВНО КОМУНАЛНО ПРЕДУЗЕЋЕ ВОДОВОД И КАНАЛИЗАЦИЈА ЗРЕЊАНИН",
                 "LOKALNOST": "Истражно поље 1 Фаркаждин",
@@ -40488,7 +40258,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 330,
+                "OBJECTID": 326,
                 "RB": 6320,
                 "NPO": "ЈАВНО КОМУНАЛНО ПРЕДУЗЕЋЕ ВОДОВОД И КАНАЛИЗАЦИЈА ЗРЕЊАНИН",
                 "LOKALNOST": "Истражно поље 2 Чента",
@@ -40530,7 +40300,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 331,
+                "OBJECTID": 327,
                 "RB": 6319,
                 "NPO": "ЈАВНО КОМУНАЛНО ПРЕДУЗЕЋЕ ВОДОВОД И КАНАЛИЗАЦИЈА ЗРЕЊАНИН",
                 "LOKALNOST": "Извориште водовода Меленци",
@@ -40572,7 +40342,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 332,
+                "OBJECTID": 328,
                 "RB": 6385,
                 "NPO": "JKP \"SEČANJ\" SEČANJ",
                 "LOKALNOST": "Истражно поље Сутјеска-Неузина",
@@ -40638,7 +40408,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 333,
+                "OBJECTID": 329,
                 "RB": 6385,
                 "NPO": "JKP \"SEČANJ\" SEČANJ",
                 "LOKALNOST": "Истражно поље Сечањ-Бока",
@@ -40704,7 +40474,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 334,
+                "OBJECTID": 330,
                 "RB": 6474,
                 "NPO": "ZLATNA POLJA DOO SOMBOR",
                 "LOKALNOST": "Извориште \"Златна поља\" у Алекси Шантићу",
@@ -40746,7 +40516,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 335,
+                "OBJECTID": 331,
                 "RB": 6468,
                 "NPO": "VODA SINĐELIĆ RUC ŽDRELO DOO ŽDRELO",
                 "LOKALNOST": "Извориште термалних вода \"Панонске терме\" у Инђији",
@@ -40792,7 +40562,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 336,
+                "OBJECTID": 332,
                 "RB": 6481,
                 "NPO": "DOO ALMEX PANČEVO",
                 "LOKALNOST": "Извориште \"ALMEX\" ДОО у Зрењанину",
@@ -40834,7 +40604,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 337,
+                "OBJECTID": 333,
                 "RB": 6289,
                 "NPO": "АД ЖИТОПРОМЕТ-МЛИН СЕНТА",
                 "LOKALNOST": "Извориште ЖИТОПРОМЕТ-МЛИН АД у Сенти",
@@ -40876,7 +40646,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 338,
+                "OBJECTID": 334,
                 "RB": 6472,
                 "NPO": "\tIM MATIJEVIĆ DOO NOVI SAD",
                 "LOKALNOST": "Извориште индустрије меса \"Матијевић\" доо у Новом Саду",
@@ -40918,7 +40688,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 339,
+                "OBJECTID": 335,
                 "RB": 6177,
                 "NPO": "NIS A.D. NOVI SAD",
                 "LOKALNOST": "северна Бачка",
@@ -41080,7 +40850,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 340,
+                "OBJECTID": 336,
                 "RB": 6321,
                 "NPO": "ЈКП Водовод и канализација Суботица",
                 "LOKALNOST": "Извориште насеља Бајмок",
@@ -41122,7 +40892,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 341,
+                "OBJECTID": 337,
                 "RB": 6326,
                 "NPO": "ЈКП Водовод и канализација Суботица",
                 "LOKALNOST": "Извориште насеља Ђурђин",
@@ -41164,7 +40934,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 342,
+                "OBJECTID": 338,
                 "RB": 6304,
                 "NPO": "ЈП КОВИНСКИ КОМУНАЛАЦ КОВИН",
                 "LOKALNOST": "Истражно поље Скореновац",
@@ -41206,7 +40976,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 343,
+                "OBJECTID": 339,
                 "RB": 6329,
                 "NPO": "AGRO PLUS DOO",
                 "LOKALNOST": "Извориште за потребе заливног система Агро Плус д.о.о. у Чонопљи",
@@ -41248,7 +41018,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 344,
+                "OBJECTID": 340,
                 "RB": 6331,
                 "NPO": "VIN FARM DOO",
                 "LOKALNOST": "Извориште ВИН ФАРМ код села Кулпин",
@@ -41290,7 +41060,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 345,
+                "OBJECTID": 341,
                 "RB": 6297,
                 "NPO": "JADRAN AD NOVI BEČEJ",
                 "LOKALNOST": "Извориште Тиски цвет у Новом Бечеју",
@@ -41332,7 +41102,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 346,
+                "OBJECTID": 342,
                 "RB": 6176,
                 "NPO": "NIS A.D. NOVI SAD",
                 "LOKALNOST": "јужни Банат",
@@ -41446,7 +41216,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 347,
+                "OBJECTID": 343,
                 "RB": 6337,
                 "NPO": "Пољопривредно-рибарско предузеће СВЕТИ НИКОЛА Д.О.О. Сечањ",
                 "LOKALNOST": "Извориште ПРП Свети Никола Сечањ",
@@ -41488,7 +41258,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 348,
+                "OBJECTID": 344,
                 "RB": 6365,
                 "NPO": "MILORAD KOVAČEVIĆ PR EKSPLOATACIJA ŠLJUNKA I PESKA KAJAKOP SENTA",
                 "LOKALNOST": "локалитет Црна бара 4",
@@ -41542,7 +41312,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 349,
+                "OBJECTID": 345,
                 "RB": 6342,
                 "NPO": "ЈАВНО КОМУНАЛНО ПРЕДУЗЕЋЕ ВОДОВОД И КАНАЛИЗАЦИЈА ЗРЕЊАНИН",
                 "LOKALNOST": "Истражно поље 2 - Елемир",
@@ -41584,7 +41354,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 350,
+                "OBJECTID": 346,
                 "RB": 6341,
                 "NPO": "ЈАВНО КОМУНАЛНО ПРЕДУЗЕЋЕ ВОДОВОД И КАНАЛИЗАЦИЈА ЗРЕЊАНИН",
                 "LOKALNOST": "Истражно поље 1 - Томашевац",
@@ -41626,7 +41396,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 351,
+                "OBJECTID": 347,
                 "RB": 6341,
                 "NPO": "ЈАВНО КОМУНАЛНО ПРЕДУЗЕЋЕ ВОДОВОД И КАНАЛИЗАЦИЈА ЗРЕЊАНИН",
                 "LOKALNOST": "Истражно поље 2 - Орловат",
@@ -41668,7 +41438,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 352,
+                "OBJECTID": 348,
                 "RB": 6304,
                 "NPO": "ЈП КОВИНСКИ КОМУНАЛАЦ КОВИН",
                 "LOKALNOST": "Истражно поље Плочица",
@@ -41710,7 +41480,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 353,
+                "OBJECTID": 349,
                 "RB": 6346,
                 "NPO": "ЈАВНО ПРЕДУЗЕЋЕ КОМУНАЛНО СТАМБЕНО ГРАЂЕВИНСКЕ ДЕЛАТНОСТИ КОМГРАД  БАЧКА ТОПОЛА",
                 "LOKALNOST": "Истражно поље 1 - Водовод Гунарош",
@@ -41752,7 +41522,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 354,
+                "OBJECTID": 350,
                 "RB": 6346,
                 "NPO": "ЈАВНО ПРЕДУЗЕЋЕ КОМУНАЛНО СТАМБЕНО ГРАЂЕВИНСКЕ ДЕЛАТНОСТИ КОМГРАД  БАЧКА ТОПОЛА",
                 "LOKALNOST": "Истражно поље 2 - Водовод Багремово",
@@ -41794,7 +41564,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 355,
+                "OBJECTID": 351,
                 "RB": 6171,
                 "NPO": "PINK MEDIA GROUP d.o.o. Beograd",
                 "LOKALNOST": "Извориште RTV PINK у Шимановцима",
@@ -41844,7 +41614,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 356,
+                "OBJECTID": 352,
                 "RB": 5353,
                 "NPO": "NEXE BETON DOO Novi Sad",
                 "LOKALNOST": "Извориште фабрике бетона NEXE BETON у Шангају",
@@ -41886,7 +41656,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 357,
+                "OBJECTID": 353,
                 "RB": 6305,
                 "NPO": "ЈП КОВИНСКИ КОМУНАЛАЦ КОВИН",
                 "LOKALNOST": "Истражно поље Дубовац",
@@ -41928,7 +41698,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 358,
+                "OBJECTID": 354,
                 "RB": 6178,
                 "NPO": "NIS A.D. NOVI SAD",
                 "LOKALNOST": "јужна Бачка",
@@ -42014,7 +41784,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 359,
+                "OBJECTID": 355,
                 "RB": null,
                 "NPO": "TEAM INVESTMENT PLUS D.O.O.",
                 "LOKALNOST": "Извориште TEAM INVESTMENT PLUS-Долово",
@@ -42056,7 +41826,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 360,
+                "OBJECTID": 356,
                 "RB": 6348,
                 "NPO": "TEXAM d.o.o.",
                 "LOKALNOST": "Извориште Texam у Кикинди",
@@ -42098,7 +41868,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 361,
+                "OBJECTID": 357,
                 "RB": 6213,
                 "NPO": "VINDIJA DOO LAJKOVAC",
                 "LOKALNOST": "Izvorište VINDIJA-farma u Velikoj Gredi",
@@ -42140,7 +41910,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 362,
+                "OBJECTID": 358,
                 "RB": 6395,
                 "NPO": "ROTOR DOO NOVI SAD",
                 "LOKALNOST": "Извориште термалних вода на изворишту хотела Елан у Србобрану",
@@ -42194,7 +41964,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 363,
+                "OBJECTID": 359,
                 "RB": 6302,
                 "NPO": "ЈП КОВИНСКИ КОМУНАЛАЦ КОВИН",
                 "LOKALNOST": "Истражно поље Мраморак",
@@ -42236,7 +42006,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 364,
+                "OBJECTID": 360,
                 "RB": null,
                 "NPO": "Земљорадничка задруга БЕШКА",
                 "LOKALNOST": "2 ZZ Beska",
@@ -42278,7 +42048,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 365,
+                "OBJECTID": 361,
                 "RB": 6174,
                 "NPO": "NIS A.D. NOVI SAD",
                 "LOKALNOST": "северни Банат",
@@ -42460,7 +42230,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 366,
+                "OBJECTID": 362,
                 "RB": 6175,
                 "NPO": "NIS A.D. NOVI SAD",
                 "LOKALNOST": "средњи Банат",
@@ -42598,7 +42368,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 367,
+                "OBJECTID": 363,
                 "RB": null,
                 "NPO": "KOPOVO DOO ŽABALJ",
                 "LOKALNOST": "Чичов код Жабља",
@@ -42648,7 +42418,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 368,
+                "OBJECTID": 364,
                 "RB": 6305,
                 "NPO": "ЈП КОВИНСКИ КОМУНАЛАЦ КОВИН",
                 "LOKALNOST": "Истражно поље Шумарак",
@@ -42690,7 +42460,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 369,
+                "OBJECTID": 365,
                 "RB": 6150,
                 "NPO": "NIS A.D. NOVI SAD",
                 "LOKALNOST": "Извориште ПИТНИГ у Елемиру",
@@ -42732,7 +42502,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 370,
+                "OBJECTID": 366,
                 "RB": 6323,
                 "NPO": "ЈКП Водовод и канализација Суботица",
                 "LOKALNOST": "Извориште насеља Стари Жедник",
@@ -42774,7 +42544,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 371,
+                "OBJECTID": 367,
                 "RB": 6318,
                 "NPO": "AGRO PLUS DOO",
                 "LOKALNOST": "Извориште AGRO PLUS у Светозару Милетић",
@@ -42816,7 +42586,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 372,
+                "OBJECTID": 368,
                 "RB": 6290,
                 "NPO": "AGROVRŠAC DOO",
                 "LOKALNOST": "Извориште предузећа АГРОВРШАЦ ДОО у Вршцу",
@@ -42858,7 +42628,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 373,
+                "OBJECTID": 369,
                 "RB": 6324,
                 "NPO": "ЈКП Водовод и канализација Суботица",
                 "LOKALNOST": "Извориште насеља Чантавир",
@@ -42900,7 +42670,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 374,
+                "OBJECTID": 370,
                 "RB": 6288,
                 "NPO": "ЛУКА-БАЧКА ПАЛАНКА Д.О.О.",
                 "LOKALNOST": "Извориште Лука-Бачка Паланка доо у Бачкој Паланци",
@@ -42942,7 +42712,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 375,
+                "OBJECTID": 371,
                 "RB": 6293,
                 "NPO": "ECO-RECYCLING DOO NOVI SAD",
                 "LOKALNOST": "Извориште ECO-RECYCLING DOO у Сиригу",
@@ -42984,7 +42754,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 376,
+                "OBJECTID": 372,
                 "RB": 6327,
                 "NPO": "ЈКП Водовод и канализација Суботица",
                 "LOKALNOST": "Извориште насеља Нови Жедник",
@@ -43026,7 +42796,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 377,
+                "OBJECTID": 373,
                 "RB": 6325,
                 "NPO": "ЈКП Водовод и канализација Суботица",
                 "LOKALNOST": "Извориште насеља Келебија",
@@ -43068,7 +42838,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 378,
+                "OBJECTID": 374,
                 "RB": 6322,
                 "NPO": "ЈКП Водовод и канализација Суботица",
                 "LOKALNOST": "Извориште насеља Биково",
@@ -43110,7 +42880,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 379,
+                "OBJECTID": 375,
                 "RB": 6336,
                 "NPO": "3Lateral DOO Novi Sad",
                 "LOKALNOST": "Хидрогеолошка истраживања у Радничкој улици у Новом Саду",
@@ -43152,7 +42922,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 380,
+                "OBJECTID": 376,
                 "RB": 6338,
                 "NPO": "ЈАВНО КОМУНАЛНО ПРЕДУЗЕЋЕ ВОДОВОД И КАНАЛИЗАЦИЈА ЈП СТАРА ПАЗОВА",
                 "LOKALNOST": "Извориште насеља Стара Пазова",
@@ -43214,7 +42984,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 381,
+                "OBJECTID": 377,
                 "RB": 6342,
                 "NPO": "ЈАВНО КОМУНАЛНО ПРЕДУЗЕЋЕ ВОДОВОД И КАНАЛИЗАЦИЈА ЗРЕЊАНИН",
                 "LOKALNOST": "Истражно поље 1 - Тараш",
@@ -43256,7 +43026,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 382,
+                "OBJECTID": 378,
                 "RB": 6296,
                 "NPO": "HEMOFARM AD VRŠAC",
                 "LOKALNOST": "Извориште ХЕМОФАРМ А.Д. у Вршцу",
@@ -43298,7 +43068,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 383,
+                "OBJECTID": 379,
                 "RB": null,
                 "NPO": "Земљорадничка задруга БЕШКА",
                 "LOKALNOST": "1 ZZ Beska",
@@ -43376,7 +43146,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 384,
+                "OBJECTID": 380,
                 "RB": 6351,
                 "NPO": "DOO ALMEX PANČEVO",
                 "LOKALNOST": "Бензинска станица Almex д.о.о. у Бачкој Тополи",

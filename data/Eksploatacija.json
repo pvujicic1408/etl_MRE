@@ -18531,48 +18531,6 @@
             "attributes": {
                 "OBJECTID": 316,
                 "PODNOSILAC": "IGM Mladost doo, Leskovac",
-                "LEZISTE": "polje A - Guberevac",
-                "IZDATO": 2016,
-                "LIST": "578",
-                "SIROVINA": "opekarska glina",
-                "Zastitni_prostor": 100.0,
-                "Shape.STArea()": 5672,
-                "Shape.STLength()": 303.2626427974163,
-                "Opstina": "Leskovac",
-                "Ops_komentar": "Leskovac (100%)",
-                "nadleznost": "Ministarstvo rudarstva i energetike"
-            },
-            "geometry": {
-                "rings": [
-                    [
-                        [
-                            2447863.5761826397,
-                            5301960.055726541
-                        ],
-                        [
-                            2447945.797673137,
-                            5301993.304187774
-                        ],
-                        [
-                            2447988.1341949035,
-                            5301881.932568989
-                        ],
-                        [
-                            2447896.4321664483,
-                            5301854.271924072
-                        ],
-                        [
-                            2447863.5761826397,
-                            5301960.055726541
-                        ]
-                    ]
-                ]
-            }
-        },
-        {
-            "attributes": {
-                "OBJECTID": 317,
-                "PODNOSILAC": "IGM Mladost doo, Leskovac",
                 "LEZISTE": "polje B - Mala Grabovnica",
                 "IZDATO": 2016,
                 "LIST": "578",
@@ -18761,7 +18719,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 318,
+                "OBJECTID": 317,
                 "PODNOSILAC": "GP-ZORAN-R doo, Donja Mutnica",
                 "LEZISTE": "Straža",
                 "IZDATO": 2020,
@@ -18851,7 +18809,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 319,
+                "OBJECTID": 318,
                 "PODNOSILAC": "NIS ad, Novi Sad",
                 "LEZISTE": "Sm-4 naftno-gasnog polja Ostrovo",
                 "IZDATO": 2016,
@@ -18893,7 +18851,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 320,
+                "OBJECTID": 319,
                 "PODNOSILAC": "Univerzum ciglana doo, Aranđelovac",
                 "LEZISTE": "Vaganac",
                 "IZDATO": 2016,
@@ -19035,7 +18993,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 321,
+                "OBJECTID": 320,
                 "PODNOSILAC": "Astra SB doo, Surčin",
                 "LEZISTE": "Gajića Stena",
                 "IZDATO": 2016,
@@ -19101,8 +19059,8 @@
         },
         {
             "attributes": {
-                "OBJECTID": 322,
-                "PODNOSILAC": "Stobex doo, Loznica",
+                "OBJECTID": 321,
+                "PODNOSILAC": "PZP Valjevo ad, Valjevo",
                 "LEZISTE": "Granovine I",
                 "IZDATO": 2016,
                 "LIST": "581",
@@ -19267,7 +19225,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 323,
+                "OBJECTID": 322,
                 "PODNOSILAC": "Hram doo, Pirot",
                 "LEZISTE": "Jerma",
                 "IZDATO": 2012,
@@ -19317,7 +19275,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 324,
+                "OBJECTID": 323,
                 "PODNOSILAC": "Metalfer doo, Sremska Mitrovica",
                 "LEZISTE": "Majdani",
                 "IZDATO": 2016,
@@ -19359,7 +19317,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 325,
+                "OBJECTID": 324,
                 "PODNOSILAC": "5D doo, Vranje",
                 "LEZISTE": "Barice",
                 "IZDATO": 2017,
@@ -19433,7 +19391,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 326,
+                "OBJECTID": 325,
                 "PODNOSILAC": "JP Elektroprivreda Srbije, Ogranak RB Kolubara",
                 "LEZISTE": "Zapadno polje",
                 "IZDATO": 1990,
@@ -19491,7 +19449,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 327,
+                "OBJECTID": 326,
                 "PODNOSILAC": "Industrija građevinskog materijala \"Granit\", Slavkovica",
                 "LEZISTE": "Ljuta Stena",
                 "IZDATO": 1991,
@@ -19533,7 +19491,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 328,
+                "OBJECTID": 327,
                 "PODNOSILAC": "Granit-Peščar, Ljig",
                 "LEZISTE": "Ljuta Stena",
                 "IZDATO": 1991,
@@ -19575,7 +19533,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 329,
+                "OBJECTID": 328,
                 "PODNOSILAC": "Granit-Peščar, Ljig",
                 "LEZISTE": "Ljuta Stena",
                 "IZDATO": 1991,
@@ -19621,7 +19579,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 330,
+                "OBJECTID": 329,
                 "PODNOSILAC": "Iva agrar doo, Lajkovac",
                 "LEZISTE": "Bajevac",
                 "IZDATO": 2016,
@@ -19703,7 +19661,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 331,
+                "OBJECTID": 330,
                 "PODNOSILAC": "TRIBEX doo, Jazovnik",
                 "LEZISTE": "Jazovnik",
                 "IZDATO": 2017,
@@ -19765,7 +19723,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 332,
+                "OBJECTID": 331,
                 "PODNOSILAC": "Autopromet doo, Aranđelovac",
                 "LEZISTE": "Vrhovi",
                 "IZDATO": 2017,
@@ -19827,7 +19785,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 333,
+                "OBJECTID": 332,
                 "PODNOSILAC": "Međa doo, Zvečka, Obrenovac",
                 "LEZISTE": "Brgulice - III",
                 "IZDATO": 2017,
@@ -19873,7 +19831,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 334,
+                "OBJECTID": 333,
                 "PODNOSILAC": "Međa doo, Zvečka, Obrenovac",
                 "LEZISTE": "Brgulice - I",
                 "IZDATO": 2017,
@@ -19915,7 +19873,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 335,
+                "OBJECTID": 334,
                 "PODNOSILAC": "Međa doo, Zvečka, Obrenovac",
                 "LEZISTE": "Brgulice - II",
                 "IZDATO": 2017,
@@ -19969,7 +19927,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 336,
+                "OBJECTID": 335,
                 "PODNOSILAC": "Kamiks doo, Priboj",
                 "LEZISTE": "Banjsko Brdo",
                 "IZDATO": 2017,
@@ -20095,7 +20053,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 337,
+                "OBJECTID": 336,
                 "PODNOSILAC": "Kvarc doo, Mladenovac",
                 "LEZISTE": "Jelenkovac - Zaplanje",
                 "IZDATO": 2017,
@@ -20137,7 +20095,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 338,
+                "OBJECTID": 337,
                 "PODNOSILAC": "Leon doo, Ub",
                 "LEZISTE": "Provalije I",
                 "IZDATO": 2017,
@@ -20219,7 +20177,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 339,
+                "OBJECTID": 338,
                 "PODNOSILAC": "Leon doo, Ub",
                 "LEZISTE": "Gumnište",
                 "IZDATO": 2017,
@@ -20289,7 +20247,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 340,
+                "OBJECTID": 339,
                 "PODNOSILAC": "Kameni agregati Pretoke doo, Novi Beograd",
                 "LEZISTE": "Čukara",
                 "IZDATO": 2018,
@@ -20371,7 +20329,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 341,
+                "OBJECTID": 340,
                 "PODNOSILAC": "NIS ad, Novi Sad",
                 "LEZISTE": "Kasidol",
                 "IZDATO": 2016,
@@ -20413,7 +20371,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 342,
+                "OBJECTID": 341,
                 "PODNOSILAC": "Keramika Holding doo, Beograd",
                 "LEZISTE": "Zbegovi",
                 "IZDATO": 2017,
@@ -20471,7 +20429,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 343,
+                "OBJECTID": 342,
                 "PODNOSILAC": "KALISI MC - PLUS doo, Loznica",
                 "LEZISTE": "Dobrilovići",
                 "IZDATO": 2018,
@@ -20553,7 +20511,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 344,
+                "OBJECTID": 343,
                 "PODNOSILAC": "Granit Bukovik doo, Aranđelovac",
                 "LEZISTE": "Šutica I",
                 "IZDATO": 2019,
@@ -20611,7 +20569,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 345,
+                "OBJECTID": 344,
                 "PODNOSILAC": "TEKO MINING doo, Beograd",
                 "LEZISTE": "Straževica",
                 "IZDATO": 2018,
@@ -20717,7 +20675,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 346,
+                "OBJECTID": 345,
                 "PODNOSILAC": "STRABAG DOO BEOGRAD- OGRANAK PZP ZAJEČAR",
                 "LEZISTE": "Rgotinski Krš",
                 "IZDATO": 2018,
@@ -20999,7 +20957,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 347,
+                "OBJECTID": 346,
                 "PODNOSILAC": "NM KOP doo, Beograd",
                 "LEZISTE": "Jakovo",
                 "IZDATO": 2018,
@@ -21041,7 +20999,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 348,
+                "OBJECTID": 347,
                 "PODNOSILAC": "KERAMIKA - HOLDING A.D. Beograd",
                 "LEZISTE": "Veliki Brezaci",
                 "IZDATO": 2018,
@@ -21107,7 +21065,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 349,
+                "OBJECTID": 348,
                 "PODNOSILAC": "Mineral RS doo, Beograd",
                 "LEZISTE": "Sušica",
                 "IZDATO": 1998,
@@ -21165,7 +21123,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 350,
+                "OBJECTID": 349,
                 "PODNOSILAC": "MG SERBIEN doo, Baljevac",
                 "LEZISTE": "Bela Stena",
                 "IZDATO": 1967,
@@ -21231,7 +21189,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 351,
+                "OBJECTID": 350,
                 "PODNOSILAC": "Stranjanci doo, Živica",
                 "LEZISTE": "Zborište",
                 "IZDATO": 2018,
@@ -21297,7 +21255,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 352,
+                "OBJECTID": 351,
                 "PODNOSILAC": "Mega Infrastructure doo, Beograd",
                 "LEZISTE": "Veliki Bašinac ",
                 "IZDATO": 2018,
@@ -21359,7 +21317,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 353,
+                "OBJECTID": 352,
                 "PODNOSILAC": "SERBIA ZIJIN BOR COPPER DOO BOR",
                 "LEZISTE": "Veliki Krivelj",
                 "IZDATO": 2018,
@@ -21489,7 +21447,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 354,
+                "OBJECTID": 353,
                 "PODNOSILAC": "NIS ad, Novi Sad",
                 "LEZISTE": "Bradarac - Maljurevac",
                 "IZDATO": 2018,
@@ -21539,7 +21497,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 355,
+                "OBJECTID": 354,
                 "PODNOSILAC": "Stanković Granit doo, Mali Zvornik",
                 "LEZISTE": "Ravnaja - zapadni revir",
                 "IZDATO": 2019,
@@ -21637,7 +21595,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 356,
+                "OBJECTID": 355,
                 "PODNOSILAC": "Stanković Granit doo, Mali Zvornik",
                 "LEZISTE": "Ravnaja - istočni revir",
                 "IZDATO": 2019,
@@ -21727,7 +21685,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 357,
+                "OBJECTID": 356,
                 "PODNOSILAC": "Ciglana i trgovina Todorović, Pećinci",
                 "LEZISTE": "Todorović",
                 "IZDATO": 2018,
@@ -21809,7 +21767,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 358,
+                "OBJECTID": 357,
                 "PODNOSILAC": "JP Elektroprivreda Srbije, Beograd",
                 "LEZISTE": "Drmno",
                 "IZDATO": 1990,
@@ -21915,7 +21873,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 359,
+                "OBJECTID": 358,
                 "PODNOSILAC": "Autoprevozničko-građevinska radnja GORKOP, Brus",
                 "LEZISTE": "Čuka Radoševica",
                 "IZDATO": 2019,
@@ -21965,7 +21923,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 360,
+                "OBJECTID": 359,
                 "PODNOSILAC": "Jugo-Kaolin doo, Beograd",
                 "LEZISTE": "Deo i Deo sever - Donja Bela reka",
                 "IZDATO": 2019,
@@ -22087,7 +22045,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 361,
+                "OBJECTID": 360,
                 "PODNOSILAC": "Mineral RS doo, Beograd",
                 "LEZISTE": "Koritnik",
                 "IZDATO": 2019,
@@ -22153,7 +22111,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 362,
+                "OBJECTID": 361,
                 "PODNOSILAC": "Geocement doo, Novi Sad",
                 "LEZISTE": "Babića Majdan",
                 "IZDATO": 2019,
@@ -22235,7 +22193,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 363,
+                "OBJECTID": 362,
                 "PODNOSILAC": "Rudnik olova i cinka Grot ad, Kriva Feja",
                 "LEZISTE": "Blagodat",
                 "IZDATO": 2019,
@@ -22333,7 +22291,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 364,
+                "OBJECTID": 363,
                 "PODNOSILAC": "Drumovi A&D doo, Pirot",
                 "LEZISTE": "Korito",
                 "IZDATO": 2019,
@@ -22379,7 +22337,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 365,
+                "OBJECTID": 364,
                 "PODNOSILAC": "Blizanci doo, Velesnica",
                 "LEZISTE": "Butorke",
                 "IZDATO": 2019,
@@ -22425,7 +22383,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 366,
+                "OBJECTID": 365,
                 "PODNOSILAC": "Trijas doo, Valjevo",
                 "LEZISTE": "Lisina",
                 "IZDATO": 2020,
@@ -22495,49 +22453,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 367,
-                "PODNOSILAC": "IGM Mladost doo, Leskovac",
-                "LEZISTE": "Batulovce",
-                "IZDATO": 2009,
-                "LIST": "521",
-                "SIROVINA": "opekarska glina",
-                "Zastitni_prostor": 0.0,
-                "Shape.STArea()": 1409400,
-                "Shape.STLength()": 4939.44476415923,
-                "Opstina": "Vlasotince",
-                "Ops_komentar": "Vlasotince (100%)",
-                "nadleznost": "Ministarstvo rudarstva i energetike"
-            },
-            "geometry": {
-                "rings": [
-                    [
-                        [
-                            2457747.005457858,
-                            5306943.617842215
-                        ],
-                        [
-                            2458972.869591336,
-                            5306768.893402223
-                        ],
-                        [
-                            2458946.2157424972,
-                            5304704.293998442
-                        ],
-                        [
-                            2457718.5910697756,
-                            5304720.172598017
-                        ],
-                        [
-                            2457747.005457858,
-                            5306943.617842215
-                        ]
-                    ]
-                ]
-            }
-        },
-        {
-            "attributes": {
-                "OBJECTID": 368,
+                "OBJECTID": 366,
                 "PODNOSILAC": "IGM Mladost doo, Leskovac",
                 "LEZISTE": "Resinac - Belogoš revir 3",
                 "IZDATO": 2019,
@@ -22579,7 +22495,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 369,
+                "OBJECTID": 367,
                 "PODNOSILAC": "IGM Mladost doo, Leskovac",
                 "LEZISTE": "Resinac - Belogoš revir 1",
                 "IZDATO": 2019,
@@ -22637,7 +22553,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 370,
+                "OBJECTID": 368,
                 "PODNOSILAC": "IGM Mladost doo, Leskovac",
                 "LEZISTE": "Resinac - Belogoš revir 2",
                 "IZDATO": 2019,
@@ -22695,7 +22611,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 371,
+                "OBJECTID": 369,
                 "PODNOSILAC": "Tehnogradnja doo, Kruševac",
                 "LEZISTE": "Čukara",
                 "IZDATO": 2019,
@@ -22853,7 +22769,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 372,
+                "OBJECTID": 370,
                 "PODNOSILAC": "Marbles doo, Blace",
                 "LEZISTE": "Pašin kamen",
                 "IZDATO": 2019,
@@ -22923,7 +22839,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 373,
+                "OBJECTID": 371,
                 "PODNOSILAC": "Stone Cop doo, Valjevo",
                 "LEZISTE": "Krstivojevića Majdan",
                 "IZDATO": 2019,
@@ -23097,7 +23013,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 374,
+                "OBJECTID": 372,
                 "PODNOSILAC": "SPZR Verado, Rasna",
                 "LEZISTE": "Trnjaci",
                 "IZDATO": 2020,
@@ -23151,7 +23067,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 375,
+                "OBJECTID": 373,
                 "PODNOSILAC": "ZORKA-OPEKA doo, Šabac",
                 "LEZISTE": "Jovanovića Brdo",
                 "IZDATO": 2019,
@@ -23193,7 +23109,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 376,
+                "OBJECTID": 374,
                 "PODNOSILAC": "PMP Consulting doo, Beograd",
                 "LEZISTE": "Solilo",
                 "IZDATO": 2020,
@@ -23551,7 +23467,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 377,
+                "OBJECTID": 375,
                 "PODNOSILAC": "PRFL AGREGATI doo, Branešci",
                 "LEZISTE": "Alin Potok",
                 "IZDATO": 2020,
@@ -23617,7 +23533,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 378,
+                "OBJECTID": 376,
                 "PODNOSILAC": "SERBIA ZIJIN MINING doo, Bor",
                 "LEZISTE": "Čukaru Peki",
                 "IZDATO": 2020,
@@ -23719,7 +23635,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 379,
+                "OBJECTID": 377,
                 "PODNOSILAC": "Rudnik olova i cinka Veliki Majdan doo, Ljubovija",
                 "LEZISTE": "Veliki Majdan",
                 "IZDATO": 1969,
@@ -23793,7 +23709,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 380,
+                "OBJECTID": 378,
                 "PODNOSILAC": "Trans-Kop doo, Čajetina",
                 "LEZISTE": "Koturača",
                 "IZDATO": 2020,
@@ -23883,7 +23799,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 381,
+                "OBJECTID": 379,
                 "PODNOSILAC": "KAMEN VISOKA doo, Majdan",
                 "LEZISTE": "Visoka",
                 "IZDATO": 2020,
@@ -23949,7 +23865,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 382,
+                "OBJECTID": 380,
                 "PODNOSILAC": "Maasai Stone doo, Majur",
                 "LEZISTE": "Metković - zapadni revir - poligon 1",
                 "IZDATO": 2020,
@@ -24043,7 +23959,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 383,
+                "OBJECTID": 381,
                 "PODNOSILAC": "Maasai Stone doo, Majur",
                 "LEZISTE": "Metković - istočni revir - poligon 2",
                 "IZDATO": 2020,
@@ -24109,7 +24025,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 384,
+                "OBJECTID": 382,
                 "PODNOSILAC": "Maasai Stone doo, Majur",
                 "LEZISTE": "Metković - spoljašnje odagalište - poligon 3",
                 "IZDATO": 2020,
@@ -24159,7 +24075,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 385,
+                "OBJECTID": 383,
                 "PODNOSILAC": "Vodogradnja doo, Pukovac",
                 "LEZISTE": "Vodice",
                 "IZDATO": 2020,
@@ -24221,7 +24137,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 386,
+                "OBJECTID": 384,
                 "PODNOSILAC": "Kamen i pesak doo, Beograd",
                 "LEZISTE": "Brdanjak",
                 "IZDATO": 2021,
@@ -24319,7 +24235,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 387,
+                "OBJECTID": 385,
                 "PODNOSILAC": "KAMENOLOM GLAVICA doo, Beograd",
                 "LEZISTE": "Glavica-Bojinovići",
                 "IZDATO": 2020,
@@ -24377,7 +24293,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 388,
+                "OBJECTID": 386,
                 "PODNOSILAC": "TEKOMINING DOO Beograd",
                 "LEZISTE": "Ladne Vode ",
                 "IZDATO": 2020,
@@ -24431,7 +24347,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 389,
+                "OBJECTID": 387,
                 "PODNOSILAC": "Tasyapi doo, Beograd",
                 "LEZISTE": "Ruđa",
                 "IZDATO": 2020,
@@ -24481,7 +24397,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 390,
+                "OBJECTID": 388,
                 "PODNOSILAC": "IGM Mladost doo, Leskovac",
                 "LEZISTE": "Selište",
                 "IZDATO": 2020,
@@ -24543,7 +24459,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 391,
+                "OBJECTID": 389,
                 "PODNOSILAC": "Transkop export-import doo, Paraćin",
                 "LEZISTE": "Krajnji Rid",
                 "IZDATO": 2021,
@@ -24633,7 +24549,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 392,
+                "OBJECTID": 390,
                 "PODNOSILAC": "Trijas doo, Sremska Mitrovica",
                 "LEZISTE": "Drenovački kik",
                 "IZDATO": 2021,
@@ -24707,7 +24623,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 393,
+                "OBJECTID": 391,
                 "PODNOSILAC": "Kruševacput AD, Kruševac",
                 "LEZISTE": "Lešje",
                 "IZDATO": 2020,
@@ -24749,7 +24665,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 394,
+                "OBJECTID": 392,
                 "PODNOSILAC": "Jugo-Kaolin doo, Beograd",
                 "LEZISTE": "Boj Brdo - Dokmir",
                 "IZDATO": 2021,
@@ -24823,7 +24739,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 395,
+                "OBJECTID": 393,
                 "PODNOSILAC": "Bosil-Metal doo",
                 "LEZISTE": "Podvirovi",
                 "IZDATO": 2022,
@@ -24885,7 +24801,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 396,
+                "OBJECTID": 394,
                 "PODNOSILAC": "Unimer doo, Kruševac",
                 "LEZISTE": "Goleš",
                 "IZDATO": 2021,
@@ -24947,7 +24863,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 397,
+                "OBJECTID": 395,
                 "PODNOSILAC": "GANGYUAN CO. DOO SMEDEREVO",
                 "LEZISTE": "Kaona",
                 "IZDATO": 2021,
@@ -25077,7 +24993,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 398,
+                "OBJECTID": 396,
                 "PODNOSILAC": "PZP Kragujevac doo, Kragujevac",
                 "LEZISTE": "Komarice",
                 "IZDATO": 2021,
@@ -25147,7 +25063,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 399,
+                "OBJECTID": 397,
                 "PODNOSILAC": "SERBIA ZIJIN BOR COPPER DOO BOR",
                 "LEZISTE": "Mali Krivelj",
                 "IZDATO": 1960,
@@ -25201,7 +25117,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 400,
+                "OBJECTID": 398,
                 "PODNOSILAC": "Vasilijević doo, Kadina Luka",
                 "LEZISTE": "Crveno Vrelo",
                 "IZDATO": 2022,
@@ -25275,7 +25191,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 401,
+                "OBJECTID": 399,
                 "PODNOSILAC": "IGM Mladost doo, Leskovac",
                 "LEZISTE": "Lučina-sever",
                 "IZDATO": 2021,
@@ -25325,7 +25241,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 402,
+                "OBJECTID": 400,
                 "PODNOSILAC": "IGM Mladost doo, Leskovac",
                 "LEZISTE": "Lučina-jug",
                 "IZDATO": 2021,
@@ -25395,7 +25311,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 403,
+                "OBJECTID": 401,
                 "PODNOSILAC": "Granodiorit - Krup doo, Novi Sad",
                 "LEZISTE": "Gradac",
                 "IZDATO": 2022,
@@ -25457,7 +25373,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 404,
+                "OBJECTID": 402,
                 "PODNOSILAC": "Gift Line doo , Kraljevo",
                 "LEZISTE": "Kamenica",
                 "IZDATO": 2021,
@@ -25543,7 +25459,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 405,
+                "OBJECTID": 403,
                 "PODNOSILAC": "C&LC Kameni agregati doo, Valjevo",
                 "LEZISTE": "Kamalj",
                 "IZDATO": 2022,
@@ -25605,7 +25521,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 406,
+                "OBJECTID": 404,
                 "PODNOSILAC": "Mališa Janković PR Izgradnja puteva  TRANS KOP Požarevac",
                 "LEZISTE": "Livada",
                 "IZDATO": 2023,
@@ -25671,7 +25587,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 407,
+                "OBJECTID": 405,
                 "PODNOSILAC": "SZUT Kamenorezačka radnja Domazet, Brežđe",
                 "LEZISTE": "Domazet",
                 "IZDATO": 2022,
@@ -25761,7 +25677,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 408,
+                "OBJECTID": 406,
                 "PODNOSILAC": "Karamela Kop, Baljevac",
                 "LEZISTE": "Voznik-Rudno",
                 "IZDATO": 2021,
@@ -25803,7 +25719,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 409,
+                "OBJECTID": 407,
                 "PODNOSILAC": "PAVLOVIĆ KD PAVLOVIĆ GORAN RAŠKA ",
                 "LEZISTE": "Voznik-Jokovska vratnica",
                 "IZDATO": 2022,
@@ -25845,7 +25761,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 410,
+                "OBJECTID": 408,
                 "PODNOSILAC": "Lumons doo, Čačak",
                 "LEZISTE": "Milojevića Brdo",
                 "IZDATO": 2022,
@@ -25959,7 +25875,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 411,
+                "OBJECTID": 409,
                 "PODNOSILAC": "Metalplast - Pavlović doo, Blace",
                 "LEZISTE": "Popova",
                 "IZDATO": 2022,
@@ -26069,7 +25985,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 412,
+                "OBJECTID": 410,
                 "PODNOSILAC": "DOLOMIT MK-S&M doo, Prokuplje",
                 "LEZISTE": "Markovo gumno-Berilje",
                 "IZDATO": 2023,
@@ -26199,7 +26115,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 413,
+                "OBJECTID": 411,
                 "PODNOSILAC": "MD Kojić doo, Ljig",
                 "LEZISTE": "Rid - Štavica",
                 "IZDATO": 2022,
@@ -26281,7 +26197,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 414,
+                "OBJECTID": 412,
                 "PODNOSILAC": "Niskogradnja - Ub doo, Ub",
                 "LEZISTE": "Tolićki vis",
                 "IZDATO": 2022,
@@ -26343,7 +26259,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 415,
+                "OBJECTID": 413,
                 "PODNOSILAC": "Unimer doo, Kruševac",
                 "LEZISTE": "Duboki Potok zapad",
                 "IZDATO": 2022,
@@ -26385,7 +26301,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 416,
+                "OBJECTID": 414,
                 "PODNOSILAC": "Unimer doo, Kruševac",
                 "LEZISTE": "Duboki Potok sever",
                 "IZDATO": 2022,
@@ -26443,7 +26359,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 417,
+                "OBJECTID": 415,
                 "PODNOSILAC": "Unimer doo, Kruševac",
                 "LEZISTE": "Duboki Potok jug",
                 "IZDATO": 2022,
@@ -26505,7 +26421,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 418,
+                "OBJECTID": 416,
                 "PODNOSILAC": "Eksplokam doo, Blace",
                 "LEZISTE": "Varnica",
                 "IZDATO": 2022,
@@ -26611,7 +26527,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 419,
+                "OBJECTID": 417,
                 "PODNOSILAC": "Pajić Comerc doo, Stalać",
                 "LEZISTE": "Poljana",
                 "IZDATO": 2022,
@@ -26721,7 +26637,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 420,
+                "OBJECTID": 418,
                 "PODNOSILAC": "Gramar niskogradnja doo, Aranđelovac",
                 "LEZISTE": "Vis",
                 "IZDATO": 2022,
@@ -26875,7 +26791,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 421,
+                "OBJECTID": 419,
                 "PODNOSILAC": "Profi Asfalt doo, Kruševac",
                 "LEZISTE": "Zrnce",
                 "IZDATO": 2022,
@@ -27045,7 +26961,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 422,
+                "OBJECTID": 420,
                 "PODNOSILAC": "Megalit-Šumnik ad, Raška",
                 "LEZISTE": "Velika Bisina",
                 "IZDATO": 1978,
@@ -27087,7 +27003,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 423,
+                "OBJECTID": 421,
                 "PODNOSILAC": "SZR Tasić-Kop, Prokuplje",
                 "LEZISTE": "Grabak",
                 "IZDATO": 2022,
@@ -27161,7 +27077,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 424,
+                "OBJECTID": 422,
                 "PODNOSILAC": "SZR I AUTOPREVOZNIK ŽELJKO ĐURIĆ",
                 "LEZISTE": "Branešci",
                 "IZDATO": 2022,
@@ -27275,7 +27191,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 425,
+                "OBJECTID": 423,
                 "PODNOSILAC": "Rudnici i železara Smederevo",
                 "LEZISTE": "Suvo Rudište",
                 "IZDATO": 1970,
@@ -27317,7 +27233,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 426,
+                "OBJECTID": 424,
                 "PODNOSILAC": "Javno preduzeće Elektroprivreda Srbije",
                 "LEZISTE": "polje A",
                 "IZDATO": 1979,
@@ -27387,7 +27303,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 427,
+                "OBJECTID": 425,
                 "PODNOSILAC": "Bora i Goran doo, Mala Krsna",
                 "LEZISTE": "Trebežina",
                 "IZDATO": 2023,
@@ -27453,7 +27369,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 428,
+                "OBJECTID": 426,
                 "PODNOSILAC": "KONCERN FARMAKOM M.B. ŠABAC-RUDNIK LECE DOO ŠABAC - U STEČAJU ",
                 "LEZISTE": "Lece",
                 "IZDATO": 2022,
@@ -27699,7 +27615,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 429,
+                "OBJECTID": 427,
                 "PODNOSILAC": "InterCer doo, Beograd",
                 "LEZISTE": "Tolića Kosa",
                 "IZDATO": 2023,
@@ -27749,7 +27665,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 430,
+                "OBJECTID": 428,
                 "PODNOSILAC": "Rapatna doo, Despotovac",
                 "LEZISTE": "Rapatna",
                 "IZDATO": 2024,
@@ -27811,7 +27727,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 431,
+                "OBJECTID": 429,
                 "PODNOSILAC": "Zajača Ing doo, Loznica",
                 "LEZISTE": "Čot",
                 "IZDATO": 2023,
@@ -27881,7 +27797,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 432,
+                "OBJECTID": 430,
                 "PODNOSILAC": "Mis Jovanović doo, Aranđelovac",
                 "LEZISTE": "Jovanovića Zabran 2",
                 "IZDATO": 2022,
@@ -28003,7 +27919,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 433,
+                "OBJECTID": 431,
                 "PODNOSILAC": "Metalfer Kamenolomi doo, Sremska Mitrovica",
                 "LEZISTE": "Mrčići i Tavani Markovići",
                 "IZDATO": 2023,
@@ -28093,7 +28009,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 434,
+                "OBJECTID": 432,
                 "PODNOSILAC": "Putevi doo, Ivanjica",
                 "LEZISTE": "Kapura",
                 "IZDATO": 2021,
@@ -28239,7 +28155,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 435,
+                "OBJECTID": 433,
                 "PODNOSILAC": "Cancar Kop doo, Aranđelovac",
                 "LEZISTE": "Cancar",
                 "IZDATO": 2024,
@@ -28313,7 +28229,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 436,
+                "OBJECTID": 434,
                 "PODNOSILAC": "Nevena Color doo, Leskovac",
                 "LEZISTE": "Berilje",
                 "IZDATO": 2023,
@@ -28459,7 +28375,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 437,
+                "OBJECTID": 435,
                 "PODNOSILAC": "Jugo-Kaolin doo, Beograd",
                 "LEZISTE": "Avala-Pambukovaca",
                 "IZDATO": 2023,
@@ -28513,7 +28429,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 438,
+                "OBJECTID": 436,
                 "PODNOSILAC": "GM DAREX TRANS doo, Gornji Milanovac",
                 "LEZISTE": "Ridžinac",
                 "IZDATO": 2024,
@@ -28583,7 +28499,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 439,
+                "OBJECTID": 437,
                 "PODNOSILAC": "Stanković Granit doo, Mali Zvornik",
                 "LEZISTE": "Peckovo brdo",
                 "IZDATO": 2023,
@@ -28661,7 +28577,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 440,
+                "OBJECTID": 438,
                 "PODNOSILAC": "Mine Invest doo, Aranđelovac",
                 "LEZISTE": "Crne rovine",
                 "IZDATO": 2023,
@@ -28751,7 +28667,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 441,
+                "OBJECTID": 439,
                 "PODNOSILAC": "Jugo-Kaolin doo, Beograd",
                 "LEZISTE": "Čučuge",
                 "IZDATO": 1973,
@@ -28821,7 +28737,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 442,
+                "OBJECTID": 440,
                 "PODNOSILAC": "PR GKR Mermer-Granit Galović, Čačak",
                 "LEZISTE": "Bukovik",
                 "IZDATO": null,
@@ -28895,7 +28811,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 443,
+                "OBJECTID": 441,
                 "PODNOSILAC": "Gradina Kamenolom doo, Beograd",
                 "LEZISTE": "Gradina",
                 "IZDATO": 2023,
@@ -29009,7 +28925,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 444,
+                "OBJECTID": 442,
                 "PODNOSILAC": "Mermer Tim doo, Aranđelovac",
                 "LEZISTE": "Vinogradi",
                 "IZDATO": 2023,
@@ -29067,10 +28983,10 @@
         },
         {
             "attributes": {
-                "OBJECTID": 445,
+                "OBJECTID": 443,
                 "PODNOSILAC": "IGM Mladost doo, Leskovac",
                 "LEZISTE": "Batulovce",
-                "IZDATO": null,
+                "IZDATO": 2024,
                 "LIST": "521",
                 "SIROVINA": "opekarska glina",
                 "Zastitni_prostor": 0.0,
@@ -29109,7 +29025,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 446,
+                "OBJECTID": 444,
                 "PODNOSILAC": "IGM Mladost doo, Leskovac",
                 "LEZISTE": "Kaštavar",
                 "IZDATO": 2023,
@@ -29195,7 +29111,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 447,
+                "OBJECTID": 445,
                 "PODNOSILAC": "Bike Food doo, Beograd",
                 "LEZISTE": "Bojovića krš",
                 "IZDATO": 2023,
@@ -29261,7 +29177,141 @@
         },
         {
             "attributes": {
-                "OBJECTID": 448,
+                "OBJECTID": 446,
+                "PODNOSILAC": "Drumovi A&D doo, Pirot",
+                "LEZISTE": "Kulare",
+                "IZDATO": 2024,
+                "LIST": "671",
+                "SIROVINA": "krečnjak kao TGK",
+                "Zastitni_prostor": 0.0,
+                "Shape.STArea()": 151270,
+                "Shape.STLength()": 1740.8009586864641,
+                "Opstina": "Negotin",
+                "Ops_komentar": "Negotin",
+                "nadleznost": "Ministarstvo rudarstva i energetike"
+            },
+            "geometry": {
+                "rings": [
+                    [
+                        [
+                            2485223.8992505134,
+                            5515797.597666542
+                        ],
+                        [
+                            2485210.4874192993,
+                            5515831.426814227
+                        ],
+                        [
+                            2485229.7992146737,
+                            5515903.939233829
+                        ],
+                        [
+                            2485229.2158281095,
+                            5515954.366774211
+                        ],
+                        [
+                            2485246.2529933606,
+                            5515972.29701731
+                        ],
+                        [
+                            2485302.002212633,
+                            5516054.02288536
+                        ],
+                        [
+                            2485416.3525063577,
+                            5516047.96495005
+                        ],
+                        [
+                            2485452.2196425633,
+                            5515935.341456189
+                        ],
+                        [
+                            2485576.9233594285,
+                            5515965.526519695
+                        ],
+                        [
+                            2485636.854585087,
+                            5515960.350445761
+                        ],
+                        [
+                            2485695.8202908705,
+                            5515981.799343346
+                        ],
+                        [
+                            2485715.5056762868,
+                            5515904.45129
+                        ],
+                        [
+                            2485659.195341326,
+                            5515874.5565389935
+                        ],
+                        [
+                            2485657.664314231,
+                            5515866.178484611
+                        ],
+                        [
+                            2485744.2562892744,
+                            5515783.541320268
+                        ],
+                        [
+                            2485779.099750992,
+                            5515607.915818969
+                        ],
+                        [
+                            2485706.402365958,
+                            5515513.868657338
+                        ],
+                        [
+                            2485639.497809092,
+                            5515519.158353032
+                        ],
+                        [
+                            2485610.310412781,
+                            5515526.6352104
+                        ],
+                        [
+                            2485545.473017294,
+                            5515487.076579935
+                        ],
+                        [
+                            2485515.743353194,
+                            5515460.95151611
+                        ],
+                        [
+                            2485151.490137459,
+                            5515374.435371451
+                        ],
+                        [
+                            2485098.4952422245,
+                            5515463.521023172
+                        ],
+                        [
+                            2485157.233382851,
+                            5515557.798840903
+                        ],
+                        [
+                            2485162.816780393,
+                            5515644.536372112
+                        ],
+                        [
+                            2485212.3280939166,
+                            5515685.747432632
+                        ],
+                        [
+                            2485175.557123698,
+                            5515742.362464578
+                        ],
+                        [
+                            2485223.8992505134,
+                            5515797.597666542
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 447,
                 "PODNOSILAC": "A.D. Novi Pazar-put, Novi Pazar",
                 "LEZISTE": "Buđevo",
                 "IZDATO": 2024,
@@ -29395,7 +29445,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 449,
+                "OBJECTID": 448,
                 "PODNOSILAC": "\tI&M Veljko doo, Likodra",
                 "LEZISTE": "Bećar Brdo",
                 "IZDATO": 2024,
@@ -29481,7 +29531,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 450,
+                "OBJECTID": 449,
                 "PODNOSILAC": "Beaz Plus doo, Aranđelovac",
                 "LEZISTE": "Vinogradi",
                 "IZDATO": 2024,
@@ -29527,7 +29577,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 451,
+                "OBJECTID": 450,
                 "PODNOSILAC": "Iva Agrar doo, Lajkovac",
                 "LEZISTE": "Ostrež",
                 "IZDATO": 2005,
@@ -29569,7 +29619,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 452,
+                "OBJECTID": 451,
                 "PODNOSILAC": "JKP Surčin",
                 "LEZISTE": "Jakovačka Kumša poligon A",
                 "IZDATO": 2021,
@@ -29631,7 +29681,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 453,
+                "OBJECTID": 452,
                 "PODNOSILAC": "JKP Surčin",
                 "LEZISTE": "Jakovačka Kumša poligon B",
                 "IZDATO": 2021,
@@ -29745,7 +29795,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 454,
+                "OBJECTID": 453,
                 "PODNOSILAC": "VR RIVER HYDRO ENERGY doo, Brus",
                 "LEZISTE": "Bela Stena",
                 "IZDATO": 2024,
@@ -29791,7 +29841,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 455,
+                "OBJECTID": 454,
                 "PODNOSILAC": "Unimer doo, Kruševac",
                 "LEZISTE": "Grad",
                 "IZDATO": 2024,
@@ -29885,7 +29935,363 @@
         },
         {
             "attributes": {
+                "OBJECTID": 455,
+                "PODNOSILAC": "Složna braća Zoran i Nele doo, Nova Varoš",
+                "LEZISTE": "Radišića brdo",
+                "IZDATO": 2024,
+                "LIST": "674",
+                "SIROVINA": "krečnjak kao TGK",
+                "Zastitni_prostor": null,
+                "Shape.STArea()": 44242,
+                "Shape.STLength()": 908.7233588759059,
+                "Opstina": "Sjenica",
+                "Ops_komentar": "Sjenica",
+                "nadleznost": "Ministarstvo rudarstva i energetike"
+            },
+            "geometry": {
+                "rings": [
+                    [
+                        [
+                            2225090.7676659613,
+                            5350767.4432729995
+                        ],
+                        [
+                            2225323.423023697,
+                            5350687.712976409
+                        ],
+                        [
+                            2225426.383299457,
+                            5350448.185599241
+                        ],
+                        [
+                            2225364.2394537153,
+                            5350371.762298974
+                        ],
+                        [
+                            2225265.9741199478,
+                            5350448.9938067505
+                        ],
+                        [
+                            2225238.2281281934,
+                            5350476.174141123
+                        ],
+                        [
+                            2225207.8233325053,
+                            5350496.442996296
+                        ],
+                        [
+                            2225196.774542653,
+                            5350503.188182095
+                        ],
+                        [
+                            2225159.5489919307,
+                            5350520.622490518
+                        ],
+                        [
+                            2225072.9929684913,
+                            5350536.081831032
+                        ],
+                        [
+                            2225020.7883915864,
+                            5350545.078596832
+                        ],
+                        [
+                            2225007.014511031,
+                            5350550.414626511
+                        ],
+                        [
+                            2225090.7676659613,
+                            5350767.4432729995
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "attributes": {
                 "OBJECTID": 456,
+                "PODNOSILAC": "MAUMAN RUDNIK doo, Šabac",
+                "LEZISTE": "Gornje Crniljevo",
+                "IZDATO": 2025,
+                "LIST": "675",
+                "SIROVINA": "keramičke gline",
+                "Zastitni_prostor": 0.0,
+                "Shape.STArea()": 418019.5,
+                "Shape.STLength()": 3168.5999896881135,
+                "Opstina": "Osečina",
+                "Ops_komentar": "Osečina",
+                "nadleznost": "Ministarstvo rudarstva i energetike"
+            },
+            "geometry": {
+                "rings": [
+                    [
+                        [
+                            2186675.833392758,
+                            5532005.284075081
+                        ],
+                        [
+                            2187179.027362585,
+                            5532013.641480852
+                        ],
+                        [
+                            2187721.031926427,
+                            5532127.834233526
+                        ],
+                        [
+                            2187757.3340232978,
+                            5532045.659213766
+                        ],
+                        [
+                            2187756.4654470985,
+                            5532013.376960926
+                        ],
+                        [
+                            2187776.2412186135,
+                            5532001.077041466
+                        ],
+                        [
+                            2187788.821096301,
+                            5532001.284791548
+                        ],
+                        [
+                            2187836.0921295793,
+                            5532017.4977359455
+                        ],
+                        [
+                            2187974.593358874,
+                            5531841.610091302
+                        ],
+                        [
+                            2187995.553714332,
+                            5531415.476793062
+                        ],
+                        [
+                            2188003.3952037417,
+                            5531278.126952985
+                        ],
+                        [
+                            2187916.7176472414,
+                            5531278.100169376
+                        ],
+                        [
+                            2187894.401145934,
+                            5531274.926281574
+                        ],
+                        [
+                            2187872.2455683122,
+                            5531261.935142545
+                        ],
+                        [
+                            2187700.77174401,
+                            5531232.449829512
+                        ],
+                        [
+                            2187538.345360166,
+                            5531248.001575121
+                        ],
+                        [
+                            2187529.659963862,
+                            5531266.094764993
+                        ],
+                        [
+                            2187524.5223663757,
+                            5531323.5262388345
+                        ],
+                        [
+                            2187526.488240154,
+                            5531374.061308135
+                        ],
+                        [
+                            2187546.716053203,
+                            5531419.287274837
+                        ],
+                        [
+                            2187547.2383042565,
+                            5531472.60472341
+                        ],
+                        [
+                            2187474.0748191215,
+                            5531500.854608453
+                        ],
+                        [
+                            2187491.4842078504,
+                            5531547.437561676
+                        ],
+                        [
+                            2187519.3228647043,
+                            5531554.912526495
+                        ],
+                        [
+                            2187515.0376088554,
+                            5531560.453157918
+                        ],
+                        [
+                            2187505.2537411153,
+                            5531560.291296911
+                        ],
+                        [
+                            2187496.8214775086,
+                            5531562.957550058
+                        ],
+                        [
+                            2187476.0404351223,
+                            5531551.390658167
+                        ],
+                        [
+                            2187469.2824660027,
+                            5531537.250044559
+                        ],
+                        [
+                            2187463.9683083193,
+                            5531520.327590976
+                        ],
+                        [
+                            2187450.1527879694,
+                            5531510.278833971
+                        ],
+                        [
+                            2187437.550546923,
+                            5531511.473129193
+                        ],
+                        [
+                            2187409.5045623262,
+                            5531516.620375912
+                        ],
+                        [
+                            2187380.0608587614,
+                            5531521.7443956
+                        ],
+                        [
+                            2187360.51628297,
+                            5531520.017882147
+                        ],
+                        [
+                            2187346.4471242204,
+                            5531525.39638537
+                        ],
+                        [
+                            2187263.544932425,
+                            5531550.677680685
+                        ],
+                        [
+                            2187232.657179206,
+                            5531558.583072498
+                        ],
+                        [
+                            2187221.452542029,
+                            5531559.800237958
+                        ],
+                        [
+                            2187187.792427485,
+                            5531566.2566493545
+                        ],
+                        [
+                            2187160.808625016,
+                            5531506.888397884
+                        ],
+                        [
+                            2187126.236131179,
+                            5531483.869114862
+                        ],
+                        [
+                            2187097.000351467,
+                            5531476.369825577
+                        ],
+                        [
+                            2187048.1046579177,
+                            5531474.155694117
+                        ],
+                        [
+                            2187015.888667439,
+                            5531477.829635357
+                        ],
+                        [
+                            2186979.525860779,
+                            5531478.62888211
+                        ],
+                        [
+                            2186933.2867625006,
+                            5531484.875447865
+                        ],
+                        [
+                            2186903.912330388,
+                            5531485.790446078
+                        ],
+                        [
+                            2186895.456832384,
+                            5531489.858602848
+                        ],
+                        [
+                            2186889.7504137554,
+                            5531496.778163178
+                        ],
+                        [
+                            2186872.7005298976,
+                            5531513.329384475
+                        ],
+                        [
+                            2186832.3297049645,
+                            5531502.838471939
+                        ],
+                        [
+                            2186762.700303633,
+                            5531486.249509372
+                        ],
+                        [
+                            2186683.765750536,
+                            5531609.7930238135
+                        ],
+                        [
+                            2186675.4259029324,
+                            5531606.848512004
+                        ],
+                        [
+                            2186645.23988012,
+                            5531656.850394795
+                        ],
+                        [
+                            2186633.6873749993,
+                            5531679.104518504
+                        ],
+                        [
+                            2186624.953417947,
+                            5531700.002684307
+                        ],
+                        [
+                            2186588.920879881,
+                            5531765.339608023
+                        ],
+                        [
+                            2186568.7498517316,
+                            5531801.479611437
+                        ],
+                        [
+                            2186547.204122535,
+                            5531836.193899842
+                        ],
+                        [
+                            2186528.4305078257,
+                            5531872.357359033
+                        ],
+                        [
+                            2186643.376589281,
+                            5531938.805706342
+                        ],
+                        [
+                            2186669.0995234554,
+                            5531989.739623228
+                        ],
+                        [
+                            2186675.833392758,
+                            5532005.284075081
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 457,
                 "PODNOSILAC": "Dolomis Group doo, Despotovac",
                 "LEZISTE": "Vukovac",
                 "IZDATO": 2024,
@@ -29939,7 +30345,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 457,
+                "OBJECTID": 458,
                 "PODNOSILAC": "Silur doo, Kraljevo",
                 "LEZISTE": "Otroci",
                 "IZDATO": 2025,
@@ -30001,7 +30407,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 458,
+                "OBJECTID": 459,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "Честерег",
                 "IZDATO": 2015,
@@ -30043,7 +30449,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 459,
+                "OBJECTID": 460,
                 "PODNOSILAC": "IVAN MLАDENOVIĆ PR CIGLANA VASA KUZMIN",
                 "LEZISTE": "Површински коп Ограде II код Кузмина",
                 "IZDATO": 2023,
@@ -30105,7 +30511,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 460,
+                "OBJECTID": 461,
                 "PODNOSILAC": "AŠANJA PESAK DOO KUPINOVO",
                 "LEZISTE": "површински коп „Рибњак“ у Ашањи",
                 "IZDATO": 2021,
@@ -30163,7 +30569,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 461,
+                "OBJECTID": 462,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "лежишта Pt2-1 и Pt2-2 гасног поља Бегејци",
                 "IZDATO": 2020,
@@ -30205,7 +30611,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 462,
+                "OBJECTID": 463,
                 "PODNOSILAC": "PTP ŽAKI-COMMERCE DOO NAKOVO",
                 "LEZISTE": "Чардариште",
                 "IZDATO": 2018,
@@ -30259,7 +30665,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 463,
+                "OBJECTID": 464,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "Велика Греда - југ",
                 "IZDATO": 1985,
@@ -30305,7 +30711,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 464,
+                "OBJECTID": 465,
                 "PODNOSILAC": "Dremin D.O.O. Kanjiža",
                 "LEZISTE": " ",
                 "IZDATO": null,
@@ -30351,7 +30757,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 465,
+                "OBJECTID": 466,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "Експлоатационо поље Србобран",
                 "IZDATO": 2022,
@@ -30401,7 +30807,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 466,
+                "OBJECTID": 467,
                 "PODNOSILAC": "AD POLET IGK NOVI BEČEJ",
                 "LEZISTE": "лежиште Гарајевац исток",
                 "IZDATO": null,
@@ -30487,7 +30893,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 467,
+                "OBJECTID": 468,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "Кикинда Варош - југ",
                 "IZDATO": 1990,
@@ -30529,7 +30935,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 468,
+                "OBJECTID": 469,
                 "PODNOSILAC": "VETROELEKTRANE BALKANA DOO",
                 "LEZISTE": "Експлоатациони простор изворишта \"Ветроелектране Балкана\" д.о.о. (бунар БВПД-1/13) у Мраморку",
                 "IZDATO": 2022,
@@ -30579,7 +30985,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 469,
+                "OBJECTID": 470,
                 "PODNOSILAC": "EKO GRADNJA DOO ZA PROIZVODNJU I UGRAĐIVANJE BETONSKE GALANTERIJE",
                 "LEZISTE": " ",
                 "IZDATO": null,
@@ -30621,7 +31027,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 470,
+                "OBJECTID": 471,
                 "PODNOSILAC": "NAPREDAK EM DOO ČONOPLJA",
                 "LEZISTE": "лежиште Чонопља у Чонопљи",
                 "IZDATO": 2023,
@@ -30723,7 +31129,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 471,
+                "OBJECTID": 472,
                 "PODNOSILAC": "PSG BANATSKI DVOR DOO NOVI SAD",
                 "LEZISTE": "Банатски Двор",
                 "IZDATO": 1978,
@@ -30765,7 +31171,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 472,
+                "OBJECTID": 473,
                 "PODNOSILAC": "DOO CRNI MB GAS PETROL ELEMIR",
                 "LEZISTE": "Виногради код Елемира",
                 "IZDATO": 2019,
@@ -30863,7 +31269,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 473,
+                "OBJECTID": 474,
                 "PODNOSILAC": "ИГМ АД Грађевинар",
                 "LEZISTE": "Лежиште опекарске сировине у Дебељачи",
                 "IZDATO": 2005,
@@ -30905,7 +31311,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 474,
+                "OBJECTID": 475,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "Торда плитко",
                 "IZDATO": 2016,
@@ -30947,7 +31353,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 475,
+                "OBJECTID": 476,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "поље Иђош",
                 "IZDATO": 2022,
@@ -30989,7 +31395,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 476,
+                "OBJECTID": 477,
                 "PODNOSILAC": "CIGLANA I TRGOVINA TODOROVIĆ DOO za proizvodnju trgovinu i usluge Pećinci",
                 "LEZISTE": "Циглана и трговина Тодоровић",
                 "IZDATO": null,
@@ -31071,7 +31477,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 477,
+                "OBJECTID": 478,
                 "PODNOSILAC": "\tSILIDIO DRUŠTVO SA OGRANIČENOM ODGOVORNOŠĆU VRŠAC",
                 "LEZISTE": "лежиште Думбрава",
                 "IZDATO": 2020,
@@ -31169,7 +31575,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 478,
+                "OBJECTID": 479,
                 "PODNOSILAC": "LAFARGE BFC DOO BEOČIN",
                 "LEZISTE": "Површински коп Бели камен код Бешенова",
                 "IZDATO": null,
@@ -31211,7 +31617,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 479,
+                "OBJECTID": 480,
                 "PODNOSILAC": "LEPOJEVIĆ DOO NOVO ORAHOVО",
                 "LEZISTE": "Површински коп Чикер код Новог Орахова",
                 "IZDATO": null,
@@ -31261,7 +31667,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 480,
+                "OBJECTID": 481,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "Мајдан лежиште Pz-1",
                 "IZDATO": 1985,
@@ -31311,7 +31717,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 481,
+                "OBJECTID": 482,
                 "PODNOSILAC": "WIENERBERGER doo KANJIŽA",
                 "LEZISTE": "Мајдан III",
                 "IZDATO": 2011,
@@ -31457,7 +31863,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 482,
+                "OBJECTID": 483,
                 "PODNOSILAC": "ZORAN STOJANOVIĆ",
                 "LEZISTE": " ",
                 "IZDATO": null,
@@ -31543,7 +31949,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 483,
+                "OBJECTID": 484,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "поље Кикинда запад",
                 "IZDATO": 2020,
@@ -31593,7 +31999,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 484,
+                "OBJECTID": 485,
                 "PODNOSILAC": "COFICAB SERBIA D.O.O.",
                 "LEZISTE": "Експлоатациони простор изворишта у кругу компаније COFICAB SERBIA DOO у Дечу",
                 "IZDATO": 2022,
@@ -31631,7 +32037,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 485,
+                "OBJECTID": 486,
                 "PODNOSILAC": "ECOAGRI SERBIA DOO BELA CRKVA",
                 "LEZISTE": "површински коп Мали Гај 1",
                 "IZDATO": null,
@@ -31759,7 +32165,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 486,
+                "OBJECTID": 487,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "Hidro-tеrmalno nalazište Kanjiža",
                 "IZDATO": 2005,
@@ -31801,7 +32207,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 487,
+                "OBJECTID": 488,
                 "PODNOSILAC": "EKO GRADNJA DOO ZA PROIZVODNJU I UGRAĐIVANJE BETONSKE GALANTERIJE",
                 "LEZISTE": " ",
                 "IZDATO": null,
@@ -31919,7 +32325,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 488,
+                "OBJECTID": 489,
                 "PODNOSILAC": "DRAGAN POPOVIĆ PR EKSPLOATACIJA ŠLJUNKA TRKI BELA CRKVA",
                 "LEZISTE": "Простор 3",
                 "IZDATO": 2017,
@@ -31993,7 +32399,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 489,
+                "OBJECTID": 490,
                 "PODNOSILAC": "MILI UG 2023 DOO APATIN",
                 "LEZISTE": "лежиште Јагњево",
                 "IZDATO": null,
@@ -32087,7 +32493,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 490,
+                "OBJECTID": 491,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "Горњи Брег",
                 "IZDATO": 2023,
@@ -32129,7 +32535,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 491,
+                "OBJECTID": 492,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "експлоатационо поље Велика греда",
                 "IZDATO": 1961,
@@ -32175,7 +32581,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 492,
+                "OBJECTID": 493,
                 "PODNOSILAC": "MOL Serbia d.o.o.",
                 "LEZISTE": "Eksploatacioni prostor MOL-servisna stanica Batrovci 2",
                 "IZDATO": 2021,
@@ -32217,7 +32623,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 493,
+                "OBJECTID": 494,
                 "PODNOSILAC": "Владимир Радић ПР",
                 "LEZISTE": " ",
                 "IZDATO": null,
@@ -32267,7 +32673,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 494,
+                "OBJECTID": 495,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "хидротермална бушотина Палић језеро Pj-2/H",
                 "IZDATO": 1989,
@@ -32309,7 +32715,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 495,
+                "OBJECTID": 496,
                 "PODNOSILAC": "ENERGETSKI KOMPLEKS DOO",
                 "LEZISTE": "експлоатационо поље на делу лежишта угља Ковин",
                 "IZDATO": 2022,
@@ -32539,7 +32945,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 496,
+                "OBJECTID": 497,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "Велебит-Југ I",
                 "IZDATO": null,
@@ -32581,7 +32987,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 497,
+                "OBJECTID": 498,
                 "PODNOSILAC": "ЈКП Наш Дом Апатин",
                 "LEZISTE": "Експлоатациони простор изворишта ЈКП Наш Дом у Апатину",
                 "IZDATO": 2023,
@@ -32623,7 +33029,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 498,
+                "OBJECTID": 499,
                 "PODNOSILAC": "LAFARGE BFC DOO BEOČIN",
                 "LEZISTE": "ФИЛИЈАЛА",
                 "IZDATO": 2018,
@@ -32697,7 +33103,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 499,
+                "OBJECTID": 500,
                 "PODNOSILAC": "Luxury Tannery D.O.O.",
                 "LEZISTE": "Експлоатациони простор изворишта Luxury Tannery д.о.о. у Руми",
                 "IZDATO": 2022,
@@ -32795,7 +33201,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 500,
+                "OBJECTID": 501,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "нафтно-гасно поље Итебеј",
                 "IZDATO": 2019,
@@ -32837,7 +33243,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 501,
+                "OBJECTID": 502,
                 "PODNOSILAC": "MOL Serbia d.o.o.",
                 "LEZISTE": "Eksploatacioni prostor MOL-servisna stanica Batrovci 1",
                 "IZDATO": 2021,
@@ -32891,7 +33297,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 502,
+                "OBJECTID": 503,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "НИС-Депонија отпадне исплаке Ново Милошево",
                 "IZDATO": 2019,
@@ -32937,7 +33343,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 503,
+                "OBJECTID": 504,
                 "PODNOSILAC": "DOO BB MINAQUA NOVI SAD",
                 "LEZISTE": "Експлоатациони простор BB MINAQUA Нови Сад",
                 "IZDATO": 2019,
@@ -32979,7 +33385,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 504,
+                "OBJECTID": 505,
                 "PODNOSILAC": "PUT-INŽENJERING DOO",
                 "LEZISTE": "Експлоатациони простор изворишта Пут-Инжењеринг у Новој Пазови",
                 "IZDATO": 2022,
@@ -33021,7 +33427,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 505,
+                "OBJECTID": 506,
                 "PODNOSILAC": "ENERGETSKI KOMPLEKS DOO",
                 "LEZISTE": "Заштитини простор 1",
                 "IZDATO": 2022,
@@ -33071,7 +33477,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 506,
+                "OBJECTID": 507,
                 "PODNOSILAC": "ENERGETSKI KOMPLEKS DOO",
                 "LEZISTE": "Заштитини простор 2",
                 "IZDATO": 2022,
@@ -33137,7 +33543,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 507,
+                "OBJECTID": 508,
                 "PODNOSILAC": "ENERGETSKI KOMPLEKS DOO",
                 "LEZISTE": "Заштитини простор 3",
                 "IZDATO": 2022,
@@ -33187,7 +33593,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 508,
+                "OBJECTID": 509,
                 "PODNOSILAC": "ENERGETSKI KOMPLEKS DOO",
                 "LEZISTE": "Заштитини простор 4",
                 "IZDATO": 2022,
@@ -33277,7 +33683,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 509,
+                "OBJECTID": 510,
                 "PODNOSILAC": "NISKOGRADNJA-UB DOO UB",
                 "LEZISTE": "лежиште Палић код Суботице",
                 "IZDATO": 2023,
@@ -33319,7 +33725,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 510,
+                "OBJECTID": 511,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "Зрењанин",
                 "IZDATO": 1987,
@@ -33361,7 +33767,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 511,
+                "OBJECTID": 512,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "лежишта Ј-1",
                 "IZDATO": null,
@@ -33403,7 +33809,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 512,
+                "OBJECTID": 513,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "Кикинда Варош",
                 "IZDATO": 1968,
@@ -33445,7 +33851,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 513,
+                "OBJECTID": 514,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "Експлоатациони простор изворишта НИС-Нови комплекс у Зрењанину",
                 "IZDATO": 2019,
@@ -33495,7 +33901,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 514,
+                "OBJECTID": 515,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "Меленци (Зрењанин; Кикинда)",
                 "IZDATO": null,
@@ -33545,7 +33951,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 515,
+                "OBJECTID": 516,
                 "PODNOSILAC": "MILORAD KOVAČEVIĆ PR EKSPLOATACIJA ŠLJUNKA I PESKA KAJAKOP SENTA",
                 "LEZISTE": "„Црна Бара 2“",
                 "IZDATO": null,
@@ -33595,7 +34001,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 516,
+                "OBJECTID": 517,
                 "PODNOSILAC": "SAŠA KOCIĆ PREDUZETNIK ZANATSKA RADNJA ZA PROIZVODNJU OPEKE I CREPA CRNA TRAVA",
                 "LEZISTE": "Површински коп Депонија код Ковачице (",
                 "IZDATO": 2019,
@@ -33637,7 +34043,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 517,
+                "OBJECTID": 518,
                 "PODNOSILAC": "DOO Neimar Zrenjanin",
                 "LEZISTE": "Ледине код Зрењанина",
                 "IZDATO": 2020,
@@ -33683,7 +34089,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 518,
+                "OBJECTID": 519,
                 "PODNOSILAC": "Војводинапут-Зрењанин а.д. Зрењанин",
                 "LEZISTE": "Војводина-пут",
                 "IZDATO": null,
@@ -33725,7 +34131,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 519,
+                "OBJECTID": 520,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "експлоатационо поље Иђош",
                 "IZDATO": 2022,
@@ -33787,7 +34193,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 520,
+                "OBJECTID": 521,
                 "PODNOSILAC": "UNIVERZUM Export-Import DOO Aranđelovac Ogranak proizvodni pogon Inđija",
                 "LEZISTE": "површински коп Пустара код Инђије",
                 "IZDATO": 2022,
@@ -33933,7 +34339,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 521,
+                "OBJECTID": 522,
                 "PODNOSILAC": "SZR ZA PROIZVODNJU OPEKE I CREPA I TRGOVINA NA VELIKO MARKOS VELJKO SAVIĆ PREDUZETNIK MARADIK",
                 "LEZISTE": "лежиште Млечика",
                 "IZDATO": null,
@@ -34007,7 +34413,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 522,
+                "OBJECTID": 523,
                 "PODNOSILAC": "RADIVOJE CIVRIĆ PR ZEMLJANI RADOVI U GRAĐEVINARSTVU KOP CIVRIĆ BANATSKI KARLOVAC",
                 "LEZISTE": "ежиште „Виногради“ код Банатског Карловца",
                 "IZDATO": null,
@@ -34049,7 +34455,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 523,
+                "OBJECTID": 524,
                 "PODNOSILAC": "DRAGAN POPOVIĆ PR EKSPLOATACIJA ŠLJUNKA TRKI BELA CRKVA",
                 "LEZISTE": "Поље 2",
                 "IZDATO": 2015,
@@ -34091,7 +34497,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 524,
+                "OBJECTID": 525,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "лежишта К2-1 и Pg+M1-1 нафтно-гасног поља Русанда",
                 "IZDATO": 2020,
@@ -34141,7 +34547,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 525,
+                "OBJECTID": 526,
                 "PODNOSILAC": "LAFARGE BFC DOO BEOČIN",
                 "LEZISTE": "Површински коп Мутаљ",
                 "IZDATO": 2023,
@@ -34223,7 +34629,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 526,
+                "OBJECTID": 527,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "Кикинда Варош - север",
                 "IZDATO": 1989,
@@ -34265,7 +34671,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 527,
+                "OBJECTID": 528,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "Михајлово",
                 "IZDATO": 1991,
@@ -34307,7 +34713,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 528,
+                "OBJECTID": 529,
                 "PODNOSILAC": "DOO ALMEX PANČEVO",
                 "LEZISTE": "Експлоатациони простор изворишта \"ALMEX\" DOO у Панчеву",
                 "IZDATO": 2022,
@@ -34349,7 +34755,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 529,
+                "OBJECTID": 530,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "експлоатационо поље Палић",
                 "IZDATO": 2022,
@@ -34391,7 +34797,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 530,
+                "OBJECTID": 531,
                 "PODNOSILAC": "AGROGLOBE DOO",
                 "LEZISTE": "Експлоатациони простор изворишта AGROGLOBE-MEHANIZACIJA у Новом Саду",
                 "IZDATO": null,
@@ -34465,7 +34871,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 531,
+                "OBJECTID": 532,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": " нафтних лежишта Ј+М1+Bd+Sm-1",
                 "IZDATO": null,
@@ -34507,7 +34913,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 532,
+                "OBJECTID": 533,
                 "PODNOSILAC": "CIGLANA I TRGOVINA TODOROVIĆ DOO za proizvodnju trgovinu i usluge Pećinci",
                 "LEZISTE": "С.О. ПЕЋИНЦИ; К.О. Суботиште ул. Слободана Бајића бр.149",
                 "IZDATO": 2006,
@@ -34549,7 +34955,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 533,
+                "OBJECTID": 534,
                 "PODNOSILAC": "FIT – FS DOO ZA PROIZVODNJU GRAĐEVINSKOG MATERIJALA",
                 "LEZISTE": " ",
                 "IZDATO": null,
@@ -34595,7 +35001,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 534,
+                "OBJECTID": 535,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "Банатски Двор - запад",
                 "IZDATO": 1985,
@@ -34637,7 +35043,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 535,
+                "OBJECTID": 536,
                 "PODNOSILAC": "JAPONIK  DOO SUBOTICA",
                 "LEZISTE": "Површински коп Пашњак код Хоргоша",
                 "IZDATO": null,
@@ -34723,7 +35129,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 536,
+                "OBJECTID": 537,
                 "PODNOSILAC": "INOSLAVA PEŠIĆA PREDUZETNIK SAMOSTALNA RADNJA ZA PROIZVODNJU CIGLE",
                 "LEZISTE": " ",
                 "IZDATO": null,
@@ -34765,7 +35171,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 537,
+                "OBJECTID": 538,
                 "PODNOSILAC": "LINDE GAS SRBIJA INDUSTRIJA GASOVA AD",
                 "LEZISTE": " ",
                 "IZDATO": null,
@@ -34807,7 +35213,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 538,
+                "OBJECTID": 539,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "Бачка Топола",
                 "IZDATO": 1979,
@@ -34849,7 +35255,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 539,
+                "OBJECTID": 540,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "Мајдан",
                 "IZDATO": 2019,
@@ -34899,7 +35305,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 540,
+                "OBJECTID": 541,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "Гасно лежиште Николинци",
                 "IZDATO": 1971,
@@ -34949,7 +35355,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 541,
+                "OBJECTID": 542,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "Русанда плитко",
                 "IZDATO": 2020,
@@ -35003,7 +35409,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 542,
+                "OBJECTID": 543,
                 "PODNOSILAC": "STAMBO-COOP DOO SUBOTICA",
                 "LEZISTE": "лежиште песка као грађевинског материјала Хоргош код Хоргоша",
                 "IZDATO": 2022,
@@ -35057,7 +35463,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 543,
+                "OBJECTID": 544,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "Ада",
                 "IZDATO": 2022,
@@ -35103,7 +35509,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 544,
+                "OBJECTID": 545,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "нафтно-гасно поље Велебит",
                 "IZDATO": 2018,
@@ -35145,7 +35551,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 545,
+                "OBJECTID": 546,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "Јаношик запад",
                 "IZDATO": null,
@@ -35187,7 +35593,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 546,
+                "OBJECTID": 547,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "нафтно поље Турија север",
                 "IZDATO": 2018,
@@ -35245,7 +35651,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 547,
+                "OBJECTID": 548,
                 "PODNOSILAC": "SOJAPROTEIN DOO Bečej",
                 "LEZISTE": "Eксплоатациони простор изворишта \"Сојапротеин\" у Бечеју",
                 "IZDATO": 2023,
@@ -35287,7 +35693,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 548,
+                "OBJECTID": 549,
                 "PODNOSILAC": "AD POLET IGK NOVI BEČEJ",
                 "LEZISTE": "лежиште Гарајевац исток",
                 "IZDATO": null,
@@ -35373,7 +35779,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 549,
+                "OBJECTID": 550,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "Hidro - termalno nalazište Temerin",
                 "IZDATO": 1988,
@@ -35415,7 +35821,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 550,
+                "OBJECTID": 551,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": " гасокондензатно лежиште Наково",
                 "IZDATO": 1992,
@@ -35457,7 +35863,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 551,
+                "OBJECTID": 552,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "гаскондензатно лежиште  Кикинда Б",
                 "IZDATO": 1981,
@@ -35499,7 +35905,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 552,
+                "OBJECTID": 553,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "Житиште",
                 "IZDATO": 1989,
@@ -35541,7 +35947,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 553,
+                "OBJECTID": 554,
                 "PODNOSILAC": "SAMOSTALNA ZANATSKA RADNJA IZVOR VELIBOR VELIČKOVIĆ PREDUZETNIK VLASOTINCE",
                 "LEZISTE": "експлоатационо поље Циглана Уздин",
                 "IZDATO": 2020,
@@ -35583,7 +35989,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 554,
+                "OBJECTID": 555,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "гасно поље Банатско Пландише",
                 "IZDATO": 1968,
@@ -35621,7 +36027,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 555,
+                "OBJECTID": 556,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "експлоатационо поље Бока",
                 "IZDATO": 2019,
@@ -35667,7 +36073,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 556,
+                "OBJECTID": 557,
                 "PODNOSILAC": "DRAGAN POPOVIĆ PR EKSPLOATACIJA ŠLJUNKA TRKI BELA CRKVA",
                 "LEZISTE": "Поље 1",
                 "IZDATO": 2015,
@@ -35713,7 +36119,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 557,
+                "OBJECTID": 558,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "Зрењанин - север",
                 "IZDATO": 1991,
@@ -35755,7 +36161,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 558,
+                "OBJECTID": 559,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "Експлоатационо поље Палић-измењене границе",
                 "IZDATO": 2022,
@@ -35829,7 +36235,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 559,
+                "OBJECTID": 560,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "гасно поље Српска Црња-измена граница",
                 "IZDATO": 2022,
@@ -35899,7 +36305,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 560,
+                "OBJECTID": 561,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "Hidro-termalno nalazište Bečej",
                 "IZDATO": 1990,
@@ -35941,7 +36347,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 561,
+                "OBJECTID": 562,
                 "PODNOSILAC": "GRADJEVINSKO PREDUZEĆE SEVERNI BANAT AKCIONARSKO DRUŠTVO",
                 "LEZISTE": " ",
                 "IZDATO": null,
@@ -35983,7 +36389,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 562,
+                "OBJECTID": 563,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "Кикинда Ф2",
                 "IZDATO": null,
@@ -36025,7 +36431,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 563,
+                "OBJECTID": 564,
                 "PODNOSILAC": "PRIVREDNO DRUŠTVO ZA PODVODNU EKSPLOATACIJU UGLJA RUDNIK KOVIN AD KOVIN\t",
                 "LEZISTE": "Ковин небрањени део поља Ковин",
                 "IZDATO": null,
@@ -36127,7 +36533,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 564,
+                "OBJECTID": 565,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "Međa",
                 "IZDATO": 1971,
@@ -36169,7 +36575,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 565,
+                "OBJECTID": 566,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "Банатско Ново Село-југ",
                 "IZDATO": 1992,
@@ -36211,7 +36617,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 566,
+                "OBJECTID": 567,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "Банатско Ново Село",
                 "IZDATO": 1978,
@@ -36253,7 +36659,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 567,
+                "OBJECTID": 568,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "Експлоатационо поље Чантавир",
                 "IZDATO": 2020,
@@ -36295,7 +36701,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 568,
+                "OBJECTID": 569,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "Банатско Карађорђево",
                 "IZDATO": 2020,
@@ -36337,7 +36743,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 569,
+                "OBJECTID": 570,
                 "PODNOSILAC": "LAKE EXPLORER DOO BEOGRAD",
                 "LEZISTE": "лежиште Пашњак код Чоке",
                 "IZDATO": 2022,
@@ -36379,7 +36785,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 570,
+                "OBJECTID": 571,
                 "PODNOSILAC": "SONORA DOO SUBOTICA",
                 "LEZISTE": "Површински коп Доњи Таванкут код Суботице",
                 "IZDATO": 2023,
@@ -36421,7 +36827,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 571,
+                "OBJECTID": 572,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "Келебија",
                 "IZDATO": null,
@@ -36479,7 +36885,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 572,
+                "OBJECTID": 573,
                 "PODNOSILAC": "EKO GRADNJA DOO ZA PROIZVODNJU I UGRAĐIVANJE BETONSKE GALANTERIJE",
                 "LEZISTE": " ",
                 "IZDATO": null,
@@ -36529,7 +36935,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 573,
+                "OBJECTID": 574,
                 "PODNOSILAC": "VOJPUT DOO SUBOTICA",
                 "LEZISTE": "Келебија-Војпут",
                 "IZDATO": 2018,
@@ -36587,7 +36993,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 574,
+                "OBJECTID": 575,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "Експлоатационо поље Јаношик",
                 "IZDATO": null,
@@ -36629,7 +37035,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 575,
+                "OBJECTID": 576,
                 "PODNOSILAC": "AD POLET IGK NOVI BEČEJ",
                 "LEZISTE": "С.О. Сремски Карловци;К.О. Сремски Карловци",
                 "IZDATO": 2011,
@@ -36675,7 +37081,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 576,
+                "OBJECTID": 577,
                 "PODNOSILAC": "DRAGAN POPOVIĆ PR EKSPLOATACIJA ŠLJUNKA TRKI BELA CRKVA",
                 "LEZISTE": "Простор 4",
                 "IZDATO": 2017,
@@ -36725,7 +37131,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 577,
+                "OBJECTID": 578,
                 "PODNOSILAC": "SPORT VISION DOO BEOGRAD",
                 "LEZISTE": "Експлоатациони простор изворишта у кругу логистичког центра \"Sport Vision\" у Шимановцима",
                 "IZDATO": 2023,
@@ -36783,7 +37189,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 578,
+                "OBJECTID": 579,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "хидротермална бушотина Палић језеро Pj-1/H",
                 "IZDATO": null,
@@ -36825,7 +37231,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 579,
+                "OBJECTID": 580,
                 "PODNOSILAC": "DŽIMI COMMERCE DOO PRIGREVICA",
                 "LEZISTE": "DŽIMI COMMERCE DOO PRIGREVICA површински коп Мрциниште ко Пригревица",
                 "IZDATO": null,
@@ -36875,7 +37281,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 580,
+                "OBJECTID": 581,
                 "PODNOSILAC": "DAJ COOP DOO Zrenjanin",
                 "LEZISTE": "Мужља II код Зрењанина",
                 "IZDATO": 2019,
@@ -36917,7 +37323,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 581,
+                "OBJECTID": 582,
                 "PODNOSILAC": "LAFARGE BFC DOO BEOČIN",
                 "LEZISTE": "С.О. Сремска Митровица;К.О. Бешеново Прњавор",
                 "IZDATO": 1987,
@@ -36967,7 +37373,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 582,
+                "OBJECTID": 583,
                 "PODNOSILAC": "TOZA MARKOVIĆ DOO KIKINDA",
                 "LEZISTE": "Лежиште \"Источни ревир\"",
                 "IZDATO": 2006,
@@ -37037,7 +37443,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 583,
+                "OBJECTID": 584,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "Хидротермална бушотина Pb-1/H Пригревица Бања \"Јунаковић\"",
                 "IZDATO": 2005,
@@ -37079,7 +37485,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 584,
+                "OBJECTID": 585,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "Мартонош запад",
                 "IZDATO": 2019,
@@ -37121,7 +37527,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 585,
+                "OBJECTID": 586,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "Војвода Степа",
                 "IZDATO": 1990,
@@ -37163,7 +37569,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 586,
+                "OBJECTID": 587,
                 "PODNOSILAC": "CIGLANA I TRGOVINA TODOROVIĆ DOO za proizvodnju trgovinu i usluge Pećinci",
                 "LEZISTE": "Површински коп Циглане Тодоровић код Пећинаца",
                 "IZDATO": 2018,
@@ -37245,7 +37651,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 587,
+                "OBJECTID": 588,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "експлоатационо поље Банатско Милошево",
                 "IZDATO": 2020,
@@ -37287,7 +37693,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 588,
+                "OBJECTID": 589,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "гасно поље Српска Црња",
                 "IZDATO": 2022,
@@ -37329,7 +37735,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 589,
+                "OBJECTID": 590,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "нафтно-гасно лежиште Чока",
                 "IZDATO": 2022,
@@ -37371,7 +37777,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 590,
+                "OBJECTID": 591,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "Банатско Милошево",
                 "IZDATO": 1977,
@@ -37413,7 +37819,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 591,
+                "OBJECTID": 592,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "гасно поље Мартонош",
                 "IZDATO": 1986,
@@ -37455,7 +37861,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 592,
+                "OBJECTID": 593,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "Експлоатација лежишта пијаће воде на локалитету Јазак-Јазачки Прњавор",
                 "IZDATO": 2002,
@@ -37505,7 +37911,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 593,
+                "OBJECTID": 594,
                 "PODNOSILAC": "ECOAGRI SERBIA DOO BELA CRKVA",
                 "LEZISTE": "Мали Гај",
                 "IZDATO": 2013,
@@ -37555,7 +37961,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 594,
+                "OBJECTID": 595,
                 "PODNOSILAC": "ECOAGRI SERBIA DOO BELA CRKVA",
                 "LEZISTE": "Мали Гај",
                 "IZDATO": 2013,
@@ -37597,7 +38003,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 595,
+                "OBJECTID": 596,
                 "PODNOSILAC": " ",
                 "LEZISTE": " ",
                 "IZDATO": null,
@@ -37659,7 +38065,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 596,
+                "OBJECTID": 597,
                 "PODNOSILAC": "EKO GRADNJA DOO ZA PROIZVODNJU I UGRAĐIVANJE BETONSKE GALANTERIJE",
                 "LEZISTE": " ",
                 "IZDATO": null,
@@ -37721,7 +38127,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 597,
+                "OBJECTID": 598,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "Експлоатационо поље Келебија-измена граница ЕП",
                 "IZDATO": null,
@@ -37767,7 +38173,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 598,
+                "OBJECTID": 599,
                 "PODNOSILAC": "DELTA AGRAR DOO",
                 "LEZISTE": "Експлоатациони простор изворишта \"Фарма Челарево\" у Гложану",
                 "IZDATO": 2023,
@@ -37809,7 +38215,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 599,
+                "OBJECTID": 600,
                 "PODNOSILAC": "GRUNDFOS SRBIJA DOO INĐIJA",
                 "LEZISTE": "Експлоатациони простор сагледаних петрогеотермалних ресурса налазишта GRUNDFOS DOO у Инђији",
                 "IZDATO": 2023,
@@ -37855,7 +38261,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 600,
+                "OBJECTID": 601,
                 "PODNOSILAC": " ",
                 "LEZISTE": " ",
                 "IZDATO": null,
@@ -37925,7 +38331,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 601,
+                "OBJECTID": 602,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "Експлоатационо поље Горњи Брег-измена граница еп",
                 "IZDATO": 2023,
@@ -37975,7 +38381,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 602,
+                "OBJECTID": 603,
                 "PODNOSILAC": "INOSLAVA PEŠIĆA PREDUZETNIK SAMOSTALNA RADNJA ZA PROIZVODNJU CIGLE",
                 "LEZISTE": " ",
                 "IZDATO": null,
@@ -38017,7 +38423,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 603,
+                "OBJECTID": 604,
                 "PODNOSILAC": "INOSLAVA PEŠIĆA PREDUZETNIK SAMOSTALNA RADNJA ZA PROIZVODNJU CIGLE",
                 "LEZISTE": " ",
                 "IZDATO": null,
@@ -38059,7 +38465,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 604,
+                "OBJECTID": 605,
                 "PODNOSILAC": "NIS A.D. NOVI SAD",
                 "LEZISTE": "Нафтно гасно поље Елемир",
                 "IZDATO": 2018,
@@ -38125,7 +38531,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 605,
+                "OBJECTID": 606,
                 "PODNOSILAC": "EKO GRADNJA DOO ZA PROIZVODNJU I UGRAĐIVANJE BETONSKE GALANTERIJE",
                 "LEZISTE": " ",
                 "IZDATO": null,
@@ -38199,7 +38605,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 606,
+                "OBJECTID": 607,
                 "PODNOSILAC": "КАЗНЕНО-ПОПРАВНИ ЗАВОД СРЕМСКА МИТРОВИЦА",
                 "LEZISTE": "Експлоатациони простор изворишта Казнено поправног завода Сремска Митровица",
                 "IZDATO": 2021,
@@ -38241,7 +38647,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 607,
+                "OBJECTID": 608,
                 "PODNOSILAC": "VICTORIAOIL DOO",
                 "LEZISTE": "Експлоатациони простор изворишта Victoriaoil у Шиду",
                 "IZDATO": 2022,

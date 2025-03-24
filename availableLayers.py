@@ -1,10 +1,9 @@
 import requests
 
-import Consts
-
+BASE_URL = "https://gis.mre.gov.rs/arcgis/rest/services/OpenData/CISGIR/MapServer"
 
 def get():
-    response = requests.get(f"{Consts.BASE_URL}?f=json")
+    response = requests.get(f"{BASE_URL}?f=json")
     if response.status_code == 200:
         data = response.json()
         layers = data.get("layers", [])

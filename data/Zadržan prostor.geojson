@@ -3,7 +3,7 @@
     "features": [
         {
             "type": "Feature",
-            "id": 110,
+            "id": 108,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -188,7 +188,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 110,
+                "OBJECTID": 108,
                 "RB": 2389,
                 "NPO": "Pro Ore doo, Beograd",
                 "LOKALNOST": "aluvijon Bele reke",
@@ -204,92 +204,7 @@
         },
         {
             "type": "Feature",
-            "id": 115,
-            "geometry": {
-                "type": "Polygon",
-                "coordinates": [
-                    [
-                        [
-                            20.336553175859535,
-                            44.29421554927433
-                        ],
-                        [
-                            20.32044361632688,
-                            44.28939569659751
-                        ],
-                        [
-                            20.317931833832308,
-                            44.28989374245084
-                        ],
-                        [
-                            20.317980990448845,
-                            44.28564589818675
-                        ],
-                        [
-                            20.318607932177155,
-                            44.28560463827431
-                        ],
-                        [
-                            20.328122071093862,
-                            44.28741605330765
-                        ],
-                        [
-                            20.339956015789546,
-                            44.292480207323
-                        ],
-                        [
-                            20.34715411944255,
-                            44.28746341069371
-                        ],
-                        [
-                            20.34838821142177,
-                            44.28803747571195
-                        ],
-                        [
-                            20.342205880242375,
-                            44.29298820133518
-                        ],
-                        [
-                            20.342615375082218,
-                            44.29784171028081
-                        ],
-                        [
-                            20.34167300652839,
-                            44.29582022051265
-                        ],
-                        [
-                            20.34041994143308,
-                            44.29581299182357
-                        ],
-                        [
-                            20.340364213830668,
-                            44.29743272027293
-                        ],
-                        [
-                            20.336553175859535,
-                            44.29421554927433
-                        ]
-                    ]
-                ]
-            },
-            "properties": {
-                "OBJECTID": 115,
-                "RB": 2395,
-                "NPO": "Minel Kvarc doo, Lazarevac",
-                "LOKALNOST": "Brajkovac",
-                "SIROVINA": "kvarc",
-                "Shape.STArea()": 931876.5,
-                "Shape.STLength()": 7191.160737620996,
-                "OPSTINA": "Lazarevac",
-                "Opstina_provera": null,
-                "Ops_komentar": null,
-                "vr_sirovine": "Nemetali",
-                "nadleznost": "Ministarstvo rudarstva i energetike"
-            }
-        },
-        {
-            "type": "Feature",
-            "id": 130,
+            "id": 127,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -330,7 +245,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 130,
+                "OBJECTID": 127,
                 "RB": 2143,
                 "NPO": "Institut za rudarstvo i metalurgiju Bor",
                 "LOKALNOST": "staro flotacijsko jalovište (polje 1 i 2)",
@@ -346,7 +261,7 @@
         },
         {
             "type": "Feature",
-            "id": 139,
+            "id": 136,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -375,7 +290,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 139,
+                "OBJECTID": 136,
                 "RB": 2461,
                 "NPO": "Grubelić Panić doo, Valjevo",
                 "LOKALNOST": "Orlište",
@@ -391,7 +306,7 @@
         },
         {
             "type": "Feature",
-            "id": 144,
+            "id": 140,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -436,7 +351,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 144,
+                "OBJECTID": 140,
                 "RB": 2515,
                 "NPO": "Beaz Plus doo, Beograd",
                 "LOKALNOST": "Vinogradi jug",
@@ -452,7 +367,7 @@
         },
         {
             "type": "Feature",
-            "id": 146,
+            "id": 142,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -497,7 +412,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 146,
+                "OBJECTID": 142,
                 "RB": 2541,
                 "NPO": "Maxima doo, Lučani",
                 "LOKALNOST": "Jelen Do",
@@ -513,7 +428,7 @@
         },
         {
             "type": "Feature",
-            "id": 147,
+            "id": 143,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -550,7 +465,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 147,
+                "OBJECTID": 143,
                 "RB": 2542,
                 "NPO": "PZP Valjevo ad, Valjevo",
                 "LOKALNOST": "Komirić",
@@ -566,7 +481,7 @@
         },
         {
             "type": "Feature",
-            "id": 151,
+            "id": 147,
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
@@ -599,7 +514,7 @@
                 ]
             },
             "properties": {
-                "OBJECTID": 151,
+                "OBJECTID": 147,
                 "RB": 2531,
                 "NPO": "Balkan Mining Corporation doo, Požega",
                 "LOKALNOST": "Blagaja",

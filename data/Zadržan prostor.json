@@ -92,7 +92,7 @@
     "features": [
         {
             "attributes": {
-                "OBJECTID": 110,
+                "OBJECTID": 108,
                 "RB": 2389,
                 "NPO": "Pro Ore doo, Beograd",
                 "LOKALNOST": "aluvijon Bele reke",
@@ -290,89 +290,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 115,
-                "RB": 2395,
-                "NPO": "Minel Kvarc doo, Lazarevac",
-                "LOKALNOST": "Brajkovac",
-                "SIROVINA": "kvarc",
-                "Shape.STArea()": 931876.5,
-                "Shape.STLength()": 7191.160737620996,
-                "OPSTINA": "Lazarevac",
-                "Opstina_provera": null,
-                "Ops_komentar": null,
-                "vr_sirovine": "Nemetali",
-                "nadleznost": "Ministarstvo rudarstva i energetike"
-            },
-            "geometry": {
-                "rings": [
-                    [
-                        [
-                            2263854.744027014,
-                            5511086.18244627
-                        ],
-                        [
-                            2264278.9868333545,
-                            5511586.548527675
-                        ],
-                        [
-                            2264285.190401678,
-                            5511334.628999252
-                        ],
-                        [
-                            2264424.6809700183,
-                            5511335.753275946
-                        ],
-                        [
-                            2264529.5849575703,
-                            5511650.160641068
-                        ],
-                        [
-                            2264484.0002005165,
-                            5510895.300444842
-                        ],
-                        [
-                            2265172.2141593224,
-                            5510125.384529113
-                        ],
-                        [
-                            2265034.8356686034,
-                            5510036.11256354
-                        ],
-                        [
-                            2264233.5464352737,
-                            5510816.296375969
-                        ],
-                        [
-                            2262916.1977376747,
-                            5510028.748128434
-                        ],
-                        [
-                            2261857.08863813,
-                            5509747.063717345
-                        ],
-                        [
-                            2261787.2978041773,
-                            5509753.479750561
-                        ],
-                        [
-                            2261781.8257146557,
-                            5510414.055678718
-                        ],
-                        [
-                            2262061.436062935,
-                            5510336.602838379
-                        ],
-                        [
-                            2263854.744027014,
-                            5511086.18244627
-                        ]
-                    ]
-                ]
-            }
-        },
-        {
-            "attributes": {
-                "OBJECTID": 130,
+                "OBJECTID": 127,
                 "RB": 2143,
                 "NPO": "Institut za rudarstvo i metalurgiju Bor",
                 "LOKALNOST": "staro flotacijsko jalovište (polje 1 i 2)",
@@ -426,7 +344,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 139,
+                "OBJECTID": 136,
                 "RB": 2461,
                 "NPO": "Grubelić Panić doo, Valjevo",
                 "LOKALNOST": "Orlište",
@@ -468,7 +386,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 144,
+                "OBJECTID": 140,
                 "RB": 2515,
                 "NPO": "Beaz Plus doo, Beograd",
                 "LOKALNOST": "Vinogradi jug",
@@ -526,7 +444,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 146,
+                "OBJECTID": 142,
                 "RB": 2541,
                 "NPO": "Maxima doo, Lučani",
                 "LOKALNOST": "Jelen Do",
@@ -584,7 +502,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 147,
+                "OBJECTID": 143,
                 "RB": 2542,
                 "NPO": "PZP Valjevo ad, Valjevo",
                 "LOKALNOST": "Komirić",
@@ -634,7 +552,7 @@
         },
         {
             "attributes": {
-                "OBJECTID": 151,
+                "OBJECTID": 147,
                 "RB": 2531,
                 "NPO": "Balkan Mining Corporation doo, Požega",
                 "LOKALNOST": "Blagaja",
