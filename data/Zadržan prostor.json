@@ -1,0 +1,682 @@
+{
+    "displayFieldName": "NPO",
+    "fieldAliases": {
+        "OBJECTID": "OBJECTID",
+        "RB": "REDNI BROJ",
+        "NPO": "PREDUZEĆE",
+        "LOKALNOST": "LOKALITET",
+        "SIROVINA": "SIROVINA",
+        "Shape.STArea()": "Shape.STArea()",
+        "Shape.STLength()": "Shape.STLength()",
+        "OPSTINA": "OPŠTINA",
+        "Opstina_provera": "Opstina_provera",
+        "Ops_komentar": "Opština_komentar",
+        "vr_sirovine": "Vrsta sirovine",
+        "nadleznost": "Nadležnost"
+    },
+    "geometryType": "esriGeometryPolygon",
+    "spatialReference": {
+        "wkid": 102100,
+        "latestWkid": 3857
+    },
+    "fields": [
+        {
+            "name": "OBJECTID",
+            "type": "esriFieldTypeOID",
+            "alias": "OBJECTID"
+        },
+        {
+            "name": "RB",
+            "type": "esriFieldTypeInteger",
+            "alias": "REDNI BROJ"
+        },
+        {
+            "name": "NPO",
+            "type": "esriFieldTypeString",
+            "alias": "PREDUZEĆE",
+            "length": 254
+        },
+        {
+            "name": "LOKALNOST",
+            "type": "esriFieldTypeString",
+            "alias": "LOKALITET",
+            "length": 254
+        },
+        {
+            "name": "SIROVINA",
+            "type": "esriFieldTypeString",
+            "alias": "SIROVINA",
+            "length": 254
+        },
+        {
+            "name": "Shape.STArea()",
+            "type": "esriFieldTypeDouble",
+            "alias": "Shape.STArea()"
+        },
+        {
+            "name": "Shape.STLength()",
+            "type": "esriFieldTypeDouble",
+            "alias": "Shape.STLength()"
+        },
+        {
+            "name": "OPSTINA",
+            "type": "esriFieldTypeString",
+            "alias": "OPŠTINA",
+            "length": 254
+        },
+        {
+            "name": "Opstina_provera",
+            "type": "esriFieldTypeString",
+            "alias": "Opstina_provera",
+            "length": 50
+        },
+        {
+            "name": "Ops_komentar",
+            "type": "esriFieldTypeString",
+            "alias": "Opština_komentar",
+            "length": 255
+        },
+        {
+            "name": "vr_sirovine",
+            "type": "esriFieldTypeString",
+            "alias": "Vrsta sirovine",
+            "length": 50
+        },
+        {
+            "name": "nadleznost",
+            "type": "esriFieldTypeString",
+            "alias": "Nadležnost",
+            "length": 50
+        }
+    ],
+    "features": [
+        {
+            "attributes": {
+                "OBJECTID": 110,
+                "RB": 2389,
+                "NPO": "Pro Ore doo, Beograd",
+                "LOKALNOST": "aluvijon Bele reke",
+                "SIROVINA": "sekundarna koncentracija zlata",
+                "Shape.STArea()": 20385015,
+                "Shape.STLength()": 54491.265708948726,
+                "OPSTINA": "Bor, Zaječar",
+                "Opstina_provera": null,
+                "Ops_komentar": null,
+                "vr_sirovine": "Metali",
+                "nadleznost": "Ministarstvo rudarstva i energetike"
+            },
+            "geometry": {
+                "rings": [
+                    [
+                        [
+                            2472070.7781352,
+                            5472387.498085487
+                        ],
+                        [
+                            2472390.833323625,
+                            5471476.783854638
+                        ],
+                        [
+                            2472514.5464672013,
+                            5471388.546241073
+                        ],
+                        [
+                            2471937.1856983807,
+                            5471323.17181804
+                        ],
+                        [
+                            2473095.971047676,
+                            5470501.9209266305
+                        ],
+                        [
+                            2473479.863208455,
+                            5469976.416352384
+                        ],
+                        [
+                            2473755.4877314246,
+                            5469832.964773873
+                        ],
+                        [
+                            2474037.29199423,
+                            5470107.479069924
+                        ],
+                        [
+                            2474053.2456209897,
+                            5470153.229388889
+                        ],
+                        [
+                            2474868.275031851,
+                            5469955.694851689
+                        ],
+                        [
+                            2474839.9711230863,
+                            5470106.624597479
+                        ],
+                        [
+                            2475170.9424464726,
+                            5470229.864798641
+                        ],
+                        [
+                            2475712.494579614,
+                            5471615.407066294
+                        ],
+                        [
+                            2475663.737435104,
+                            5472996.112648813
+                        ],
+                        [
+                            2475329.2338306615,
+                            5473851.542337462
+                        ],
+                        [
+                            2474799.5122439344,
+                            5476529.671315938
+                        ],
+                        [
+                            2475630.0203801976,
+                            5477235.3895242065
+                        ],
+                        [
+                            2476213.3571600704,
+                            5475825.048046993
+                        ],
+                        [
+                            2476771.353927711,
+                            5473209.342902832
+                        ],
+                        [
+                            2476077.764503879,
+                            5471428.692982861
+                        ],
+                        [
+                            2475996.2663121144,
+                            5469701.803868023
+                        ],
+                        [
+                            2477683.845807294,
+                            5468536.302541375
+                        ],
+                        [
+                            2477747.98870817,
+                            5468462.867071327
+                        ],
+                        [
+                            2477807.510400673,
+                            5468450.808789745
+                        ],
+                        [
+                            2478586.5655131224,
+                            5467913.571617556
+                        ],
+                        [
+                            2478583.902179231,
+                            5467739.458297291
+                        ],
+                        [
+                            2478840.6922395234,
+                            5467735.4993362455
+                        ],
+                        [
+                            2479850.3755072695,
+                            5467037.211086582
+                        ],
+                        [
+                            2481571.4919563294,
+                            5463904.1838812325
+                        ],
+                        [
+                            2486139.860738661,
+                            5459751.697339637
+                        ],
+                        [
+                            2488513.2551860604,
+                            5460680.406948196
+                        ],
+                        [
+                            2488881.649375932,
+                            5461572.315944032
+                        ],
+                        [
+                            2489800.704433656,
+                            5462615.290854251
+                        ],
+                        [
+                            2490327.4848410194,
+                            5463003.376899629
+                        ],
+                        [
+                            2490388.775946818,
+                            5462514.9894628115
+                        ],
+                        [
+                            2489772.6135354307,
+                            5460492.514316829
+                        ],
+                        [
+                            2484763.2852220037,
+                            5454763.978159292
+                        ],
+                        [
+                            2484335.995887399,
+                            5459718.127380246
+                        ],
+                        [
+                            2481523.8438942875,
+                            5462185.175574645
+                        ],
+                        [
+                            2479262.622303603,
+                            5466732.8799602445
+                        ],
+                        [
+                            2475982.8769429275,
+                            5468810.198307224
+                        ],
+                        [
+                            2473269.7225034474,
+                            5469380.323127326
+                        ],
+                        [
+                            2471670.3049239726,
+                            5471118.024352615
+                        ],
+                        [
+                            2472070.7781352,
+                            5472387.498085487
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 115,
+                "RB": 2395,
+                "NPO": "Minel Kvarc doo, Lazarevac",
+                "LOKALNOST": "Brajkovac",
+                "SIROVINA": "kvarc",
+                "Shape.STArea()": 931876.5,
+                "Shape.STLength()": 7191.160737620996,
+                "OPSTINA": "Lazarevac",
+                "Opstina_provera": null,
+                "Ops_komentar": null,
+                "vr_sirovine": "Nemetali",
+                "nadleznost": "Ministarstvo rudarstva i energetike"
+            },
+            "geometry": {
+                "rings": [
+                    [
+                        [
+                            2263854.744027014,
+                            5511086.18244627
+                        ],
+                        [
+                            2264278.9868333545,
+                            5511586.548527675
+                        ],
+                        [
+                            2264285.190401678,
+                            5511334.628999252
+                        ],
+                        [
+                            2264424.6809700183,
+                            5511335.753275946
+                        ],
+                        [
+                            2264529.5849575703,
+                            5511650.160641068
+                        ],
+                        [
+                            2264484.0002005165,
+                            5510895.300444842
+                        ],
+                        [
+                            2265172.2141593224,
+                            5510125.384529113
+                        ],
+                        [
+                            2265034.8356686034,
+                            5510036.11256354
+                        ],
+                        [
+                            2264233.5464352737,
+                            5510816.296375969
+                        ],
+                        [
+                            2262916.1977376747,
+                            5510028.748128434
+                        ],
+                        [
+                            2261857.08863813,
+                            5509747.063717345
+                        ],
+                        [
+                            2261787.2978041773,
+                            5509753.479750561
+                        ],
+                        [
+                            2261781.8257146557,
+                            5510414.055678718
+                        ],
+                        [
+                            2262061.436062935,
+                            5510336.602838379
+                        ],
+                        [
+                            2263854.744027014,
+                            5511086.18244627
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 130,
+                "RB": 2143,
+                "NPO": "Institut za rudarstvo i metalurgiju Bor",
+                "LOKALNOST": "staro flotacijsko jalovište (polje 1 i 2)",
+                "SIROVINA": "tehnogena mineralna sirovina",
+                "Shape.STArea()": 1243040,
+                "Shape.STLength()": 5300.426574160561,
+                "OPSTINA": "Bor",
+                "Opstina_provera": null,
+                "Ops_komentar": null,
+                "vr_sirovine": "Metali",
+                "nadleznost": "Ministarstvo rudarstva i energetike"
+            },
+            "geometry": {
+                "rings": [
+                    [
+                        [
+                            2463051.385190505,
+                            5475443.3621410895
+                        ],
+                        [
+                            2463170.9901660825,
+                            5474737.584364998
+                        ],
+                        [
+                            2460637.8993751714,
+                            5475455.232253845
+                        ],
+                        [
+                            2460639.652299003,
+                            5476626.566088979
+                        ],
+                        [
+                            2460794.5465714764,
+                            5476777.883744502
+                        ],
+                        [
+                            2461275.252846474,
+                            5476353.029776022
+                        ],
+                        [
+                            2461758.734132729,
+                            5476137.303125836
+                        ],
+                        [
+                            2463051.385190505,
+                            5475443.3621410895
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 139,
+                "RB": 2461,
+                "NPO": "Grubelić Panić doo, Valjevo",
+                "LOKALNOST": "Orlište",
+                "SIROVINA": "krečnjak kao TGK",
+                "Shape.STArea()": 601600,
+                "Shape.STLength()": 3160,
+                "OPSTINA": "Kuršumlija",
+                "Opstina_provera": null,
+                "Ops_komentar": null,
+                "vr_sirovine": "Nemetali",
+                "nadleznost": "Ministarstvo rudarstva i energetike"
+            },
+            "geometry": {
+                "rings": [
+                    [
+                        [
+                            2365222.492791445,
+                            5314411.241178519
+                        ],
+                        [
+                            2366506.22103879,
+                            5314407.361360757
+                        ],
+                        [
+                            2366503.5293368283,
+                            5313530.22584446
+                        ],
+                        [
+                            2365219.9210789404,
+                            5313534.104521437
+                        ],
+                        [
+                            2365222.492791445,
+                            5314411.241178519
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 144,
+                "RB": 2515,
+                "NPO": "Beaz Plus doo, Beograd",
+                "LOKALNOST": "Vinogradi jug",
+                "SIROVINA": "mermer i mermerisani krečnjak kao karb. sir. i TGK",
+                "Shape.STArea()": 157356,
+                "Shape.STLength()": 1788,
+                "OPSTINA": "Aranđelovac, Topola",
+                "Opstina_provera": null,
+                "Ops_komentar": null,
+                "vr_sirovine": "Nemetali",
+                "nadleznost": "Ministarstvo rudarstva i energetike"
+            },
+            "geometry": {
+                "rings": [
+                    [
+                        [
+                            2293323.2510198676,
+                            5506764.334072613
+                        ],
+                        [
+                            2293880.9588235593,
+                            5506767.035413314
+                        ],
+                        [
+                            2293883.299273677,
+                            5506277.367335879
+                        ],
+                        [
+                            2293311.679305732,
+                            5506274.598474994
+                        ],
+                        [
+                            2293311.0425677295,
+                            5506406.106658541
+                        ],
+                        [
+                            2293124.2178674857,
+                            5506405.19389471
+                        ],
+                        [
+                            2293123.442366493,
+                            5506564.685007487
+                        ],
+                        [
+                            2293324.2127026827,
+                            5506565.665786372
+                        ],
+                        [
+                            2293323.2510198676,
+                            5506764.334072613
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 146,
+                "RB": 2541,
+                "NPO": "Maxima doo, Lučani",
+                "LOKALNOST": "Jelen Do",
+                "SIROVINA": "krečnjak kao TGK",
+                "Shape.STArea()": 1901977.5,
+                "Shape.STLength()": 5822.583186187459,
+                "OPSTINA": "Požega",
+                "Opstina_provera": null,
+                "Ops_komentar": null,
+                "vr_sirovine": "Nemetali",
+                "nadleznost": "Ministarstvo rudarstva i energetike"
+            },
+            "geometry": {
+                "rings": [
+                    [
+                        [
+                            2237066.34216149,
+                            5451215.536878001
+                        ],
+                        [
+                            2238550.267551153,
+                            5449960.652689927
+                        ],
+                        [
+                            2238712.347405531,
+                            5449965.185867693
+                        ],
+                        [
+                            2238985.3982425914,
+                            5449570.438393485
+                        ],
+                        [
+                            2238722.111818878,
+                            5449313.140194653
+                        ],
+                        [
+                            2238303.9520206945,
+                            5449414.290825581
+                        ],
+                        [
+                            2237187.825515622,
+                            5448841.7727313135
+                        ],
+                        [
+                            2235883.940782942,
+                            5449980.088427201
+                        ],
+                        [
+                            2237066.34216149,
+                            5451215.536878001
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 147,
+                "RB": 2542,
+                "NPO": "PZP Valjevo ad, Valjevo",
+                "LOKALNOST": "Komirić",
+                "SIROVINA": "krečnjak kao TGK",
+                "Shape.STArea()": 410675,
+                "Shape.STLength()": 2469.2175152300865,
+                "OPSTINA": "Osečina",
+                "Opstina_provera": null,
+                "Ops_komentar": null,
+                "vr_sirovine": "Nemetali",
+                "nadleznost": "Ministarstvo rudarstva i energetike"
+            },
+            "geometry": {
+                "rings": [
+                    [
+                        [
+                            2177101.004017378,
+                            5529478.72525579
+                        ],
+                        [
+                            2177588.839554749,
+                            5529557.468691067
+                        ],
+                        [
+                            2177841.0957671152,
+                            5528720.4065950895
+                        ],
+                        [
+                            2177623.678389178,
+                            5528365.971815852
+                        ],
+                        [
+                            2176964.3062242186,
+                            5528508.589652221
+                        ],
+                        [
+                            2176928.5978074977,
+                            5528949.728693352
+                        ],
+                        [
+                            2177101.004017378,
+                            5529478.72525579
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "attributes": {
+                "OBJECTID": 151,
+                "RB": 2531,
+                "NPO": "Balkan Mining Corporation doo, Požega",
+                "LOKALNOST": "Blagaja",
+                "SIROVINA": "krečnjak kao AGK",
+                "Shape.STArea()": 95000,
+                "Shape.STLength()": 1203.368876780841,
+                "OPSTINA": "Požega",
+                "Opstina_provera": null,
+                "Ops_komentar": null,
+                "vr_sirovine": "Nemetali",
+                "nadleznost": "Ministarstvo rudarstva i energetike"
+            },
+            "geometry": {
+                "rings": [
+                    [
+                        [
+                            2229821.611765902,
+                            5428980.051876724
+                        ],
+                        [
+                            2230098.8945742934,
+                            5428913.932409825
+                        ],
+                        [
+                            2230102.9277471784,
+                            5428567.131312145
+                        ],
+                        [
+                            2229688.232327975,
+                            5428562.2654178
+                        ],
+                        [
+                            2229546.757597996,
+                            5428838.078540522
+                        ],
+                        [
+                            2229821.611765902,
+                            5428980.051876724
+                        ]
+                    ]
+                ]
+            }
+        }
+    ]
+}
