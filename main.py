@@ -1,14 +1,11 @@
 import available_layers
-import change_crs_and_store_to_postgis
 import download_all_layers_to_json_and_geojson
-import download_layer_to_gpkg
-import store_layer_to_postgis
 import utils
 
 
 def main():
     actions = {
-        "1": lambda: available_layers.list(),
+        "1": lambda: available_layers.preview(),
         "2": lambda: download_all_layers_to_json_and_geojson.download(),
         "3": lambda: utils.handle_layer_action("download_gpkg", utils.get_layer_id()),
         "4": lambda: utils.handle_layer_action("store_postgis", utils.get_layer_id()),

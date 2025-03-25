@@ -2,6 +2,7 @@ import requests
 
 URL = "https://gis.mre.gov.rs/arcgis/rest/services/OpenData/CISGIR/MapServer"
 
+
 def get():
     """
         Funkcija koja salje GET zahtev ArcGIS REST servisu da bi dobila informacije o dostupnim layerima.
@@ -17,7 +18,7 @@ def get():
     return []
 
 
-def list():
+def preview():
     """
         Funkcija koja koristi funkciju 'get' da bi dobila listu layera,
         a zatim ih ispisuje na ekranu.

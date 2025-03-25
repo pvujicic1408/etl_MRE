@@ -1,9 +1,10 @@
+import requests
+import geopandas as gpd
+
 import available_layers
 import change_crs_and_store_to_postgis
 import download_layer_to_gpkg
 import store_layer_to_postgis
-import requests
-import geopandas as gpd
 
 URL = "https://gis.mre.gov.rs/arcgis/rest/services/OpenData/CISGIR/MapServer"
 
@@ -29,7 +30,7 @@ def handle_layer_action(action, layer_id):
 
 def get_layer_id():
     """Ispisi dostupne layere, zatrazi i proveri unos ID layera od korisnika."""
-    available_layers.list()
+    available_layers.preview()
     layer_id = input("Upisite ID layera: ")
     if validate_layer_id(layer_id):
         return layer_id
