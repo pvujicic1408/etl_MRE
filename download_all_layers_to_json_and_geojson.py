@@ -4,11 +4,18 @@ import os
 
 import available_layers
 
-BASE_URL = "https://gis.mre.gov.rs/arcgis/rest/services/OpenData/CISGIR/MapServer"
+URL = "https://gis.mre.gov.rs/arcgis/rest/services/OpenData/CISGIR/MapServer"
 
 
 def download_layer_data(layer_id, layer_name):
-    query_url = f"{BASE_URL}/{layer_id}/query"
+    """
+       Funkcija koja preuzima podatke za određeni layer sa ArcGIS REST servisa i cuva ih u JSON i GeoJSON formatima.
+
+       Parameters:
+           layer_id (int): ID sloja sa ArcGIS servisa.
+           layer_name (str): Ime sloja koje se koristi za naziv fajla.
+    """
+    query_url = f"{URL}/{layer_id}/query"
     params = {
         "where": "1=1",
         "outFields": "*",

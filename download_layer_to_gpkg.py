@@ -4,6 +4,16 @@ import download_layer
 
 
 def download(layer_id):
+    """
+        Funkcija koja preuzima podatke za layer, postavlja koordinatni referentni sistem
+        i cuva podatke u GeoPackage formatu.
+
+        Parameters:
+            layer_id (int): ID sloja koji se preuzima i konvertuje.
+
+        Returns:
+            gdf (GeoDataFrame): GeoDataFrame sa podacima za sloj.
+    """
     os.makedirs("datasets", exist_ok=True)
     gdf = download_layer.download(layer_id)
     gpkg_path = f"datasets/dataset_{layer_id}.gpkg"

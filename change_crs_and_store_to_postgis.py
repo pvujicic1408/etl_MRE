@@ -4,6 +4,13 @@ import pandas as pd
 
 
 def change_and_store(layer_id):
+    """
+        Funkcija koja preuzima layer, transformise koordinate iz EPSG:4326 u EPSG:32634, dodaje datum upisa i
+        upisuje podatke u PostgreSQL bazu podataka sa PostGIS ekstenzijom.
+
+        Args:
+        - layer_id: ID sloja koji se preuzima i transformise
+    """
     gdf = download_layer.download(layer_id)
 
     if gdf is not None:
@@ -15,3 +22,5 @@ def change_and_store(layer_id):
         gdf.to_postgis(table_name, create_engine.create(), if_exists="replace", index=False)
         print(
             f"Podaci za sloj {layer_id} sa transformisanim koordinatama su uspesno upisani u tabelu {table_name} u PostgreSQL bazi.")
+    else:
+        print(f"Greska: Podaci za sloj {layer_id} nisu preuzeti.")
