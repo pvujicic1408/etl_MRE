@@ -1,5 +1,5 @@
 import create_engine
-import download_layer
+import utils
 
 
 def store(layer_id):
@@ -10,7 +10,7 @@ def store(layer_id):
         Args:
         layer_id (int): ID layera ciji se podaci preuzimaju i upisuju u bazu.
     """
-    gdf = download_layer.download(layer_id)
+    gdf = utils.download_layer(layer_id)
     if gdf is not None:
         table_name = f"layer_{layer_id}"
         gdf.to_postgis(table_name, create_engine.create(), if_exists="replace", index=False)

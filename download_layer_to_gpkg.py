@@ -1,6 +1,6 @@
 import os
 
-import download_layer
+import utils
 
 
 def download(layer_id):
@@ -15,7 +15,7 @@ def download(layer_id):
             gdf (GeoDataFrame): GeoDataFrame sa podacima za sloj.
     """
     os.makedirs("datasets", exist_ok=True)
-    gdf = download_layer.download(layer_id)
+    gdf = utils.download_layer(layer_id)
     gpkg_path = f"datasets/dataset_{layer_id}.gpkg"
     gdf.set_crs(epsg=4326, inplace=True)
     gdf.to_file(gpkg_path, layer=f"layer_{layer_id}", driver="GPKG")

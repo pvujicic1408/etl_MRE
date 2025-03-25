@@ -3,9 +3,19 @@ import change_crs_and_store_to_postgis
 import download_all_layers_to_json_and_geojson
 import download_layer_to_gpkg
 import store_layer_to_postgis
+import utils
 
 
 def main():
+    actions = {
+        "1": lambda: available_layers.list(),
+        "2": lambda: download_all_layers_to_json_and_geojson.download(),
+        "3": lambda: utils.handle_layer_action("download_gpkg", utils.get_layer_id()),
+        "4": lambda: utils.handle_layer_action("store_postgis", utils.get_layer_id()),
+        "5": lambda: utils.handle_layer_action("change_crs_postgis", utils.get_layer_id()),
+        "6": lambda: exit()
+    }
+
     while True:
         print("\nIzaberite opciju:")
         print("1. Proveri dostupne slojeve")
@@ -17,24 +27,8 @@ def main():
 
         choice = input("Unesi broj opcije:")
 
-        if choice == "1":
-            available_layers.list()
-        elif choice == "2":
-            download_all_layers_to_json_and_geojson.download()
-        elif choice == "3":
-            available_layers.list()
-            layer_id = input("Upisite ID sloja: ")
-            download_layer_to_gpkg.download(layer_id)
-        elif choice == "4":
-            available_layers.list()
-            layer_id = input("Upisite ID sloja: ")
-            store_layer_to_postgis.store(layer_id)
-        elif choice == "5":
-            available_layers.list()
-            layer_id = input("Upisite ID sloja: ")
-            change_crs_and_store_to_postgis.change_and_store(layer_id)
-        elif choice == "6":
-            break
+        if choice in actions:
+            actions[choice]()
         else:
             print("Pogresan unos. Unesite broj izmedju 1 i 6.")
 

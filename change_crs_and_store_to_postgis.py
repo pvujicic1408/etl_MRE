@@ -1,5 +1,5 @@
 import create_engine
-import download_layer
+import utils
 import pandas as pd
 
 
@@ -11,7 +11,7 @@ def change_and_store(layer_id):
         Args:
         - layer_id: ID sloja koji se preuzima i transformise
     """
-    gdf = download_layer.download(layer_id)
+    gdf = utils.download_layer(layer_id)
 
     if gdf is not None:
         gdf = gdf.to_crs("EPSG:32634")
