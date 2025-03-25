@@ -1,0 +1,17 @@
+import create_engine
+import download_layer
+import pandas as pd
+
+
+def change_and_store(layer_id):
+    gdf = download_layer.download(layer_id)
+
+    if gdf is not None:
+        gdf = gdf.to_crs("EPSG:32634")
+        gdf['datum_upisa'] = pd.to_datetime('now').strftime('%d-%m-%Y %H-%M-%S')
+        gdf.columns = [col.lower().replace(' ', '_') for col in gdf.columns]
+
+        table_name = f"layer_{layer_id}_transformed"
+        gdf.to_postgis(table_name, create_engine.create(), if_exists="replace", index=False)
+        print(
+            f"Podaci za sloj {layer_id} sa transformisanim koordinatama su uspesno upisani u tabelu {table_name} u PostgreSQL bazi.")

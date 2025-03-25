@@ -1,7 +1,9 @@
-import glavniMeni
+import glavni_meni
+
 
 def main():
-    glavniMeni.prikaziOpcije()
+    glavni_meni.prikazi_opcije()
+
 
 if __name__ == "__main__":
-   main()
+    main()

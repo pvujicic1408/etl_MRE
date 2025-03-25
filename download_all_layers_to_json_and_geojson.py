@@ -2,11 +2,12 @@ import requests
 import json
 import os
 
-import availableLayers
+import available_layers
 
 BASE_URL = "https://gis.mre.gov.rs/arcgis/rest/services/OpenData/CISGIR/MapServer"
 
-def downloadLayerData(layer_id, layer_name):
+
+def download_layer_data(layer_id, layer_name):
     query_url = f"{BASE_URL}/{layer_id}/query"
     params = {
         "where": "1=1",
@@ -24,7 +25,7 @@ def downloadLayerData(layer_id, layer_name):
         json_path = f"data/{layer_name}.json"
         with open(json_path, "w", encoding="utf-8") as json_file:
             json.dump(data, json_file, ensure_ascii=False, indent=4)
-        print(f"Sačuvan JSON: {json_path}")
+        print(f"Sacuvan JSON: {json_path}")
 
         geojson_params = params.copy()
         geojson_params["f"] = "geojson"
@@ -35,16 +36,15 @@ def downloadLayerData(layer_id, layer_name):
             geojson_path = f"data/{layer_name}.geojson"
             with open(geojson_path, "w", encoding="utf-8") as geojson_file:
                 json.dump(geojson_data, geojson_file, ensure_ascii=False, indent=4)
-            print(f"Sačuvan GeoJSON: {geojson_path}")
+            print(f"Sacuvan GeoJSON: {geojson_path}")
         else:
-            print(f"Greška pri preuzimanju GeoJSON podataka za sloj {layer_name}")
+            print(f"Greska pri preuzimanju GeoJSON podataka za sloj {layer_name}")
 
     else:
-        print(f"Greška pri preuzimanju podataka za sloj {layer_name} - Status kod: {response.status_code}")
+        print(f"Greska pri preuzimanju podataka za sloj {layer_name} - Status kod: {response.status_code}")
 
 
 def download():
-    layers = availableLayers.get()
-    formats = ["json", "geojson"]
+    layers = available_layers.get()
     for layer_id, layer_name in layers:
-       downloadLayerData(layer_id, layer_name)
+        download_layer_data(layer_id, layer_name)
