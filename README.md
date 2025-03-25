@@ -8,5 +8,5 @@ c) preuzimaju parametarski definisano u određeni dataset koji je dostupan na li
 
 d) preuzimaju parametarski definisano određeni dataset koji je dostupan na linku i upisuje ga u lokalnu postgres bazu koja ima postgis ekstenziju
 
-e) preuzimaju parametarski definisano određeni dataset koji je dostupan na linku i upisuje ga u lokalnu postgres bazu koja ima postgis ekstenziju i 
+e) preuzimaju parametarski definisano odredjeni dataset koji je dostupan na linku i upisuje ga u lokalnu postgres bazu koja ima postgis ekstenziju i 
 transformiše podatke iz EPSG:4326 u EPSG:32634 i preimenuje kolone tako da nazivi budu malim slovima bez razmaka, sa dodatom kolonom datum_upisa (klona koja označava kada su podaci sinhronizovani)
