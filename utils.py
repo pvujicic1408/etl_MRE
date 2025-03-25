@@ -13,7 +13,6 @@ def validate_layer_id(layer_id):
     """Proverava da li je ID layera validan."""
     available_layer_ids = [str(layer[0]) for layer in available_layers.get()]
     if layer_id not in available_layer_ids:
-        print(f"Layer sa ID {layer_id} nije dostupan.")
         return False
     return True
 
@@ -32,10 +31,12 @@ def get_layer_id():
     """Ispisi dostupne layere, zatrazi i proveri unos ID layera od korisnika."""
     available_layers.preview()
     layer_id = input("Upisite ID layera: ")
-    if validate_layer_id(layer_id):
-        return layer_id
-    else:
-        return None
+
+    while not validate_layer_id(layer_id):
+        print(f"Layer sa ID {layer_id} nije dostupan.")
+        layer_id = input("Upisite ID layera: ")
+
+    return layer_id
 
 
 def download_layer(layer_id):
