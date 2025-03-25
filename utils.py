@@ -46,7 +46,7 @@ def download_layer(layer_id):
             layer_id (int): ID sloja koji zelimo da preuzmemo sa ArcGIS servisa.
 
         Returns:
-            gdf (GeoDataFrame): GeoDataFrame sa podacima za sloj, ili None ako dođe do greske.
+            gdf (GeoDataFrame): GeoDataFrame sa podacima za sloj, ili None ako dodje do greske.
     """
     query_url = f"{URL}/{layer_id}/query"
     params = {
